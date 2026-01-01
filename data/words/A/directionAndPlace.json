@@ -1,0 +1,245 @@
+{
+    "theme": "Directions/Places",
+    "cards": [
+        {
+            "id": "directionAndPlace-001",
+            "hungarian": "jobbra",
+            "english": "right",
+            "example": "Turn right at the next street.",
+            "exampleHu": "Fordulj jobbra a következő utcánál.",
+            "image": "right.webp"
+        },
+        {
+            "id": "directionAndPlace-002",
+            "hungarian": "balra",
+            "english": "left",
+            "example": "Take the first left after the traffic light.",
+            "exampleHu": "Fordulj be az első utcán balra a lámpánál.",
+            "image": "left.webp"
+        },
+        {
+            "id": "directionAndPlace-003",
+            "hungarian": "egyenesen",
+            "english": "straight",
+            "example": "Go straight for two blocks.",
+            "exampleHu": "Menj egyenesen két háztömböt.",
+            "image": "straight.webp"
+        },
+        {
+            "id": "directionAndPlace-004",
+            "hungarian": "közel",
+            "english": "near",
+            "example": "The park is near the school.",
+            "exampleHu": "A park közel van az iskolához.",
+            "image": "near.webp"
+        },
+        {
+            "id": "directionAndPlace-005",
+            "hungarian": "messze",
+            "english": "far",
+            "example": "The supermarket is far from here.",
+            "exampleHu": "A szupermarket messze van innen.",
+            "image": "far.webp"
+        },
+        {
+            "id": "directionAndPlace-006",
+            "hungarian": "távolság",
+            "english": "distance",
+            "example": "The distance between the two cities is 100 km.",
+            "exampleHu": "A távolság a két város között 100 km.",
+            "image": "distance.webp"
+        },
+        {
+            "id": "directionAndPlace-007",
+            "hungarian": "utca",
+            "english": "street",
+            "example": "The shop is on Main Street.",
+            "exampleHu": "A bolt a Fő utcán van.",
+            "image": "street.webp"
+        },
+        {
+            "id": "directionAndPlace-008",
+            "hungarian": "tér",
+            "english": "square",
+            "example": "Meet me at the city square.",
+            "exampleHu": "Találkozzunk a városi téren.",
+            "image": "square.webp"
+        },
+        {
+            "id": "directionAndPlace-009",
+            "hungarian": "út",
+            "english": "road",
+            "example": "This road leads to the beach.",
+            "exampleHu": "Ez az út a strandra vezet.",
+            "image": "road.webp"
+        },
+        {
+            "id": "directionAndPlace-010",
+            "hungarian": "útkereszteződés",
+            "english": "crossroad",
+            "example": "Stop at the crossroad and look both ways.",
+            "exampleHu": "Állj meg az útkereszteződésnél, és nézz mindkét irányba.",
+            "image": "crossroad.webp"
+        },
+        {
+            "id": "directionAndPlace-011",
+            "hungarian": "forgalom",
+            "english": "traffic",
+            "example": "There is heavy traffic during rush hour.",
+            "exampleHu": "Csúcsidőben nagy a forgalom.",
+            "image": "traffic.webp"
+        },
+        {
+            "id": "directionAndPlace-012",
+            "hungarian": "útjelző tábla",
+            "english": "sign",
+            "example": "Follow the sign to the museum.",
+            "exampleHu": "Kövesd az útjelző táblát a múzeumhoz.",
+            "image": "sign.webp"
+        },
+        {
+            "id": "directionAndPlace-013",
+            "hungarian": "parkoló",
+            "english": "parking lot",
+            "example": "The parking lot is full today.",
+            "exampleHu": "A parkoló ma tele van.",
+            "image": "parking_lot.webp"
+        },
+        {
+            "id": "directionAndPlace-014",
+            "hungarian": "híd",
+            "english": "bridge",
+            "example": "Cross the bridge to get to the other side.",
+            "exampleHu": "Keljen át a hídon, hogy a másik oldalra jusson.",
+            "image": "bridge.webp"
+        },
+        {
+            "id": "directionAndPlace-015",
+            "hungarian": "tengerpart",
+            "english": "beach",
+            "example": "We spent the day at the beach.",
+            "exampleHu": "Egész nap a tengerparton töltöttük.",
+            "image": "beach.webp"
+        },
+        {
+            "id": "directionAndPlace-016",
+            "hungarian": "park",
+            "english": "park",
+            "example": "Children are playing in the park.",
+            "exampleHu": "A gyerekek a parkban játszanak.",
+            "image": "park.webp"
+        },
+        {
+            "id": "directionAndPlace-017",
+            "hungarian": "állomás",
+            "english": "station",
+            "example": "The station is five minutes away.",
+            "exampleHu": "Az állomás öt perc távolságra van.",
+            "image": "station.webp"
+        },
+        {
+            "id": "directionAndPlace-018",
+            "hungarian": "központ",
+            "english": "center",
+            "example": "The city center is always busy.",
+            "exampleHu": "A városközpont mindig nyüzsgő.",
+            "image": "center.webp"
+        },
+        {
+            "id": "directionAndPlace-019",
+            "hungarian": "mozi",
+            "english": "cinema",
+            "example": "Let's go to the cinema tonight.",
+            "exampleHu": "Menjünk moziba ma este.",
+            "image": "cinema.webp"
+        },
+        {
+            "id": "directionAndPlace-020",
+            "hungarian": "templom",
+            "english": "church",
+            "example": "The church is next to the school.",
+            "exampleHu": "A templom az iskola mellett van.",
+            "image": "church.webp"
+        },
+        {
+            "id": "directionAndPlace-021",
+            "hungarian": "bolt",
+            "english": "shop",
+            "example": "The shop opens at 9 AM.",
+            "exampleHu": "A bolt reggel 9-kor nyit.",
+            "image": "shop.webp"
+        },
+        {
+            "id": "directionAndPlace-022",
+            "hungarian": "kórház",
+            "english": "hospital",
+            "example": "She was taken to the hospital after the accident.",
+            "exampleHu": "Baleset után kórházba vitték.",
+            "image": "hospital.webp"
+        },
+        {
+            "id": "directionAndPlace-023",
+            "hungarian": "iskola",
+            "english": "school",
+            "example": "The children go to school every day.",
+            "exampleHu": "A gyerekek minden nap iskolába járnak.",
+            "image": "school.webp"
+        },
+        {
+            "id": "directionAndPlace-024",
+            "hungarian": "buszmegálló",
+            "english": "bus stop",
+            "example": "Wait for the bus at the bus stop.",
+            "exampleHu": "Várj a buszra a buszmegállónál.",
+            "image": "bus_stop.webp"
+        },
+        {
+            "id": "directionAndPlace-025",
+            "hungarian": "posta",
+            "english": "post office",
+            "example": "I need to go to the post office to send a package.",
+            "exampleHu": "El kell mennem a postára egy csomagot feladni.",
+            "image": "post_office.webp"
+        },
+        {
+            "id": "directionAndPlace-26",
+            "hungarian": "útvonal",
+            "english": "route",
+            "example": "Can you show me the best route to the airport?",
+            "exampleHu": "Meg tudod mutatni a legjobb útvonalat a reptérhez?",
+            "image": "route.webp"
+        },
+        {
+            "id": "directionAndPlace-27",
+            "hungarian": "kereszteződés",
+            "english": "intersection",
+            "example": "Stop at the intersection and wait for the green light.",
+            "exampleHu": "Állj meg a kereszteződésnél, és várd meg a zöld lámpát.",
+            "image": "intersection.webp"
+        },
+        {
+            "id": "directionAndPlace-028",
+            "hungarian": "járda",
+            "english": "sidewalk",
+            "example": "Please walk on the sidewalk for safety.",
+            "exampleHu": "Kérlek, a járdán sétálj a biztonság érdekében.",
+            "image": "sidewalk.webp"
+        },
+        {
+            "id": "directionAndPlace-029",
+            "hungarian": "felüljáró",
+            "english": "overpass",
+            "example": "Use the overpass to cross the highway safely.",
+            "exampleHu": "Használd a felüljárót, hogy biztonságosan átkelj az autópályán.",
+            "image": "overpass.webp"
+        },
+        {
+            "id": "directionAndPlace-030",
+            "hungarian": "aluljáró",
+            "english": "underpass",
+            "example": "The underpass connects the two parts of the city.",
+            "exampleHu": "Az aluljáró összeköti a város két részét.",
+            "image": "underpass.webp"
+        }
+    ]
+}

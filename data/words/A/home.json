@@ -1,0 +1,245 @@
+{
+    "theme": "Home",
+    "cards": [
+        {
+            "id": "home-001",
+            "hungarian": "ház",
+            "english": "house",
+            "example": "We live in a big house.",
+            "exampleHu": "Egy nagy házban élünk.",
+            "image": "house.webp"
+        },
+        {
+            "id": "home-002",
+            "hungarian": "lakás",
+            "english": "apartment",
+            "example": "My apartment is on the third floor.",
+            "exampleHu": "A lakásom a harmadik emeleten van.",
+            "image": "apartment.webp"
+        },
+        {
+            "id": "home-003",
+            "hungarian": "szoba",
+            "english": "room",
+            "example": "My favorite room is the living room.",
+            "exampleHu": "A kedvenc szobám a nappali.",
+            "image": "room.webp"
+        },
+        {
+            "id": "home-004",
+            "hungarian": "konyha",
+            "english": "kitchen",
+            "example": "I like cooking in the kitchen.",
+            "exampleHu": "Szeretek a konyhában főzni.",
+            "image": "kitchen.webp"
+        },
+        {
+            "id": "home-005",
+            "hungarian": "fürdőszoba",
+            "english": "bathroom",
+            "example": "The bathroom is next to the bedroom.",
+            "exampleHu": "A fürdőszoba a hálószoba mellett van.",
+            "image": "bathroom.webp"
+        },
+        {
+            "id": "home-006",
+            "hungarian": "nappali",
+            "english": "living room",
+            "example": "We watch TV in the living room.",
+            "exampleHu": "A nappaliban nézzük a tévét.",
+            "image": "living_room.webp"
+        },
+        {
+            "id": "home-007",
+            "hungarian": "hálószoba",
+            "english": "bedroom",
+            "example": "My bedroom is very cozy.",
+            "exampleHu": "A hálószobám nagyon kényelmes.",
+            "image": "bedroom.webp"
+        },
+        {
+            "id": "home-008",
+            "hungarian": "ajtó",
+            "english": "door",
+            "example": "Please close the door.",
+            "exampleHu": "Kérlek, csukd be az ajtót.",
+            "image": "door.webp"
+        },
+        {
+            "id": "home-009",
+            "hungarian": "ablak",
+            "english": "window",
+            "example": "Open the window for fresh air.",
+            "exampleHu": "Nyisd ki az ablakot a friss levegőért.",
+            "image": "window.webp"
+        },
+        {
+            "id": "home-010",
+            "hungarian": "bútor",
+            "english": "furniture",
+            "example": "The furniture is modern and comfortable.",
+            "exampleHu": "A bútor modern és kényelmes.",
+            "image": "furniture.webp"
+        },
+        {
+            "id": "home-011",
+            "hungarian": "ágy",
+            "english": "bed",
+            "example": "I sleep in a comfortable bed.",
+            "exampleHu": "Egy kényelmes ágyban alszom.",
+            "image": "bed.webp"
+        },
+        {
+            "id": "home-012",
+            "hungarian": "szék",
+            "english": "chair",
+            "example": "There are four chairs around the table.",
+            "exampleHu": "Négy szék van az asztal körül.",
+            "image": "chair.webp"
+        },
+        {
+            "id": "home-013",
+            "hungarian": "asztal",
+            "english": "table",
+            "example": "We eat dinner at the table.",
+            "exampleHu": "Az asztalnál vacsorázunk.",
+            "image": "table.webp"
+        },
+        {
+            "id": "home-014",
+            "hungarian": "lámpa",
+            "english": "lamp",
+            "example": "Turn on the lamp, please.",
+            "exampleHu": "Kérlek, kapcsold fel a lámpát.",
+            "image": "lamp.webp"
+        },
+        {
+            "id": "home-015",
+            "hungarian": "szőnyeg",
+            "english": "carpet",
+            "example": "The carpet is soft and warm.",
+            "exampleHu": "A szőnyeg puha és meleg.",
+            "image": "carpet.webp"
+        },
+        {
+            "id": "home-016",
+            "hungarian": "függöny",
+            "english": "curtain",
+            "example": "Draw the curtains to block the sunlight.",
+            "exampleHu": "Húzd be a függönyt, hogy blokkolja a napfényt.",
+            "image": "curtain.webp"
+        },
+        {
+            "id": "home-017",
+            "hungarian": "tükör",
+            "english": "mirror",
+            "example": "Look in the mirror before you go out.",
+            "exampleHu": "Nézz a tükörbe, mielőtt elmész.",
+            "image": "mirror.webp"
+        },
+        {
+            "id": "home-018",
+            "hungarian": "ruhásszekrény",
+            "english": "wardrobe",
+            "example": "My clothes are in the wardrobe.",
+            "exampleHu": "A ruháim a ruhásszekrényben vannak.",
+            "image": "wardrobe.webp"
+        },
+        {
+            "id": "home-019",
+            "hungarian": "hűtőszekrény",
+            "english": "refrigerator",
+            "example": "Put the milk in the refrigerator.",
+            "exampleHu": "Tedd a tejet a hűtőbe.",
+            "image": "refrigerator.webp"
+        },
+        {
+            "id": "home-020",
+            "hungarian": "mikrohullámú sütő",
+            "english": "microwave",
+            "example": "I heat my food in the microwave.",
+            "exampleHu": "A kaját a mikrohullámú sütőben melegítem.",
+            "image": "microwave.webp"
+        },
+        {
+            "id": "home-021",
+            "hungarian": "tűzhely",
+            "english": "stove",
+            "example": "The stove is used for cooking.",
+            "exampleHu": "A tűzhelyet főzésre használjuk.",
+            "image": "stove.webp"
+        },
+        {
+            "id": "home-022",
+            "hungarian": "mosogatógép",
+            "english": "dishwasher",
+            "example": "The dishwasher cleans the dishes.",
+            "exampleHu": "A mosogatógép tisztítja az edényeket.",
+            "image": "dishwasher.webp"
+        },
+        {
+            "id": "home-023",
+            "hungarian": "mosógép",
+            "english": "washing machine",
+            "example": "I use the washing machine every weekend.",
+            "exampleHu": "Minden hétvégén használom a mosógépet.",
+            "image": "washing_machine.webp"
+        },
+        {
+            "id": "home-024",
+            "hungarian": "laptop",
+            "english": "laptop",
+            "example": "I work on my laptop at home.",
+            "exampleHu": "Otthon a laptopomon dolgozom.",
+            "image": "laptop.webp"
+        },
+        {
+            "id": "home-025",
+            "hungarian": "telefon",
+            "english": "phone",
+            "example": "I keep my phone on the table.",
+            "exampleHu": "A telefonom az asztalon van.",
+            "image": "phone.webp"
+        },
+        {
+            "id": "home-026",
+            "hungarian": "kanapé",
+            "english": "sofa",
+            "example": "We relax on the sofa in the evening.",
+            "exampleHu": "Este a kanapén pihenünk.",
+            "image": "sofa.webp"
+        },
+        {
+            "id": "home-027",
+            "hungarian": "párna",
+            "english": "pillow",
+            "example": "I like to sleep with two pillows.",
+            "exampleHu": "Két párnával szeretek aludni.",
+            "image": "pillow.webp"
+        },
+        {
+            "id": "home-028",
+            "hungarian": "takaró",
+            "english": "blanket",
+            "example": "The blanket keeps me warm at night.",
+            "exampleHu": "A takaró melegen tart éjszaka.",
+            "image": "blanket.webp"
+        },
+        {
+            "id": "home-029",
+            "hungarian": "sötétítő függöny",
+            "english": "drapes",
+            "example": "The drapes match the color of the walls.",
+            "exampleHu": "A sötétítő függönyök illenek a fal színéhez.",
+            "image": "drapes.webp"
+        },
+        {
+            "id": "home-030",
+            "hungarian": "polc",
+            "english": "shelf",
+            "example": "Books are on the shelf in the living room.",
+            "exampleHu": "A könyvek a polcon vannak a nappaliban.",
+            "image": "shelf.webp"
+        }
+    ]
+}

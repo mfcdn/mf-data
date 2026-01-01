@@ -1,0 +1,245 @@
+{
+    "theme": "Animals",
+    "cards": [
+        {
+            "id": "animal-001",
+            "hungarian": "kutya",
+            "english": "dog",
+            "example": "The dog is barking loudly.",
+            "exampleHu": "A kutya hangosan ugat.",
+            "image": "dog.webp"
+        },
+        {
+            "id": "animal-002",
+            "hungarian": "macska",
+            "english": "cat",
+            "example": "The cat is sleeping on the sofa.",
+            "exampleHu": "A macska a kanapén alszik.",
+            "image": "cat.webp"
+        },
+        {
+            "id": "animal-003",
+            "hungarian": "madár",
+            "english": "bird",
+            "example": "A bird is singing in the tree.",
+            "exampleHu": "Egy madár énekel a fán.",
+            "image": "bird.webp"
+        },
+        {
+            "id": "animal-004",
+            "hungarian": "ló",
+            "english": "horse",
+            "example": "The horse runs fast.",
+            "exampleHu": "A ló gyorsan fut.",
+            "image": "horse.webp"
+        },
+        {
+            "id": "animal-005",
+            "hungarian": "hal",
+            "english": "fish",
+            "example": "The fish swims in the aquarium.",
+            "exampleHu": "A hal az akváriumban úszik.",
+            "image": "fish.webp"
+        },
+        {
+            "id": "animal-006",
+            "hungarian": "tehén",
+            "english": "cow",
+            "example": "The cow gives milk.",
+            "exampleHu": "A tehén tejet ad.",
+            "image": "cow.webp"
+        },
+        {
+            "id": "animal-007",
+            "hungarian": "disznó",
+            "english": "pig",
+            "example": "The pig is rolling in the mud.",
+            "exampleHu": "A disznó a sárban hempereg.",
+            "image": "pig.webp"
+        },
+        {
+            "id": "animal-008",
+            "hungarian": "kacsa",
+            "english": "duck",
+            "example": "The duck is swimming on the pond.",
+            "exampleHu": "A kacsa úszik a tavon.",
+            "image": "duck.webp"
+        },
+        {
+            "id": "animal-009",
+            "hungarian": "csirke",
+            "english": "chicken",
+            "example": "The chicken lays eggs.",
+            "exampleHu": "A csirke tojásokat tojik.",
+            "image": "chicken.webp"
+        },
+        {
+            "id": "animal-010",
+            "hungarian": "juh",
+            "english": "sheep",
+            "example": "The sheep has thick wool.",
+            "exampleHu": "A juhnak vastag gyapja van.",
+            "image": "sheep.webp"
+        },
+        {
+            "id": "animal-011",
+            "hungarian": "kecske",
+            "english": "goat",
+            "example": "The goat is climbing the hill.",
+            "exampleHu": "A kecske felmászik a dombra.",
+            "image": "goat.webp"
+        },
+        {
+            "id": "animal-012",
+            "hungarian": "nyúl",
+            "english": "rabbit",
+            "example": "The rabbit is eating a carrot.",
+            "exampleHu": "A nyúl répát eszik.",
+            "image": "rabbit.webp"
+        },
+        {
+            "id": "animal-013",
+            "hungarian": "oroszlán",
+            "english": "lion",
+            "example": "The lion is roaring in the zoo.",
+            "exampleHu": "Az oroszlán ordít az állatkertben.",
+            "image": "lion.webp"
+        },
+        {
+            "id": "animal-014",
+            "hungarian": "tigris",
+            "english": "tiger",
+            "example": "The tiger has orange and black stripes.",
+            "exampleHu": "A tigris narancssárga és fekete csíkos.",
+            "image": "tiger.webp"
+        },
+        {
+            "id": "animal-015",
+            "hungarian": "medve",
+            "english": "bear",
+            "example": "The bear is catching fish.",
+            "exampleHu": "A medve halat fog.",
+            "image": "bear.webp"
+        },
+        {
+            "id": "animal-016",
+            "hungarian": "elefánt",
+            "english": "elephant",
+            "example": "The elephant has a long trunk.",
+            "exampleHu": "Az elefántnak hosszú ormánya van.",
+            "image": "elephant.webp"
+        },
+        {
+            "id": "animal-017",
+            "hungarian": "majom",
+            "english": "monkey",
+            "example": "The monkey is climbing the tree.",
+            "exampleHu": "A majom mászik a fára.",
+            "image": "monkey.webp"
+        },
+        {
+            "id": "animal-018",
+            "hungarian": "pók",
+            "english": "spider",
+            "example": "The spider spins a web.",
+            "exampleHu": "A pók hálót sző.",
+            "image": "spider.webp"
+        },
+        {
+            "id": "animal-019",
+            "hungarian": "béka",
+            "english": "frog",
+            "example": "The frog jumps into the water.",
+            "exampleHu": "A béka beleugrik a vízbe.",
+            "image": "frog.webp"
+        },
+        {
+            "id": "animal-020",
+            "hungarian": "kígyó",
+            "english": "snake",
+            "example": "The snake is hiding in the grass.",
+            "exampleHu": "A kígyó elbújik a fűben.",
+            "image": "snake.webp"
+        },
+        {
+            "id": "animal-021",
+            "hungarian": "róka",
+            "english": "fox",
+            "example": "The fox runs through the forest.",
+            "exampleHu": "A róka átszalad az erdőn.",
+            "image": "fox.webp"
+        },
+        {
+            "id": "animal-022",
+            "hungarian": "szarvas",
+            "english": "deer",
+            "example": "The deer is grazing in the meadow.",
+            "exampleHu": "A szarvas a réten legel.",
+            "image": "deer.webp"
+        },
+        {
+            "id": "animal-023",
+            "hungarian": "bagoly",
+            "english": "owl",
+            "example": "The owl hoots at night.",
+            "exampleHu": "A bagoly éjjel huhog.",
+            "image": "owl.webp"
+        },
+        {
+            "id": "animal-024",
+            "hungarian": "sas",
+            "english": "eagle",
+            "example": "The eagle soars high in the sky.",
+            "exampleHu": "A sas magasan szárnyal az égen.",
+            "image": "eagle.webp"
+        },
+        {
+            "id": "animal-025",
+            "hungarian": "pingvin",
+            "english": "penguin",
+            "example": "The penguin waddles on the ice.",
+            "exampleHu": "A pingvin totyog a jégen.",
+            "image": "penguin.webp"
+        },
+        {
+            "id": "animal-026",
+            "hungarian": "teknős",
+            "english": "turtle",
+            "example": "The turtle moves slowly.",
+            "exampleHu": "A teknős lassan mozog.",
+            "image": "turtle.webp"
+        },
+        {
+            "id": "animal-027",
+            "hungarian": "delfin",
+            "english": "dolphin",
+            "example": "The dolphin is jumping out of the water.",
+            "exampleHu": "A delfin kiugrik a vízből.",
+            "image": "dolphin.webp"
+        },
+        {
+            "id": "animal-028",
+            "hungarian": "bálna",
+            "english": "whale",
+            "example": "The whale is the largest animal in the ocean.",
+            "exampleHu": "A bálna a legnagyobb állat az óceánban.",
+            "image": "whale.webp"
+        },
+        {
+            "id": "animal-029",
+            "hungarian": "rák",
+            "english": "crab",
+            "example": "The crab is walking sideways.",
+            "exampleHu": "A rák oldalazva sétál.",
+            "image": "crab.webp"
+        },
+        {
+            "id": "animal-030",
+            "hungarian": "polip",
+            "english": "octopus",
+            "example": "The octopus has eight arms.",
+            "exampleHu": "A polipnak nyolc karja van.",
+            "image": "octopus.webp"
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+  "theme": "Travel",
+  "cards": [
+    {
+      "id": "travel-001",
+      "hungarian": "repülőgép",
+      "english": "airplane",
+      "example": "The airplane took off on time.",
+      "exampleHu": "A repülőgép időben felszállt.",
+      "image": "airplane.webp"
+    },
+    {
+      "id": "travel-002",
+      "hungarian": "vasútállomás",
+      "english": "train station",
+      "example": "The train station is crowded today.",
+      "exampleHu": "A vasútállomás ma zsúfolt.",
+      "image": "train_station.webp"
+    },
+    {
+      "id": "travel-003",
+      "hungarian": "útlevél",
+      "english": "passport",
+      "example": "Don’t forget your passport for the trip.",
+      "exampleHu": "Ne felejtsd otthon az útleveled az utazáshoz.",
+      "image": "passport.webp"
+    },
+    {
+      "id": "travel-004",
+      "hungarian": "bőrönd",
+      "english": "suitcase",
+      "example": "I packed my clothes in the suitcase.",
+      "exampleHu": "Bepakoltam a ruháimat a bőröndbe.",
+      "image": "suitcase.webp"
+    },
+    {
+      "id": "travel-005",
+      "hungarian": "utazás",
+      "english": "journey",
+      "example": "The journey was long but enjoyable.",
+      "exampleHu": "Az utazás hosszú, de élvezetes volt.",
+      "image": "journey.webp"
+    },
+    {
+      "id": "travel-006",
+      "hungarian": "úticél",
+      "english": "destination",
+      "example": "Our destination is a small island.",
+      "exampleHu": "Az úticélunk egy kis sziget.",
+      "image": "destination.webp"
+    },
+    {
+      "id": "travel-007",
+      "hungarian": "jegy",
+      "english": "ticket",
+      "example": "I bought a ticket to London.",
+      "exampleHu": "Vettem egy jegyet Londonba.",
+      "image": "ticket.webp"
+    },
+    {
+      "id": "travel-008",
+      "hungarian": "útvonal",
+      "english": "route",
+      "example": "The route to the hotel is complicated.",
+      "exampleHu": "Az útvonal a szállodához bonyolult.",
+      "image": "route.webp"
+    },
+    {
+      "id": "travel-009",
+      "hungarian": "útikönyv",
+      "english": "travel guide",
+      "example": "I use a travel guide to plan my trips.",
+      "exampleHu": "Útikönyvet használok az utazás megtervezéséhez.",
+      "image": "travel_guide.webp"
+    },
+    {
+      "id": "travel-010",
+      "hungarian": "idegenvezető",
+      "english": "guide",
+      "example": "The guide showed us the city’s highlights.",
+      "exampleHu": "Az idegenvezető megmutatta a város nevezetességeit.",
+      "image": "guide.webp"
+    },
+    {
+      "id": "travel-011",
+      "hungarian": "repülőtér",
+      "english": "airport",
+      "example": "We arrived at the airport early.",
+      "exampleHu": "Korán megérkeztünk a reptérre.",
+      "image": "airport.webp"
+    },
+    {
+      "id": "travel-012",
+      "hungarian": "buszmegálló",
+      "english": "bus stop",
+      "example": "The bus stop is near the station.",
+      "exampleHu": "A buszmegálló a pályaudvar közelében van.",
+      "image": "bus_stop.webp"
+    },
+    {
+      "id": "travel-013",
+      "hungarian": "taxi",
+      "english": "taxi",
+      "example": "We took a taxi to the hotel.",
+      "exampleHu": "Taxival mentünk a szállodába.",
+      "image": "taxi.webp"
+    },
+    {
+      "id": "travel-014",
+      "hungarian": "sofőr",
+      "english": "driver",
+      "example": "The driver was very friendly.",
+      "exampleHu": "A sofőr nagyon barátságos volt.",
+      "image": "driver.webp"
+    },
+    {
+      "id": "travel-015",
+      "hungarian": "útitárs",
+      "english": "travel companion",
+      "example": "My travel companion speaks three languages.",
+      "exampleHu": "Az útitársam három nyelven beszél.",
+      "image": "travel_companion.webp"
+    },
+    {
+      "id": "travel-016",
+      "hungarian": "kijelentkezés",
+      "english": "check-out",
+      "example": "We will check out of the hotel at noon.",
+      "exampleHu": "Délben kijelentkezünk a szállodából.",
+      "image": "check_out.webp"
+    },
+    {
+      "id": "travel-017",
+      "hungarian": "bejelentkezés",
+      "english": "check-in",
+      "example": "We checked in at the airport two hours early.",
+      "exampleHu": "Két órával korábban bejelentkeztünk a reptéren.",
+      "image": "check_in.webp"
+    },
+    {
+      "id": "travel-018",
+      "hungarian": "útiköltségek",
+      "english": "travel expenses",
+      "example": "We need to keep track of our travel expenses.",
+      "exampleHu": "Nyilván kell tartanunk az útiköltségeket.",
+      "image": "travel_expenses.webp"
+    },
+    {
+      "id": "travel-019",
+      "hungarian": "útibeszámoló",
+      "english": "travel report",
+      "example": "She wrote a travel report about her trip.",
+      "exampleHu": "Írt egy útibeszámolót az utazásáról.",
+      "image": "travel_report.webp"
+    },
+    {
+      "id": "travel-020",
+      "hungarian": "térkép",
+      "english": "map",
+      "example": "We used a map to find the hotel.",
+      "exampleHu": "Térképet használtunk, hogy megtaláljuk a szállodát.",
+      "image": "map.webp"
+    },
+    {
+      "id": "travel-021",
+      "hungarian": "útlevélellenőrzés",
+      "english": "passport control",
+      "example": "Passport control was quick and easy.",
+      "exampleHu": "Az útlevélellenőrzés gyors és egyszerű volt.",
+      "image": "passport_control.webp"
+    },
+    {
+      "id": "travel-022",
+      "hungarian": "biztonsági ellenőrzés",
+      "english": "security check",
+      "example": "We went through the security check before boarding.",
+      "exampleHu": "A beszállás előtt átestünk a biztonsági ellenőrzésen.",
+      "image": "security_check.webp"
+    },
+    {
+      "id": "travel-023",
+      "hungarian": "jelzőtábla",
+      "english": "road sign",
+      "example": "Follow the road signs to get to the city center.",
+      "exampleHu": "Kövessük az jelzőtáblákat, hogy eljussunk a belvárosba.",
+      "image": "road_sign.webp"
+    },
+    {
+      "id": "travel-024",
+      "hungarian": "poggyászleadás",
+      "english": "baggage drop",
+      "example": "We went to the baggage drop to check our suitcases.",
+      "exampleHu": "A poggyászleadáshoz mentünk, hogy leadjuk a bőröndjeinket.",
+      "image": "baggage_drop.webp"
+    },
+    {
+      "id": "travel-025",
+      "hungarian": "útiterv",
+      "english": "itinerary",
+      "example": "Our itinerary includes visits to several cities.",
+      "exampleHu": "Az útitervünk több város meglátogatását tartalmazza.",
+      "image": "itinerary.webp"
+    },
+    {
+      "id": "travel-026",
+      "hungarian": "útmegszakítás",
+      "english": "stopover",
+      "example": "We had a stopover in Paris during our trip.",
+      "exampleHu": "Az utazásunk során Párizsban volt egy útmegszakítás.",
+      "image": "stopover.webp"
+    },
+    {
+      "id": "travel-027",
+      "hungarian": "utazási iroda",
+      "english": "travel agency",
+      "example": "I booked the tour through a travel agency.",
+      "exampleHu": "Az utat egy utazási irodán keresztül foglaltam le.",
+      "image": "travel_agency.webp"
+    },
+    {
+      "id": "travel-028",
+      "hungarian": "útinapló",
+      "english": "travel diary",
+      "example": "She keeps a travel diary to record her experiences.",
+      "exampleHu": "Utazási naplót vezet, hogy feljegyezze élményeit.",
+      "image": "travel_diary.webp"
+    },
+    {
+      "id": "travel-29",
+      "hungarian": "útjelző tábla",
+      "english": "signpost",
+      "example": "The signpost pointed towards the nearest town.",
+      "exampleHu": "Az útjelző tábla a legközelebbi város felé mutatott.",
+      "image": "signpost.webp"
+    },
+    {
+      "id": "travel-030",
+      "hungarian": "kaland",
+      "english": "adventure",
+      "example": "Our vacation was full of adventure.",
+      "exampleHu": "A nyaralásunk tele volt kalanddal.",
+      "image": "adventure.webp"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+    "theme": "Restaurant",
+    "cards": [
+        {
+            "id": "restaurant-001",
+            "hungarian": "étlap",
+            "english": "menu",
+            "example": "Can I see the menu, please?",
+            "exampleHu": "Megnézhetem az étlapot, kérem?",
+            "image": "menu.webp"
+        },
+        {
+            "id": "restaurant-002",
+            "hungarian": "asztal",
+            "english": "table",
+            "example": "Our table is near the window.",
+            "exampleHu": "Az asztalunk az ablak mellett van.",
+            "image": "table.webp"
+        },
+        {
+            "id": "restaurant-003",
+            "hungarian": "pincér",
+            "english": "waiter",
+            "example": "The waiter took our order quickly.",
+            "exampleHu": "A pincér gyorsan felvette a rendelésünket.",
+            "image": "waiter.webp"
+        },
+        {
+            "id": "restaurant-004",
+            "hungarian": "számla",
+            "english": "bill",
+            "example": "Could we have the bill, please?",
+            "exampleHu": "Kérhetnénk a számlát, kérem?",
+            "image": "bill.webp"
+        },
+        {
+            "id": "restaurant-005",
+            "hungarian": "foglalás",
+            "english": "reservation",
+            "example": "I made a reservation for two at 7 PM.",
+            "exampleHu": "Asztalt foglaltam két főre este 7-re.",
+            "image": "reservation.webp"
+        },
+        {
+            "id": "restaurant-006",
+            "hungarian": "előétel",
+            "english": "appetizer",
+            "example": "We ordered an appetizer to start the meal.",
+            "exampleHu": "Rendeltünk egy előételt az étkezés elejére.",
+            "image": "appetizer.webp"
+        },
+        {
+            "id": "restaurant-007",
+            "hungarian": "főétel",
+            "english": "main course",
+            "example": "The main course was delicious and filling.",
+            "exampleHu": "A főétel finom és laktató volt.",
+            "image": "main_course.webp"
+        },
+        {
+            "id": "restaurant-008",
+            "hungarian": "desszert",
+            "english": "dessert",
+            "example": "I’ll have chocolate cake for dessert.",
+            "exampleHu": "Csokoládétortát kérek desszertnek.",
+            "image": "dessert.webp"
+        },
+        {
+            "id": "restaurant-009",
+            "hungarian": "ital",
+            "english": "drink",
+            "example": "Would you like a drink with your meal?",
+            "exampleHu": "Szeretne inni valamit az étel mellé?",
+            "image": "drink.webp"
+        },
+        {
+            "id": "restaurant-010",
+            "hungarian": "víz",
+            "english": "water",
+            "example": "Still or sparkling water?",
+            "exampleHu": "Szénsavmentes vagy szénsavas vizet kér?",
+            "image": "water.webp"
+        },
+        {
+            "id": "restaurant-011",
+            "hungarian": "bor",
+            "english": "wine",
+            "example": "We ordered a bottle of red wine.",
+            "exampleHu": "Rendeltünk egy üveg vörösbort.",
+            "image": "wine.webp"
+        },
+        {
+            "id": "restaurant-012",
+            "hungarian": "sör",
+            "english": "beer",
+            "example": "He drank a cold beer with his burger.",
+            "exampleHu": "Hideg sört ivott a hamburgere mellé.",
+            "image": "beer.webp"
+        },
+        {
+            "id": "restaurant-013",
+            "hungarian": "foglalni",
+            "english": "to reserve",
+            "example": "You need to reserve a table in advance.",
+            "exampleHu": "Előre le kell foglalni az asztalt.",
+            "image": "reserve.webp"
+        },
+        {
+            "id": "restaurant-014",
+            "hungarian": "vendég",
+            "english": "guest",
+            "example": "The restaurant was full of guests.",
+            "exampleHu": "A vendéglő tele volt vendégekkel.",
+            "image": "guest.webp"
+        },
+        {
+            "id": "restaurant-015",
+            "hungarian": "szakács",
+            "english": "chef",
+            "example": "The chef prepared a special dish for us.",
+            "exampleHu": "A szakács egy különleges ételt készített nekünk.",
+            "image": "chef.webp"
+        },
+        {
+            "id": "restaurant-016",
+            "hungarian": "pincérnő",
+            "english": "waitress",
+            "example": "The waitress brought our drinks quickly.",
+            "exampleHu": "A pincérnő gyorsan hozta az italainkat.",
+            "image": "waitress.webp"
+        },
+        {
+            "id": "restaurant-017",
+            "hungarian": "rendelni",
+            "english": "to order",
+            "example": "I’d like to order the steak.",
+            "exampleHu": "Szeretném megrendelni a steaket.",
+            "image": "to_order.webp"
+        },
+        {
+            "id": "restaurant-18",
+            "hungarian": "étel",
+            "english": "food",
+            "example": "The food here is delicious.",
+            "exampleHu": "Az étel itt finom.",
+            "image": "food.webp"
+        },
+        {
+            "id": "restaurant-019",
+            "hungarian": "villa",
+            "english": "fork",
+            "example": "Can I have a fork, please?",
+            "exampleHu": "Kaphatok egy villát, kérem?",
+            "image": "fork.webp"
+        },
+        {
+            "id": "restaurant-020",
+            "hungarian": "kés",
+            "english": "knife",
+            "example": "You need a knife to cut the meat.",
+            "exampleHu": "Kés kell a hús felvágásához.",
+            "image": "knife.webp"
+        },
+        {
+            "id": "restaurant-021",
+            "hungarian": "kanál",
+            "english": "spoon",
+            "example": "I use a spoon for soup.",
+            "exampleHu": "Kanalat használok a leveshez.",
+            "image": "spoon.webp"
+        },
+        {
+            "id": "restaurant-022",
+            "hungarian": "szalvéta",
+            "english": "napkin",
+            "example": "Please, take a napkin.",
+            "exampleHu": "Kérem, vegyen egy szalvétát.",
+            "image": "napkin.webp"
+        },
+        {
+            "id": "restaurant-023",
+            "hungarian": "asztalterítő",
+            "english": "tablecloth",
+            "example": "The tablecloth is clean.",
+            "exampleHu": "Az asztalterítő tiszta.",
+            "image": "tablecloth.webp"
+        },
+        {
+            "id": "restaurant-024",
+            "hungarian": "előétel",
+            "english": "starter",
+            "example": "I chose the soup as my starter.",
+            "exampleHu": "Levest választottam előételnek.",
+            "image": "starter.webp"
+        },
+        {
+            "id": "restaurant-025",
+            "hungarian": "köret",
+            "english": "side dish",
+            "example": "The side dish was mashed potatoes.",
+            "exampleHu": "A köret tört krumpli volt.",
+            "image": "side_dish.webp"
+        },
+        {
+            "id": "restaurant-026",
+            "hungarian": "(ki)fizetés",
+            "english": "payment",
+            "example": "Can I make the payment here?",
+            "exampleHu": "Intézhetem a fizetést itt?",
+            "image": "payment.webp"
+        },
+        {
+            "id": "restaurant-027",
+            "hungarian": "szénsavas víz",
+            "english": "sparkling water",
+            "example": "I’d like a glass of sparkling water.",
+            "exampleHu": "Egy pohár szénsavas vizet kérek.",
+            "image": "sparkling_water.webp"
+        },
+        {
+            "id": "restaurant-028",
+            "hungarian": "szénsavmentes víz",
+            "english": "still water",
+            "example": "Do you have still water?",
+            "exampleHu": "Van szénsavmentes víz?",
+            "image": "still_water.webp"
+        },
+        {
+            "id": "restaurant-029",
+            "hungarian": "kedvenc",
+            "english": "favorite",
+            "example": "Pizza is my favorite food.",
+            "exampleHu": "A pizza a kedvenc ételem.",
+            "image": "favorite.webp"
+        },
+        {
+            "id": "restaurant-030",
+            "hungarian": "asztalfoglalás",
+            "english": "booking",
+            "example": "I made a booking for 8 PM.",
+            "exampleHu": "Foglalásom van 8 órára.",
+            "image": "booking.webp"
+        }
+    ]
+}

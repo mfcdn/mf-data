@@ -1,0 +1,245 @@
+{
+  "theme": "Work and Career",
+  "cards": [
+    {
+      "id": "workAndCareer-001",
+      "hungarian": "karrier",
+      "english": "career",
+      "example": "She has built a successful career in marketing.",
+      "exampleHu": "Sikeres karriert épített a marketing területén.",
+      "image": "career.webp"
+    },
+    {
+      "id": "workAndCareer-002",
+      "hungarian": "szakma",
+      "english": "profession",
+      "example": "Nursing is a noble profession.",
+      "exampleHu": "Az ápolói hivatás egy nemes szakma.",
+      "image": "profession.webp"
+    },
+    {
+      "id": "workAndCareer-003",
+      "hungarian": "foglalkozás",
+      "english": "occupation",
+      "example": "His occupation involves a lot of travel.",
+      "exampleHu": "A foglalkozása sok utazással jár.",
+      "image": "occupation.webp"
+    },
+    {
+      "id": "workAndCareer-004",
+      "hungarian": "részmunkaidő",
+      "english": "part-time work",
+      "example": "She is looking for part-time work while studying.",
+      "exampleHu": "Részmunkaidős állást keres tanulmányai mellett.",
+      "image": "part_time_work.webp"
+    },
+    {
+      "id": "workAndCareer-005",
+      "hungarian": "teljes munkaidő",
+      "english": "full-time work",
+      "example": "He switched from part-time to full-time work.",
+      "exampleHu": "Részmunkaidőről teljes munkaidőre váltott.",
+      "image": "full_time_work.webp"
+    },
+    {
+      "id": "workAndCareer-006",
+      "hungarian": "önfoglalkoztatás",
+      "english": "self-employment",
+      "example": "Self-employment gives you more flexibility.",
+      "exampleHu": "Az önfoglalkoztatás nagyobb rugalmasságot biztosít.",
+      "image": "self_employment.webp"
+    },
+    {
+      "id": "workAndCareer-007",
+      "hungarian": "rugalmas munka",
+      "english": "flexible work",
+      "example": "Flexible work hours help balance family and career.",
+      "exampleHu": "A rugalmas munkaidő segít az élet és a karrier összehangolásában.",
+      "image": "flexible_work.webp"
+    },
+    {
+      "id": "workAndCareer-008",
+      "hungarian": "műszakos munka",
+      "english": "shift work",
+      "example": "Shift work can affect your sleep schedule.",
+      "exampleHu": "A műszakos munka befolyásolhatja az alvásritmust.",
+      "image": "shift_work.webp"
+    },
+    {
+      "id": "workAndCareer-009",
+      "hungarian": "önkéntes munka",
+      "english": "volunteer work",
+      "example": "Volunteer work can improve your skills and network.",
+      "exampleHu": "Az önkéntes munka fejlesztheti a képességeidet és a kapcsolati hálódat.",
+      "image": "volunteer_work.webp"
+    },
+    {
+      "id": "workAndCareer-010",
+      "hungarian": "nulla órás munkaszerződés",
+      "english": "zero-hours contract",
+      "example": "Some students prefer a zero-hours contract for flexibility.",
+      "exampleHu": "Néhány diák a rugalmasság miatt részesíti előnyben a nulla órás munkaszerződést.",
+      "image": "zero_hours_contract.webp"
+    },
+    {
+      "id": "workAndCareer-011",
+      "hungarian": "pozíció",
+      "english": "position",
+      "example": "He applied for a managerial position.",
+      "exampleHu": "Egy vezetői pozícióra jelentkezett.",
+      "image": "position.webp"
+    },
+    {
+      "id": "workAndCareer-012",
+      "hungarian": "hivatás",
+      "english": "vocation",
+      "example": "She feels that teaching is her vocation.",
+      "exampleHu": "Úgy érzi, a tanítás a hivatása.",
+      "image": "vocation.webp"
+    },
+    {
+      "id": "workAndCareer-013",
+      "hungarian": "ügynökségi dolgozó",
+      "english": "agency worker",
+      "example": "Agency workers are often hired for temporary projects.",
+      "exampleHu": "Az ügynökségi dolgozókat gyakran ideiglenes projektekre alkalmazzák.",
+      "image": "agency_worker.webp"
+    },
+    {
+      "id": "workAndCareer-014",
+      "hungarian": "tanonc",
+      "english": "apprentice",
+      "example": "The apprentice learned carpentry skills from a master craftsman.",
+      "exampleHu": "A tanonc a mesterembertől tanulta az ács mesterséget.",
+      "image": "apprentice.webp"
+    },
+    {
+      "id": "workAndCareer-015",
+      "hungarian": "szabadúszó",
+      "english": "freelancer",
+      "example": "He works as a freelancer in graphic design.",
+      "exampleHu": "Szabadúszóként dolgozik grafikai tervezésben.",
+      "image": "freelancer.webp"
+    },
+    {
+      "id": "workAndCareer-016",
+      "hungarian": "gyakornok",
+      "english": "intern",
+      "example": "She is an intern at a law firm this summer.",
+      "exampleHu": "Nyáron gyakornok egy ügyvédi irodánál.",
+      "image": "intern.webp"
+    },
+    {
+      "id": "workAndCareer-017",
+      "hungarian": "állandó alkalmazott",
+      "english": "permanent employee",
+      "example": "Permanent employees have more job security.",
+      "exampleHu": "Az állandó alkalmazottaknak nagyobb a munkabiztonságuk.",
+      "image": "permanent_employee.webp"
+    },
+    {
+      "id": "workAndCareer-018",
+      "hungarian": "ideiglenes alkalmazott",
+      "english": "temporary employee",
+      "example": "Temporary employees are hired for seasonal work.",
+      "exampleHu": "Az ideiglenes alkalmazottakat szezonális munkára veszik fel.",
+      "image": "temporary_employee.webp"
+    },
+    {
+      "id": "workAndCareer-019",
+      "hungarian": "nyugdíjas",
+      "english": "retired",
+      "example": "My grandfather is retired and enjoys spending time in the garden.",
+      "exampleHu": "A nagyapám nyugdíjas, és szeret a kertben időt tölteni.",
+      "image": "retired.webp"
+    },
+    {
+      "id": "workAndCareer-020",
+      "hungarian": "szülési szabadságon",
+      "english": "on maternity leave",
+      "example": "She is on maternity leave until next June.",
+      "exampleHu": "Jövő júniusig szülési szabadságon van.",
+      "image": "maternity_leave.webp"
+    },
+    {
+      "id": "workAndCareer-021",
+      "hungarian": "apás szabadságon",
+      "english": "on paternity leave",
+      "example": "He took two weeks on paternity leave.",
+      "exampleHu": "Két hetet vett ki apás szabadságra.",
+      "image": "paternity_leave.webp"
+    },
+    {
+      "id": "workAndCareer-022",
+      "hungarian": "betegszabadságon",
+      "english": "on sick leave",
+      "example": "He is on sick leave due to the flu.",
+      "exampleHu": "Influenza miatt betegszabadságon van.",
+      "image": "sick_leave.webp"
+    },
+    {
+      "id": "workAndCareer-023",
+      "hungarian": "sztrájkol",
+      "english": "on strike",
+      "example": "The workers are on strike demanding higher wages.",
+      "exampleHu": "A munkások sztrájkolnak a magasabb fizetésért.",
+      "image": "on_strike.webp"
+    },
+    {
+      "id": "workAndCareer-024",
+      "hungarian": "képzettség",
+      "english": "qualification",
+      "example": "You need the right qualifications to work as a nurse.",
+      "exampleHu": "A megfelelő képzettségre van szükség ahhoz, hogy ápolóként dolgozhass.",
+      "image": "qualification.webp"
+    },
+    {
+      "id": "workAndCareer-025",
+      "hungarian": "állásra jelentkezni",
+      "english": "apply for a job",
+      "example": "I want to apply for a job at a local company.",
+      "exampleHu": "Szeretnék egy helyi cégnél állásra jelentkezni.",
+      "image": "apply_for_a_job.webp"
+    },
+    {
+      "id": "workAndCareer-026",
+      "hungarian": "hozzálát a munkához",
+      "english": "get down to work",
+      "example": "Let's get down to work and finish this project.",
+      "exampleHu": "Lássunk hozzá a munkához, és fejezzük be a projektet.",
+      "image": "get_down_to_work.webp"
+    },
+    {
+      "id": "workAndCareer-027",
+      "hungarian": "lépked előre a karrierben",
+      "english": "work your way up",
+      "example": "He started as an intern and worked his way up to manager.",
+      "exampleHu": "Gyakornokként kezdett, és lassan vezetővé lépett előre.",
+      "image": "work_your_way_up.webp"
+    },
+    {
+      "id": "workAndCareer-028",
+      "hungarian": "platformmunkás",
+      "english": "gig economy worker",
+      "example": "Many gig economy workers juggle multiple jobs.",
+      "exampleHu": "Sok platformmunkás több munkát végez egyszerre.",
+      "image": "gig_economy_workers.webp"
+    },
+    {
+      "id": "workAndCareer-029",
+      "hungarian": "továbbképzés",
+      "english": "upskilling",
+      "example": "Upskilling is essential to stay competitive in the job market.",
+      "exampleHu": "A továbbképzés elengedhetetlen, hogy versenyképes maradj a munkaerőpiacon.",
+      "image": "upskilling.webp"
+    },
+    {
+      "id": "workAndCareer-030",
+      "hungarian": "alkalmi munkás",
+      "english": "casual worker",
+      "example": "The restaurant hires casual workers during the busy summer season.",
+      "exampleHu": "Az étterem a forgalmas nyári szezonban alkalmi munkásokat vesz fel.",
+      "image": "casual_worker.webp"
+    }
+  ]
+}

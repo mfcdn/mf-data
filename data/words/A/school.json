@@ -1,0 +1,245 @@
+{
+    "theme": "School",
+    "cards": [
+        {
+            "id": "school-001",
+            "hungarian": "iskola",
+            "english": "school",
+            "example": "I walk to school every day.",
+            "exampleHu": "Minden nap gyalog megyek iskolába.",
+            "image": "school.webp"
+        },
+        {
+            "id": "school-002",
+            "hungarian": "tanár",
+            "english": "teacher",
+            "example": "The teacher explained the lesson clearly.",
+            "exampleHu": "A tanár világosan elmagyarázta a leckét.",
+            "image": "teacher.webp"
+        },
+        {
+            "id": "school-003",
+            "hungarian": "diák",
+            "english": "student",
+            "example": "Every student must do their homework.",
+            "exampleHu": "Minden diáknak meg kell csinálnia a házi feladatát.",
+            "image": "student.webp"
+        },
+        {
+            "id": "school-004",
+            "hungarian": "osztályterem",
+            "english": "classroom",
+            "example": "Our classroom is on the second floor.",
+            "exampleHu": "Az osztálytermünk a második emeleten van.",
+            "image": "classroom.webp"
+        },
+        {
+            "id": "school-005",
+            "hungarian": "pad",
+            "english": "desk",
+            "example": "She keeps her books in her desk.",
+            "exampleHu": "A padjában tartja a könyveit.",
+            "image": "desk.webp"
+        },
+        {
+            "id": "school-006",
+            "hungarian": "tábla",
+            "english": "board",
+            "example": "The teacher wrote the answer on the board.",
+            "exampleHu": "A tanár a táblára írta a választ.",
+            "image": "board.webp"
+        },
+        {
+            "id": "school-007",
+            "hungarian": "kréta",
+            "english": "chalk",
+            "example": "The chalk broke in half.",
+            "exampleHu": "Kettétört a kréta.",
+            "image": "chalk.webp"
+        },
+        {
+            "id": "school-008",
+            "hungarian": "füzet",
+            "english": "notebook",
+            "example": "I take notes in my notebook.",
+            "exampleHu": "A füzetembe jegyzetelek.",
+            "image": "notebook.webp"
+        },
+        {
+            "id": "school-009",
+            "hungarian": "tankönyv",
+            "english": "textbook",
+            "example": "Please open your textbook to page 12.",
+            "exampleHu": "Kérlek, nyisd ki a tankönyved a 12. oldalon.",
+            "image": "textbook.webp"
+        },
+        {
+            "id": "school-010",
+            "hungarian": "toll",
+            "english": "pen",
+            "example": "He signed the form with a blue pen.",
+            "exampleHu": "Kék tollal írta alá az űrlapot.",
+            "image": "pen.webp"
+        },
+        {
+            "id": "school-011",
+            "hungarian": "ceruza",
+            "english": "pencil",
+            "example": "You need a pencil for the exam.",
+            "exampleHu": "Ceruzára van szükséged a vizsgához.",
+            "image": "pencil.webp"
+        },
+        {
+            "id": "school-012",
+            "hungarian": "radír",
+            "english": "eraser",
+            "example": "I used an eraser to fix the mistake.",
+            "exampleHu": "Radírral javítottam ki a hibát.",
+            "image": "eraser.webp"
+        },
+        {
+            "id": "school-013",
+            "hungarian": "vonalzó",
+            "english": "ruler",
+            "example": "Use the ruler to draw a straight line.",
+            "exampleHu": "Használj vonalzót, hogy egyenes vonalat húzz.",
+            "image": "ruler.webp"
+        },
+        {
+            "id": "school-014",
+            "hungarian": "iskolatáska",
+            "english": "schoolbag",
+            "example": "Her schoolbag is full of books.",
+            "exampleHu": "A hátizsákja tele van könyvekkel.",
+            "image": "schoolbag.webp"
+        },
+        {
+            "id": "school-015",
+            "hungarian": "házi feladat",
+            "english": "homework",
+            "example": "I finished my homework before dinner.",
+            "exampleHu": "Vacsora előtt fejeztem be a házi feladatot.",
+            "image": "homework.webp"
+        },
+        {
+            "id": "school-016",
+            "hungarian": "órarend",
+            "english": "timetable",
+            "example": "Check the timetable for your next class.",
+            "exampleHu": "Nézd meg az órarendet a következő órádhoz.",
+            "image": "timetable.webp"
+        },
+        {
+            "id": "school-017",
+            "hungarian": "tantárgy",
+            "english": "subject",
+            "example": "Math is my favorite subject.",
+            "exampleHu": "A matek a kedvenc tantárgyam.",
+            "image": "subject.webp"
+        },
+        {
+            "id": "school-018",
+            "hungarian": "vizsga",
+            "english": "exam",
+            "example": "We have an exam next week.",
+            "exampleHu": "Jövő héten vizsgánk lesz.",
+            "image": "exam.webp"
+        },
+        {
+            "id": "school-019",
+            "hungarian": "teszt",
+            "english": "test",
+            "example": "The test was easier than expected.",
+            "exampleHu": "A teszt könnyebb volt, mint vártam.",
+            "image": "test.webp"
+        },
+        {
+            "id": "school-020",
+            "hungarian": "felelés",
+            "english": "oral test",
+            "example": "I'm nervous about the oral test.",
+            "exampleHu": "Ideges vagyok a felelés miatt.",
+            "image": "oral_test.webp"
+        },
+        {
+            "id": "school-021",
+            "hungarian": "szünet",
+            "english": "break",
+            "example": "We play outside during the break.",
+            "exampleHu": "A szünetben kint játszunk.",
+            "image": "break.webp"
+        },
+        {
+            "id": "school-022",
+            "hungarian": "csengetés",
+            "english": "bell",
+            "example": "The bell rings at 8 o'clock.",
+            "exampleHu": "A csengő 8-kor szólal meg.",
+            "image": "bell.webp"
+        },
+        {
+            "id": "school-023",
+            "hungarian": "iskolaigazgató",
+            "english": "principal",
+            "example": "The principal gave a speech at the assembly.",
+            "exampleHu": "Az igazgató beszédet mondott az iskolagyűlésen.",
+            "image": "principal.webp"
+        },
+        {
+            "id": "school-024",
+            "hungarian": "osztálytárs",
+            "english": "classmate",
+            "example": "My classmate helped me with the project.",
+            "exampleHu": "Az osztálytársam segített a projektben.",
+            "image": "classmate.webp"
+        },
+        {
+            "id": "school-025",
+            "hungarian": "iskolabusz",
+            "english": "school bus",
+            "example": "The school bus arrives at 7:30 AM.",
+            "exampleHu": "Az iskolabusz reggel 7:30-kor érkezik.",
+            "image": "school_bus.webp"
+        },
+        {
+            "id": "school-026",
+            "hungarian": "iskolaudvar",
+            "english": "schoolyard",
+            "example": "The children played in the schoolyard.",
+            "exampleHu": "A gyerekek az iskolaudvaron játszottak.",
+            "image": "schoolyard.webp"
+        },
+        {
+            "id": "school-027",
+            "hungarian": "osztály",
+            "english": "class",
+            "example": "Our class is going on a field trip.",
+            "exampleHu": "Az osztályunk kirándulni megy.",
+            "image": "class.webp"
+        },
+        {
+            "id": "school-028",
+            "hungarian": "tanóra",
+            "english": "lesson",
+            "example": "The lesson today was very interesting.",
+            "exampleHu": "A mai tanóra nagyon érdekes volt.",
+            "image": "lesson.webp"
+        },
+        {
+            "id": "school-029",
+            "hungarian": "iskolai egyenruha",
+            "english": "school uniform",
+            "example": "Students must wear the school uniform.",
+            "exampleHu": "A diákoknak iskolai egyenruhát kell viselniük.",
+            "image": "school_uniform.webp"
+        },
+        {
+            "id": "school-030",
+            "hungarian": "tanári szoba",
+            "english": "staff room",
+            "example": "The teachers are having a meeting in the staff room.",
+            "exampleHu": "A tanárok megbeszélést tartanak a tanári szobában.",
+            "image": "staff_room.webp"
+        }
+    ]
+}

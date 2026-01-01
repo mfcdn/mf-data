@@ -1,0 +1,245 @@
+{
+    "theme": "Daily Routine",
+    "cards": [
+        {
+            "id": "dailyRoutine-001",
+            "hungarian": "ébredni",
+            "english": "to wake up",
+            "example": "I usually wake up at 7 a.m.",
+            "exampleHu": "Általában reggel 7-kor ébredek.",
+            "image": "to_wake_up.webp"
+        },
+        {
+            "id": "dailyRoutine-002",
+            "hungarian": "mosakodni",
+            "english": "to wash",
+            "example": "I wash my face every morning.",
+            "exampleHu": "Minden reggel megmosom az arcom.",
+            "image": "to_wash.webp"
+        },
+        {
+            "id": "dailyRoutine-003",
+            "hungarian": "fogat mosni",
+            "english": "to brush teeth",
+            "example": "Don't forget to brush your teeth.",
+            "exampleHu": "Ne felejts el fogat mosni.",
+            "image": "to_brush_teeth.webp"
+        },
+        {
+            "id": "dailyRoutine-004",
+            "hungarian": "öltözni",
+            "english": "to get dressed",
+            "example": "I get dressed quickly in the morning.",
+            "exampleHu": "Gyorsan öltözöm reggelente.",
+            "image": "to_get_dressed.webp"
+        },
+        {
+            "id": "dailyRoutine-005",
+            "hungarian": "reggelizni",
+            "english": "to have breakfast",
+            "example": "I have breakfast at 8 a.m.",
+            "exampleHu": "8-kor reggelizek.",
+            "image": "to_have_breakfast.webp"
+        },
+        {
+            "id": "dailyRoutine-006",
+            "hungarian": "elindulni",
+            "english": "to leave",
+            "example": "I leave home at 8:30 every day.",
+            "exampleHu": "Minden nap fél 9-kor indulok el otthonról.",
+            "image": "to_leave.webp"
+        },
+        {
+            "id": "dailyRoutine-007",
+            "hungarian": "dolgozni",
+            "english": "to work",
+            "example": "She works from 9 to 5.",
+            "exampleHu": "Ő 9-től 5-ig dolgozik.",
+            "image": "to_work.webp"
+        },
+        {
+            "id": "dailyRoutine-008",
+            "hungarian": "tanulni",
+            "english": "to study",
+            "example": "I study English every evening.",
+            "exampleHu": "Minden este angolt tanulok.",
+            "image": "to_study.webp"
+        },
+        {
+            "id": "dailyRoutine-009",
+            "hungarian": "ebédelni",
+            "english": "to have lunch",
+            "example": "We have lunch at noon.",
+            "exampleHu": "Délben ebédelünk.",
+            "image": "to_have_lunch.webp"
+        },
+        {
+            "id": "dailyRoutine-010",
+            "hungarian": "pihenni",
+            "english": "to rest",
+            "example": "I rest for a while after work.",
+            "exampleHu": "Egy kicsit pihenek munka után.",
+            "image": "to_rest.webp"
+        },
+        {
+            "id": "dailyRoutine-011",
+            "hungarian": "sportolni",
+            "english": "to exercise",
+            "example": "He exercises every morning.",
+            "exampleHu": "Minden reggel sportol.",
+            "image": "to_exercise.webp"
+        },
+        {
+            "id": "dailyRoutine-012",
+            "hungarian": "vacsorázni",
+            "english": "to have dinner",
+            "example": "We have dinner at 7 p.m.",
+            "exampleHu": "Este 7-kor vacsorázunk.",
+            "image": "to_have_dinner.webp"
+        },
+        {
+            "id": "dailyRoutine-013",
+            "hungarian": "tévézni",
+            "english": "to watch TV",
+            "example": "I watch TV after dinner.",
+            "exampleHu": "Vacsora után tévézek.",
+            "image": "to_watch_tv.webp"
+        },
+        {
+            "id": "dailyRoutine-014",
+            "hungarian": "olvasni",
+            "english": "to read",
+            "example": "She reads a book before bed.",
+            "exampleHu": "Alvás előtt olvas egy könyvet.",
+            "image": "to_read.webp"
+        },
+        {
+            "id": "dailyRoutine-015",
+            "hungarian": "fürdeni",
+            "english": "to take a bath",
+            "example": "I take a bath every evening.",
+            "exampleHu": "Minden este fürdöm.",
+            "image": "to_take_a_bath.webp"
+        },
+        {
+            "id": "dailyRoutine-016",
+            "hungarian": "fogmosás",
+            "english": "brushing teeth",
+            "example": "Brushing teeth is important before sleep.",
+            "exampleHu": "Fontos a fogmosás alvás előtt.",
+            "image": "brushing_teeth.webp"
+        },
+        {
+            "id": "dailyRoutine-017",
+            "hungarian": "aludni",
+            "english": "to sleep",
+            "example": "I sleep eight hours every night.",
+            "exampleHu": "Minden éjjel nyolc órát alszom.",
+            "image": "to_sleep.webp"
+        },
+        {
+            "id": "dailyRoutine-018",
+            "hungarian": "felkelni",
+            "english": "to get up",
+            "example": "He gets up early every day.",
+            "exampleHu": "Minden nap korán kel fel.",
+            "image": "to_get_up.webp"
+        },
+        {
+            "id": "dailyRoutine-019",
+            "hungarian": "visszamenni",
+            "english": "to go back",
+            "example": "I go back home after work.",
+            "exampleHu": "Munka után hazamegyek.",
+            "image": "to_go_back.webp"
+        },
+        {
+            "id": "dailyRoutine-020",
+            "hungarian": "telefonálni",
+            "english": "to make a phone call",
+            "example": "I make a phone call in the afternoon.",
+            "exampleHu": "Délután telefonálok.",
+            "image": "to_make_a_phone_call.webp"
+        },
+        {
+            "id": "dailyRoutine-021",
+            "hungarian": "főzni",
+            "english": "to cook",
+            "example": "I cook dinner every night.",
+            "exampleHu": "Minden este főzök vacsorát.",
+            "image": "to_cook.webp"
+        },
+        {
+            "id": "dailyRoutine-022",
+            "hungarian": "mosogatni",
+            "english": "to wash the dishes",
+            "example": "She washes the dishes after dinner.",
+            "exampleHu": "Vacsora után elmosogat.",
+            "image": "to_wash_the_dishes.webp"
+        },
+        {
+            "id": "dailyRoutine-023",
+            "hungarian": "takarítani",
+            "english": "to clean",
+            "example": "I clean the house every weekend.",
+            "exampleHu": "Minden hétvégén takarítok.",
+            "image": "to_clean.webp"
+        },
+        {
+            "id": "dailyRoutine-024",
+            "hungarian": "bevásárolni",
+            "english": "to do the shopping",
+            "example": "We do the shopping on Saturdays.",
+            "exampleHu": "Szombatonként bevásárolunk.",
+            "image": "to_do_the_shopping.webp"
+        },
+        {
+            "id": "dailyRoutine-025",
+            "hungarian": "kávézni",
+            "english": "to have coffee",
+            "example": "I have coffee in the morning.",
+            "exampleHu": "Reggel kávézom.",
+            "image": "to_have_coffee.webp"
+        },
+        {
+            "id": "dailyRoutine-26",
+            "hungarian": "felöltözni",
+            "english": "to put on clothes",
+            "example": "I put on clothes after I shower.",
+            "exampleHu": "Fürdés után felöltözöm.",
+            "image": "to_put_on_clothes.webp"
+        },
+        {
+            "id": "dailyRoutine-027",
+            "hungarian": "levetkőzni",
+            "english": "to take off clothes",
+            "example": "She takes off her clothes before bed.",
+            "exampleHu": "Ágyba menet levetkőzik.",
+            "image": "to_take_off_clothes.webp"
+        },
+        {
+            "id": "dailyRoutine-028",
+            "hungarian": "reggel tornázni",
+            "english": "to do morning exercise",
+            "example": "He does morning exercise every day.",
+            "exampleHu": "Minden nap reggel tornázik.",
+            "image": "to_do_morning_exercise.webp"
+        },
+        {
+            "id": "dailyRoutine-029",
+            "hungarian": "fürdőszobába menni",
+            "english": "to go to the bathroom",
+            "example": "I go to the bathroom before breakfast.",
+            "exampleHu": "Reggeli előtt elmegyek a fürdőszobába.",
+            "image": "to_go_to_the_bathroom.webp"
+        },
+        {
+            "id": "dailyRoutine-030",
+            "hungarian": "készülődni",
+            "english": "to get ready",
+            "example": "I get ready for work in the morning.",
+            "exampleHu": "Reggel készülődöm a munkához.",
+            "image": "to_get_ready.webp"
+        }
+    ]
+}

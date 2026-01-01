@@ -1,0 +1,245 @@
+{
+    "theme": "Emotions & Relationships",
+    "cards": [
+        {
+            "id": "emotionsAndRelationships-001",
+            "hungarian": "vidám",
+            "english": "cheerful",
+            "example": "She felt cheerful after hearing the good news.",
+            "exampleHu": "Vidámnak érezte magát, miután meghallotta a jó hírt.",
+            "image": "cheerful.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-002",
+            "hungarian": "elragadtatott",
+            "english": "delighted",
+            "example": "He was delighted with his birthday surprise.",
+            "exampleHu": "El volt ragadtatva a születésnapi meglepetésétől.",
+            "image": "delighted.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-003",
+            "hungarian": "hálás",
+            "english": "grateful",
+            "example": "She felt grateful for her friends' support.",
+            "exampleHu": "Hálás volt a barátai támogatásáért.",
+            "image": "grateful.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-004",
+            "hungarian": "inspirált",
+            "english": "inspired",
+            "example": "He felt inspired after reading the motivational book.",
+            "exampleHu": "Inspiráltnak érezte magát a motivációs könyv elolvasása után.",
+            "image": "inspired.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-005",
+            "hungarian": "optimista",
+            "english": "optimistic",
+            "example": "She remained optimistic despite the challenges.",
+            "exampleHu": "Optimista maradt a kihívások ellenére.",
+            "image": "optimistic.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-006",
+            "hungarian": "elégedett",
+            "english": "content",
+            "example": "He felt content with his achievements.",
+            "exampleHu": "Elégedett volt az eredményeivel.",
+            "image": "content.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-007",
+            "hungarian": "irigy / neheztelő",
+            "english": "sértődött",
+            "example": "She felt resentful about being overlooked for promotion.",
+            "exampleHu": "Megsértődött, hogy figyelmen kívül hagyták az előléptetésnél.",
+            "image": "resentful.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-008",
+            "hungarian": "szégyell valamit",
+            "english": "be ashamed of",
+            "example": "He was ashamed of lying to his friend.",
+            "exampleHu": "Szégyellte magát, hogy hazudott a barátjának.",
+            "image": "ashamed.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-009",
+            "hungarian": "bűnös",
+            "english": "guilty",
+            "example": "She felt guilty for forgetting her sister's birthday.",
+            "exampleHu": "Bűnösnek érezte magát, hogy elfelejtette a húga születésnapját.",
+            "image": "guilty.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-010",
+            "hungarian": "szorongó, nyugtalan",
+            "english": "anxious",
+            "example": "He felt anxious before the job interview.",
+            "exampleHu": "Szorongott az állásinterjú előtt.",
+            "image": "anxious.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-011",
+            "hungarian": "frusztrált",
+            "english": "frustrated",
+            "example": "She was frustrated with the slow internet connection.",
+            "exampleHu": "Frusztrált volt a lassú internetkapcsolat miatt.",
+            "image": "frustrated.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-012",
+            "hungarian": "reménytelen",
+            "english": "hopeless",
+            "example": "He felt hopeless after repeated failures.",
+            "exampleHu": "Reménytelennek érezte magát az ismételt kudarcok után.",
+            "image": "hopeless.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-013",
+            "hungarian": "pesszimista",
+            "english": "pessimistic",
+            "example": "She was pessimistic about the future of the project.",
+            "exampleHu": "Pesszimista volt a projekt jövőjét illetően.",
+            "image": "pessimistic.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-014",
+            "hungarian": "gyanakvó",
+            "english": "suspicious",
+            "example": "He was suspicious of the stranger's intentions.",
+            "exampleHu": "Gyanakodott az idegen szándékaira.",
+            "image": "suspicious.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-015",
+            "hungarian": "ámult",
+            "english": "amazed",
+            "example": "She was amazed by the magician's trick.",
+            "exampleHu": "Ámult a bűvész trükkjén.",
+            "image": "amazed.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-016",
+            "hungarian": "megdöbbent",
+            "english": "stunned",
+            "example": "He was stunned by the sudden news.",
+            "exampleHu": "Megdöbbent a hirtelen hír hallatán.",
+            "image": "stunned.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-017",
+            "hungarian": "sokkolt",
+            "english": "shocked",
+            "example": "She was shocked to see the damage caused by the storm.",
+            "exampleHu": "Sokkolta a kár, amit a vihar okozott.",
+            "image": "shocked.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-018",
+            "hungarian": "összezavarodott",
+            "english": "bewildered",
+            "example": "He looked bewildered after hearing the confusing instructions.",
+            "exampleHu": "Összezavarodottnak tűnt a zavaros utasítások után.",
+            "image": "bewildered.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-019",
+            "hungarian": "ambivalens",
+            "english": "ambivalent",
+            "example": "She felt ambivalent about moving to a new city.",
+            "exampleHu": "Ambivalens érzései voltak az új városba költözéssel kapcsolatban.",
+            "image": "ambivalent.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-020",
+            "hungarian": "nosztalgikus",
+            "english": "nostalgic",
+            "example": "He felt nostalgic when looking at old photos.",
+            "exampleHu": "Nosztalgikus érzés fogta el, amikor régi fényképeket nézett.",
+            "image": "nostalgic.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-021",
+            "hungarian": "kíváncsi",
+            "english": "curious",
+            "example": "She was curious about the new neighbor.",
+            "exampleHu": "Kíváncsi volt az új szomszédra.",
+            "image": "curious.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-022",
+            "hungarian": "együttérző",
+            "english": "sympathetic",
+            "example": "He was sympathetic towards his friend's problems.",
+            "exampleHu": "Együttérzett a barátja problémáival.",
+            "image": "sympathetic.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-023",
+            "hungarian": "szakít",
+            "english": "break up",
+            "example": "They decided to break up after five years together.",
+            "exampleHu": "Úgy döntöttek, hogy szakítanak öt év után.",
+            "image": "breakup.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-024",
+            "hungarian": "összeveszik",
+            "english": "fall out with",
+            "example": "She fell out with her best friend over a misunderstanding.",
+            "exampleHu": "Összeveszett a legjobb barátjával egy félreértés miatt.",
+            "image": "fallout.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-025",
+            "hungarian": "megkéri a kezét",
+            "english": "propose",
+            "example": "He decided to propose to his girlfriend.",
+            "exampleHu": "Úgy döntött, hogy megkéri a barátnője kezét.",
+            "image": "propose.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-026",
+            "hungarian": "jól kijönni valakivel",
+            "english": "get on well with",
+            "example": "She gets on well with her colleagues.",
+            "exampleHu": "Jól kijön a kollégáival.",
+            "image": "getonwith.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-027",
+            "hungarian": "kiáll valaki mellett",
+            "english": "stand by",
+            "example": "He always stands by his friends in difficult times.",
+            "exampleHu": "Mindig kiáll a barátai mellett a nehéz időkben.",
+            "image": "standby.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-028",
+            "hungarian": "kötelék",
+            "english": "bond",
+            "example": "A strong bond forms between teammates.",
+            "exampleHu": "Erős kötelék alakul ki a csapattagok között.",
+            "image": "bond.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-029",
+            "hungarian": "megismer valakit",
+            "english": "get to know",
+            "example": "She wanted to get to know her new neighbors.",
+            "exampleHu": "Szeretett volna megismerni az új szomszédait.",
+            "image": "gettoknow.webp"
+        },
+        {
+            "id": "emotionsAndRelationships-030",
+            "hungarian": "nyugtalan / aggódó",
+            "english": "apprehensive",
+            "example": "She felt apprehensive before starting her new job.",
+            "exampleHu": "Nyugtalan volt, mielőtt elkezdte az új munkáját.",
+            "image": "apprehensive.webp"
+        }
+    ]
+}

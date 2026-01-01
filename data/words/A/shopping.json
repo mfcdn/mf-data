@@ -1,0 +1,245 @@
+{
+    "theme": "School",
+    "cards": [
+        {
+            "id": "shopping-001",
+            "hungarian": "bolt",
+            "english": "shop",
+            "example": "I went to the shop to buy some groceries.",
+            "exampleHu": "Elmentem a boltba, hogy vegyek néhány élelmiszert.",
+            "image": "shop.webp"
+        },
+        {
+            "id": "shopping-002",
+            "hungarian": "pénztárgép",
+            "english": "cash register",
+            "example": "The cashier opened the cash register to give me my change.",
+            "exampleHu": "A pénztáros kinyitotta a pénztárgépet, hogy visszaadja a visszajárót.",
+            "image": "cash_register.webp"
+        },
+        {
+            "id": "shopping-003",
+            "hungarian": "ár",
+            "english": "price",
+            "example": "What is the price of this jacket?",
+            "exampleHu": "Mennyi az ára ennek a dzsekinek?",
+            "image": "price.webp"
+        },
+        {
+            "id": "shopping-004",
+            "hungarian": "kedvezmény",
+            "english": "discount",
+            "example": "They gave me a 10% discount on the shoes.",
+            "exampleHu": "10% kedvezményt kaptam a cipőkre.",
+            "image": "discount.webp"
+        },
+        {
+            "id": "shopping-005",
+            "hungarian": "bevásárlókocsi",
+            "english": "shopping cart",
+            "example": "I filled the shopping cart with fruits and vegetables.",
+            "exampleHu": "Megpakoltam a bevásárlókocsit gyümölcsökkel és zöldségekkel.",
+            "image": "shopping_cart.webp"
+        },
+        {
+            "id": "shopping-006",
+            "hungarian": "pénztáros",
+            "english": "cashier",
+            "example": "The cashier was very friendly.",
+            "exampleHu": "A pénztáros nagyon barátságos volt.",
+            "image": "cashier.webp"
+        },
+        {
+            "id": "shopping-007",
+            "hungarian": "bevásárlás",
+            "english": "shopping",
+            "example": "I enjoy shopping on weekends.",
+            "exampleHu": "Szeretem a hétvégi bevásárlást.",
+            "image": "shopping.webp"
+        },
+        {
+            "id": "shopping-008",
+            "hungarian": "árucikk",
+            "english": "item",
+            "example": "This item is on sale today.",
+            "exampleHu": "Ez az árucikk ma akciós.",
+            "image": "item.webp"
+        },
+        {
+            "id": "shopping-009",
+            "hungarian": "nyugta",
+            "english": "receipt",
+            "example": "Please keep your receipt for returns.",
+            "exampleHu": "Kérjük, őrizze meg a nyugtát a visszavitelhez.",
+            "image": "receipt.webp"
+        },
+        {
+            "id": "shopping-010",
+            "hungarian": "visszatérítés",
+            "english": "refund",
+            "example": "I asked for a refund because the product was defective.",
+            "exampleHu": "Visszatérítést kértem, mert a termék hibás volt.",
+            "image": "refund.webp"
+        },
+        {
+            "id": "shopping-011",
+            "hungarian": "boltvezető",
+            "english": "store manager",
+            "example": "The store manager helped me find the right size.",
+            "exampleHu": "A boltvezető segített megtalálni a megfelelő méretet.",
+            "image": "store_manager.webp"
+        },
+        {
+            "id": "shopping-012",
+            "hungarian": "vásárló",
+            "english": "customer",
+            "example": "The customer asked for a price check.",
+            "exampleHu": "A vásárló árvizsgálatot kért.",
+            "image": "customer.webp"
+        },
+        {
+            "id": "shopping-013",
+            "hungarian": "polc",
+            "english": "shelf",
+            "example": "The products were neatly arranged on the shelves.",
+            "exampleHu": "A termékek szépen voltak elrendezve a polcokon.",
+            "image": "shelf.webp"
+        },
+        {
+            "id": "shopping-014",
+            "hungarian": "kosár",
+            "english": "basket",
+            "example": "I carried a basket while shopping.",
+            "exampleHu": "Kosárral jártam vásárolni.",
+            "image": "basket.webp"
+        },
+        {
+            "id": "shopping-015",
+            "hungarian": "próba",
+            "english": "fitting",
+            "example": "I need to do a fitting before buying the dress.",
+            "exampleHu": "Próbát kell tartanom, mielőtt megveszem a ruhát.",
+            "image": "fitting.webp"
+        },
+        {
+            "id": "shopping-016",
+            "hungarian": "fizetés",
+            "english": "payment",
+            "example": "You can make payment by cash or card.",
+            "exampleHu": "Fizethet készpénzzel vagy kártyával.",
+            "image": "payment.webp"
+        },
+        {
+            "id": "shopping-017",
+            "hungarian": "árengedmény",
+            "english": "price reduction",
+            "example": "The store announced a price reduction on electronics.",
+            "exampleHu": "A bolt árengedményt jelentett be az elektronikai termékekre.",
+            "image": "price_reduction.webp"
+        },
+        {
+            "id": "shopping-018",
+            "hungarian": "akció",
+            "english": "sale",
+            "example": "There is a big sale this weekend.",
+            "exampleHu": "Nagy akció lesz ezen a hétvégén.",
+            "image": "sale.webp"
+        },
+        {
+            "id": "shopping-019",
+            "hungarian": "árcédula",
+            "english": "price tag",
+            "example": "Check the price tag before buying.",
+            "exampleHu": "Ellenőrizze az árcédulát vásárlás előtt.",
+            "image": "price_tag.webp"
+        },
+        {
+            "id": "shopping-020",
+            "hungarian": "visszaküldési szabályzat",
+            "english": "return policy",
+            "example": "Make sure you understand the return policy.",
+            "exampleHu": "Győződjön meg róla, hogy érti a visszaküldési szabályzatot.",
+            "image": "return_policy.webp"
+        },
+        {
+            "id": "shopping-021",
+            "hungarian": "üzlet",
+            "english": "store",
+            "example": "This store sells electronics and gadgets.",
+            "exampleHu": "Ez az üzlet elektronikai cikkeket és kütyüket árul.",
+            "image": "store.webp"
+        },
+        {
+            "id": "shopping-022",
+            "hungarian": "bevásárló kosár",
+            "english": "shopping basket",
+            "example": "She carried a shopping basket while browsing.",
+            "exampleHu": "Bevárásló kosarat vitt magával, miközben nézelődött.",
+            "image": "shopping_basket.webp"
+        },
+        {
+            "id": "shopping-023",
+            "hungarian": "készlet",
+            "english": "stock",
+            "example": "The item is out of stock right now.",
+            "exampleHu": "Ez az árucikk jelenleg nincs készleten.",
+            "image": "stock.webp"
+        },
+        {
+            "id": "shopping-024",
+            "hungarian": "fogyasztóvédelem",
+            "english": "consumer protection",
+            "example": "Consumer protection laws ensure fair trade.",
+            "exampleHu": "A fogyasztóvédelmi törvények biztosítják a tisztességes kereskedelmet.",
+            "image": "consumer_protection.webp"
+        },
+        {
+            "id": "shopping-025",
+            "hungarian": "reklámtermék",
+            "english": "promotional item",
+            "example": "These promotional items are available only this week.",
+            "exampleHu": "Ezek a reklámtermékek csak ezen a héten érhetők el.",
+            "image": "promotional_item.webp"
+        },
+        {
+            "id": "shopping-026",
+            "hungarian": "pénztárca",
+            "english": "wallet",
+            "example": "I always keep my money in my wallet.",
+            "exampleHu": "Mindig a pénztárcámban tartom a pénzemet.",
+            "image": "wallet.webp"
+        },
+        {
+            "id": "shopping-027",
+            "hungarian": "árleszállítás",
+            "english": "markdown",
+            "example": "The store made a markdown on all winter clothes.",
+            "exampleHu": "A bolt árleszállítást tartott az összes téli ruhára.",
+            "image": "markdown.webp"
+        },
+        {
+            "id": "shopping-028",
+            "hungarian": "vásárlói vélemény",
+            "english": "customer review",
+            "example": "I read customer reviews before buying the phone.",
+            "exampleHu": "Elolvastam a vásárlói véleményeket, mielőtt megvettem a telefont.",
+            "image": "customer_review.webp"
+        },
+        {
+            "id": "shopping-029",
+            "hungarian": "megrendelés",
+            "english": "order",
+            "example": "I placed an order online for a new laptop.",
+            "exampleHu": "Leadtam egy megrendelést egy új laptopra online.",
+            "image": "order.webp"
+        },
+        {
+            "id": "shopping-030",
+            "hungarian": "szállítás",
+            "english": "delivery",
+            "example": "The delivery arrived earlier than expected.",
+            "exampleHu": "A szállítás hamarabb megérkezett, mint vártam.",
+            "image": "delivery.webp"
+        }
+    ]
+}

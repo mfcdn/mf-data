@@ -1,0 +1,245 @@
+{
+  "theme": "Health and Well-being",
+  "cards": [
+    {
+      "id": "healthAndWellbeing-001",
+      "hungarian": "egészséges életmód",
+      "english": "healthy lifestyle",
+      "example": "A healthy lifestyle can prevent many diseases.",
+      "exampleHu": "Az egészséges életmód sok betegséget megelőzhet.",
+      "image": "healthy_lifestyle.webp"
+    },
+    {
+      "id": "healthAndWellbeing-002",
+      "hungarian": "kiegyensúlyozott étrend",
+      "english": "balanced diet",
+      "example": "A balanced diet provides your body with essential nutrients.",
+      "exampleHu": "A kiegyensúlyozott étrend ellátja a tested alapvető tápanyagokkal.",
+      "image": "balanced_diet.webp"
+    },
+    {
+      "id": "healthAndWellbeing-003",
+      "hungarian": "mentális egészség",
+      "english": "mental health",
+      "example": "Mental health is just as important as physical health.",
+      "exampleHu": "A mentális egészség ugyanolyan fontos, mint a testi egészség.",
+      "image": "mental_health.webp"
+    },
+    {
+      "id": "healthAndWellbeing-004",
+      "hungarian": "stresszkezelés",
+      "english": "stress management",
+      "example": "Good stress management helps you stay calm under pressure.",
+      "exampleHu": "A jó stresszkezelés segít nyugodtnak maradni nyomás alatt.",
+      "image": "stress_management.webp"
+    },
+    {
+      "id": "healthAndWellbeing-005",
+      "hungarian": "alvászavar",
+      "english": "sleep disorder",
+      "example": "Sleep disorders can make it hard to concentrate during the day.",
+      "exampleHu": "Az alvászavarok megnehezítik a koncentrációt napközben.",
+      "image": "sleep_disorder.webp"
+    },
+    {
+      "id": "healthAndWellbeing-006",
+      "hungarian": "szorongás",
+      "english": "anxiety",
+      "example": "Many people experience anxiety before exams or interviews.",
+      "exampleHu": "Sok ember szorong vizsgák vagy interjúk előtt.",
+      "image": "anxiety.webp"
+    },
+    {
+      "id": "healthAndWellbeing-007",
+      "hungarian": "depresszió",
+      "english": "depression",
+      "example": "Depression can make everyday tasks feel impossible.",
+      "exampleHu": "A depresszió a mindennapi feladatokat is lehetetlennek éreztetheti.",
+      "image": "depression.webp"
+    },
+    {
+      "id": "healthAndWellbeing-008",
+      "hungarian": "egészségbiztosítás",
+      "english": "health insurance",
+      "example": "Health insurance helps cover the cost of medical care.",
+      "exampleHu": "Az egészségbiztosítás segít fedezni az orvosi ellátás költségeit.",
+      "image": "health_insurance.webp"
+    },
+    {
+      "id": "healthAndWellbeing-009",
+      "hungarian": "elsősegély",
+      "english": "first aid",
+      "example": "Everyone should learn basic first aid skills.",
+      "exampleHu": "Mindenkinek meg kellene tanulnia az alapvető elsősegélynyújtást.",
+      "image": "first_aid.webp"
+    },
+    {
+      "id": "healthAndWellbeing-010",
+      "hungarian": "műtét",
+      "english": "surgery",
+      "example": "The patient needs surgery to repair the broken bone.",
+      "exampleHu": "A betegnek műtétre van szüksége a törött csont helyreállításához.",
+      "image": "surgery.webp"
+    },
+    {
+      "id": "healthAndWellbeing-011",
+      "hungarian": "kezelni (betegséget)",
+      "english": "to treat",
+      "example": "Doctors use antibiotics to treat infections.",
+      "exampleHu": "Az orvosok antibiotikumokat használnak a fertőzések kezelésére.",
+      "image": "treat.webp"
+    },
+    {
+      "id": "healthAndWellbeing-012",
+      "hungarian": "felépülés",
+      "english": "recovery",
+      "example": "Her recovery after the operation was surprisingly quick.",
+      "exampleHu": "A műtét utáni felépülése meglepően gyors volt.",
+      "image": "recovery.webp"
+    },
+    {
+      "id": "healthAndWellbeing-013",
+      "hungarian": "tünet",
+      "english": "symptom",
+      "example": "Fever and headache are common symptoms of the flu.",
+      "exampleHu": "A láz és a fejfájás a megfázás gyakori tünetei.",
+      "image": "symptom.webp"
+    },
+    {
+      "id": "healthAndWellbeing-014",
+      "hungarian": "fertőzés",
+      "english": "infection",
+      "example": "The wound became red and swollen because of an infection.",
+      "exampleHu": "A seb begyulladt és megduzzadt a fertőzés miatt.",
+      "image": "infection.webp"
+    },
+    {
+      "id": "healthAndWellbeing-015",
+      "hungarian": "immunrendszer",
+      "english": "immune system",
+      "example": "A strong immune system protects you from many illnesses.",
+      "exampleHu": "Az erős immunrendszer megvéd sok betegségtől.",
+      "image": "immune_system.webp"
+    },
+    {
+      "id": "healthAndWellbeing-016",
+      "hungarian": "megelőzés",
+      "english": "prevention",
+      "example": "Prevention is better than cure.",
+      "exampleHu": "A megelőzés jobb, mint a gyógyítás.",
+      "image": "prevention.webp"
+    },
+    {
+      "id": "healthAndWellbeing-017",
+      "hungarian": "életmód",
+      "english": "lifestyle",
+      "example": "Your lifestyle has a big impact on your overall health.",
+      "exampleHu": "Az életmódod nagy hatással van az általános egészségedre.",
+      "image": "lifestyle.webp"
+    },
+    {
+      "id": "healthAndWellbeing-018",
+      "hungarian": "elhízás",
+      "english": "obesity",
+      "example": "Obesity can increase the risk of heart disease.",
+      "exampleHu": "Az elhízás növelheti a szívbetegségek kockázatát.",
+      "image": "obesity.webp"
+    },
+    {
+      "id": "healthAndWellbeing-019",
+      "hungarian": "egészséges szokások",
+      "english": "healthy habits",
+      "example": "Developing healthy habits takes time and discipline.",
+      "exampleHu": "Az egészséges szokások kialakítása időt és fegyelmet igényel.",
+      "image": "healthy_habits.webp"
+    },
+    {
+      "id": "healthAndWellbeing-020",
+      "hungarian": "egészséges egyensúly",
+      "english": "healthy balance",
+      "example": "It's important to find a healthy balance between work and rest.",
+      "exampleHu": "Fontos, hogy egészséges egyensúlyt találjunk a munka és a pihenés között.",
+      "image": "healthy_balance.webp"
+    },
+    {
+      "id": "healthAndWellbeing-021",
+      "hungarian": "hidratáltság",
+      "english": "hydration",
+      "example": "Proper hydration is essential for overall health.",
+      "exampleHu": "A megfelelő hidratáltság elengedhetetlen az általános egészséghez.",
+      "image": "hydration.webp"
+    },
+    {
+      "id": "healthAndWellbeing-022",
+      "hungarian": "egészséges táplálkozás",
+      "english": "healthy eating",
+      "example": "Healthy eating helps maintain your energy levels.",
+      "exampleHu": "Az egészséges táplálkozás segít fenntartani az energiaszintedet.",
+      "image": "healthy_eating.webp"
+    },
+    {
+      "id": "healthAndWellbeing-023",
+      "hungarian": "mozgáshiány",
+      "english": "lack of exercise",
+      "example": "A lack of exercise can lead to weight gain.",
+      "exampleHu": "A mozgáshiány súlygyarapodáshoz vezethet.",
+      "image": "lack_of_exercise.webp"
+    },
+    {
+      "id": "healthAndWellbeing-024",
+      "hungarian": "szív- és érrendszeri egészség",
+      "english": "cardiovascular health",
+      "example": "Regular jogging improves cardiovascular health.",
+      "exampleHu": "A rendszeres kocogás javítja a szív- és érrendszeri egészséget.",
+      "image": "cardiovascular_health.webp"
+    },
+    {
+      "id": "healthAndWellbeing-025",
+      "hungarian": "éberség",
+      "english": "alertness",
+      "example": "Good sleep increases daytime alertness.",
+      "exampleHu": "A jó alvás növeli a nappali éberséget.",
+      "image": "alertness.webp"
+    },
+    {
+      "id": "healthAndWellbeing-026",
+      "hungarian": "egészségügyi ellenőrzés",
+      "english": "health check-up",
+      "example": "Regular health check-ups help detect problems early.",
+      "exampleHu": "A rendszeres egészségügyi ellenőrzés segít korán felismerni a problémákat.",
+      "image": "health_checkup.webp"
+    },
+    {
+      "id": "healthAndWellbeing-027",
+      "hungarian": "egészségügyi tanácsadás",
+      "english": "health consultation",
+      "example": "A health consultation can guide you towards better habits.",
+      "exampleHu": "Az egészségügyi tanácsadás jobb szokások felé terelhet.",
+      "image": "health_consultation.webp"
+    },
+    {
+      "id": "healthAndWellbeing-028",
+      "hungarian": "vitaminhiány",
+      "english": "vitamin deficiency",
+      "example": "Vitamin deficiency can cause fatigue.",
+      "exampleHu": "A vitaminhiány fáradtságot okozhat.",
+      "image": "vitamin_deficiency.webp"
+    },
+    {
+      "id": "healthAndWellbeing-029",
+      "hungarian": "krónikus betegség",
+      "english": "chronic illness",
+      "example": "Managing chronic illness requires long-term care.",
+      "exampleHu": "A krónikus betegség kezelése hosszú távú gondozást igényel.",
+      "image": "chronic_illness.webp"
+    },
+    {
+      "id": "healthAndWellbeing-030",
+      "hungarian": "egészségtudatosság",
+      "english": "health awareness",
+      "example": "Health awareness encourages people to make better choices.",
+      "exampleHu": "Az egészségtudatosság jobb döntésekre ösztönzi az embereket.",
+      "image": "health_awareness.webp"
+    }
+  ]
+}

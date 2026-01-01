@@ -1,0 +1,245 @@
+{
+  "theme": "Basic Expressions",
+  "cards": [
+    {
+      "id": "basicExpression-001",
+      "hungarian": "szia",
+      "english": "hello",
+      "example": "Hello! How are you?",
+      "exampleHu": "Szia! Hogy vagy?",
+      "image": "hello.webp"
+    },
+    {
+      "id": "basicExpression-002",
+      "hungarian": "viszlát",
+      "english": "goodbye",
+      "example": "Goodbye! See you later.",
+      "exampleHu": "Viszlát! Később találkozunk.",
+      "image": "goodbye.webp"
+    },
+    {
+      "id": "basicExpression-003",
+      "hungarian": "igen",
+      "english": "yes",
+      "example": "Yes, that sounds good.",
+      "exampleHu": "Igen, jól hangzik.",
+      "image": "yes.webp"
+    },
+    {
+      "id": "basicExpression-004",
+      "hungarian": "nem",
+      "english": "no",
+      "example": "No, thank you.",
+      "exampleHu": "Nem, köszönöm.",
+      "image": "no.webp"
+    },
+    {
+      "id": "basicExpression-005",
+      "hungarian": "hogy vagy?",
+      "english": "how are you?",
+      "example": "How are you today?",
+      "exampleHu": "Hogy vagy ma?",
+      "image": "how_are_you.webp"
+    },
+    {
+      "id": "basicExpression-006",
+      "hungarian": "örülök, hogy megismerhetlek",
+      "english": "nice to meet you",
+      "example": "Hello! It's nice to meet you.",
+      "exampleHu": "Szia! Örülök, hogy megismerhetlek.",
+      "image": "nice_to_meet_you.webp"
+    },
+    {
+      "id": "basicExpression-007",
+      "hungarian": "köszönöm",
+      "english": "thank you",
+      "example": "Thank you for your help.",
+      "exampleHu": "Köszönöm a segítséget.",
+      "image": "thank_you.webp"
+    },
+    {
+      "id": "basicExpression-008",
+      "hungarian": "szívesen",
+      "english": "you’re welcome",
+      "example": "You’re welcome!",
+      "exampleHu": "Szívesen!",
+      "image": "youre_welcome.webp"
+    },
+    {
+      "id": "basicExpression-009",
+      "hungarian": "bocsánat",
+      "english": "sorry",
+      "example": "I’m sorry for being late.",
+      "exampleHu": "Sajnálom, hogy elkéstem.",
+      "image": "sorry.webp"
+    },
+    {
+      "id": "basicExpression-010",
+      "hungarian": "rendben van",
+      "english": "that’s OK",
+      "example": "That’s OK. It happens.",
+      "exampleHu": "Semmi baj. Előfordul.",
+      "image": "thats_ok.webp"
+    },
+    {
+      "id": "basicExpression-011",
+      "hungarian": "elnézést",
+      "english": "excuse me",
+      "example": "Excuse me, where is the restroom?",
+      "exampleHu": "Elnézést, merre van a mosdó?",
+      "image": "excuse_me.webp"
+    },
+    {
+      "id": "basicExpression-012",
+      "hungarian": "segítség",
+      "english": "help!",
+      "example": "Help! I can’t find my keys.",
+      "exampleHu": "Segítség! Nem találom a kulcsaimat.",
+      "image": "help.webp"
+    },
+    {
+      "id": "basicExpression-013",
+      "hungarian": "biztos vagy benne?",
+      "english": "are you sure?",
+      "example": "Are you sure about that?",
+      "exampleHu": "Biztos vagy ebben?",
+      "image": "are_you_sure.webp"
+    },
+    {
+      "id": "basicExpression-014",
+      "hungarian": "egy pillanat",
+      "english": "one moment, please",
+      "example": "One moment, please. I’ll check.",
+      "exampleHu": "Egy pillanat, kérem. Megnézem.",
+      "image": "one_moment.webp"
+    },
+    {
+      "id": "basicExpression-015",
+      "hungarian": "beszélhetek (pl. valakivel)",
+      "english": "may I speak with…?",
+      "example": "May I speak with John?",
+      "exampleHu": "Beszélhetnék John-nal?",
+      "image": "may_i_speak.webp"
+    },
+    {
+      "id": "basicExpression-016",
+      "hungarian": "Amiatt hívlak, hogy...",
+      "english": "I’m calling about…",
+      "example": "I’m calling about the appointment.",
+      "exampleHu": "A megbeszélt időpont miatt telefonálok.",
+      "image": "calling_about.webp"
+    },
+    {
+      "id": "basicExpression-017",
+      "hungarian": "köszönöm, hogy hívtál",
+      "english": "thanks for calling",
+      "example": "Thanks for calling!",
+      "exampleHu": "Köszönöm, hogy hívtál!",
+      "image": "thanks_calling.webp"
+    },
+    {
+      "id": "basicExpression-018",
+      "hungarian": "elnézést a késésért",
+      "english": "sorry for the delay",
+      "example": "Sorry for the delay.",
+      "exampleHu": "Elnézést a késésért.",
+      "image": "sorry_delay.webp"
+    },
+    {
+      "id": "basicExpression-019",
+      "hungarian": "hogyan segíthetek?",
+      "english": "how can I help you?",
+      "example": "How can I help you?",
+      "exampleHu": "Hogyan segíthetek?",
+      "image": "how_can_i_help.webp"
+    },
+    {
+      "id": "basicExpression-020",
+      "hungarian": "hozhatok valamit?",
+      "english": "can I get you something?",
+      "example": "Can I get you something to drink?",
+      "exampleHu": "Hozhatok valamit inni?",
+      "image": "can_I_get.webp"
+    },
+    {
+      "id": "basicExpression-021",
+      "hungarian": "nagyon jó",
+      "english": "very good",
+      "example": "You did a very good job.",
+      "exampleHu": "Nagyon jó munkát végeztél.",
+      "image": "very_good.webp"
+    },
+    {
+      "id": "basicExpression-022",
+      "hungarian": "nem tudom",
+      "english": "I don’t know",
+      "example": "I don’t know the answer.",
+      "exampleHu": "Nem tudom a választ.",
+      "image": "i_dont_know.webp"
+    },
+    {
+      "id": "basicExpression-023",
+      "hungarian": "nincs mit",
+      "english": "no problem",
+      "example": "No problem, I can help you.",
+      "exampleHu": "Nincs mit, tudok segíteni.",
+      "image": "no_problem.webp"
+    },
+    {
+      "id": "basicExpression-024",
+      "hungarian": "jó ötlet",
+      "english": "good idea",
+      "example": "That’s a good idea!",
+      "exampleHu": "Ez egy jó ötlet!",
+      "image": "good_idea.webp"
+    },
+    {
+      "id": "basicExpression-025",
+      "hungarian": "jól vagyok",
+      "english": "I’m fine",
+      "example": "I’m fine, thank you.",
+      "exampleHu": "Jól vagyok, köszönöm.",
+      "image": "im_fine.webp"
+    },
+    {
+      "id": "basicExpression-026",
+      "hungarian": "ne aggódj",
+      "english": "don’t worry",
+      "example": "Don’t worry, everything is okay.",
+      "exampleHu": "Ne aggódj, minden rendben van.",
+      "image": "dont_worry.webp"
+    },
+    {
+      "id": "basicExpression-027",
+      "hungarian": "sok szerencsét",
+      "english": "good luck",
+      "example": "Good luck with your exam!",
+      "exampleHu": "Sok szerencsét a vizsgádhoz!",
+      "image": "good_luck.webp"
+    },
+    {
+      "id": "basicExpression-028",
+      "hungarian": "gratulálok",
+      "english": "congratulations",
+      "example": "Congratulations on your promotion!",
+      "exampleHu": "Gratulálok az előléptetéshez!",
+      "image": "congratulations.webp"
+    },
+    {
+      "id": "basicExpression-029",
+      "hungarian": "jó étvágyat",
+      "english": "enjoy your meal",
+      "example": "Enjoy your meal!",
+      "exampleHu": "Jó étvágyat!",
+      "image": "enjoy_your_meal.webp"
+    },
+    {
+      "id": "basicExpression-030",
+      "hungarian": "szép napot",
+      "english": "have a nice day",
+      "example": "Have a nice day!",
+      "exampleHu": "Szép napot!",
+      "image": "have_a_nice_day.webp"
+    }
+  ]
+}

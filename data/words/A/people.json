@@ -1,0 +1,245 @@
+{
+    "theme": "People",
+    "cards": [
+        {
+            "id": "people-001",
+            "hungarian": "ember",
+            "english": "person",
+            "example": "There was a person waiting at the door.",
+            "exampleHu": "Egy ember várt az ajtónál.",
+            "image": "person.webp"
+        },
+        {
+            "id": "people-002",
+            "hungarian": "férfi",
+            "english": "man",
+            "example": "The man is reading a newspaper.",
+            "exampleHu": "A férfi újságot olvas.",
+            "image": "man.webp"
+        },
+        {
+            "id": "people-003",
+            "hungarian": "nő",
+            "english": "woman",
+            "example": "The woman is talking on the phone.",
+            "exampleHu": "A nő telefonál.",
+            "image": "woman.webp"
+        },
+        {
+            "id": "people-004",
+            "hungarian": "gyerek",
+            "english": "child",
+            "example": "The child is playing in the park.",
+            "exampleHu": "A gyerek a parkban játszik.",
+            "image": "child.webp"
+        },
+        {
+            "id": "people-005",
+            "hungarian": "fiú",
+            "english": "boy",
+            "example": "The boy is riding his bike.",
+            "exampleHu": "A fiú biciklizik.",
+            "image": "boy.webp"
+        },
+        {
+            "id": "people-006",
+            "hungarian": "lány",
+            "english": "girl",
+            "example": "The girl is drawing a picture.",
+            "exampleHu": "A lány rajzol egy képet.",
+            "image": "girl.webp"
+        },
+        {
+            "id": "people-007",
+            "hungarian": "idős ember",
+            "english": "elderly person",
+            "example": "The elderly person needs help crossing the street.",
+            "exampleHu": "Az idős embernek segítségre van szüksége az úton való átkeléshez.",
+            "image": "elderly_person.webp"
+        },
+        {
+            "id": "people-008",
+            "hungarian": "barát",
+            "english": "friend",
+            "example": "My friend is coming to visit me.",
+            "exampleHu": "A barátom eljön meglátogatni.",
+            "image": "friend.webp"
+        },
+        {
+            "id": "people-009",
+            "hungarian": "család",
+            "english": "family",
+            "example": "We had a family dinner last night.",
+            "exampleHu": "Tegnap este családi vacsoránk volt.",
+            "image": "family.webp"
+        },
+        {
+            "id": "people-010",
+            "hungarian": "testvér",
+            "english": "sibling",
+            "example": "I have one sibling, a sister.",
+            "exampleHu": "Van egy testvérem, egy lánytestvér.",
+            "image": "sibling.webp"
+        },
+        {
+            "id": "people-011",
+            "hungarian": "apa",
+            "english": "father",
+            "example": "My father is very kind.",
+            "exampleHu": "Az apám nagyon kedves.",
+            "image": "father.webp"
+        },
+        {
+            "id": "people-012",
+            "hungarian": "anya",
+            "english": "mother",
+            "example": "My mother cooks delicious meals.",
+            "exampleHu": "Az anyám finom ételeket főz.",
+            "image": "mother.webp"
+        },
+        {
+            "id": "people-013",
+            "hungarian": "nagyszülők",
+            "english": "grandparents",
+            "example": "We visited our grandparents last weekend.",
+            "exampleHu": "A múlt hétvégén meglátogattuk a nagyszüleinket.",
+            "image": "grandparents.webp"
+        },
+        {
+            "id": "people-014",
+            "hungarian": "unokaöcs",
+            "english": "nephew",
+            "example": "My nephew is very clever.",
+            "exampleHu": "Az unokaöcsém nagyon okos.",
+            "image": "nephew.webp"
+        },
+        {
+            "id": "people-015",
+            "hungarian": "unokahúg",
+            "english": "niece",
+            "example": "My niece loves to dance.",
+            "exampleHu": "Az unokahúgom imád táncolni.",
+            "image": "niece.webp"
+        },
+        {
+            "id": "people-016",
+            "hungarian": "tanár",
+            "english": "teacher",
+            "example": "The teacher explained the lesson clearly.",
+            "exampleHu": "A tanár világosan elmagyarázta a leckét.",
+            "image": "teacher.webp"
+        },
+        {
+            "id": "people-017",
+            "hungarian": "orvos",
+            "english": "doctor",
+            "example": "The doctor gave me some medicine.",
+            "exampleHu": "Az orvos adott nekem gyógyszert.",
+            "image": "doctor.webp"
+        },
+        {
+            "id": "people-018",
+            "hungarian": "rendőr",
+            "english": "police officer",
+            "example": "The police officer helped us find the way.",
+            "exampleHu": "A rendőr segített nekünk eligazodni.",
+            "image": "police_officer.webp"
+        },
+        {
+            "id": "people-019",
+            "hungarian": "szakács",
+            "english": "chef",
+            "example": "The chef prepared a delicious meal.",
+            "exampleHu": "A szakács finom ételt készített.",
+            "image": "chef.webp"
+        },
+        {
+            "id": "people-020",
+            "hungarian": "ügyfél",
+            "english": "customer",
+            "example": "The customer was very satisfied with the service.",
+            "exampleHu": "Az ügyfél nagyon elégedett volt a szolgáltatással.",
+            "image": "customer.webp"
+        },
+        {
+            "id": "people-021",
+            "hungarian": "vezető",
+            "english": "manager",
+            "example": "The manager called a meeting.",
+            "exampleHu": "A vezető összehívott egy értekezletet.",
+            "image": "manager.webp"
+        },
+        {
+            "id": "people-022",
+            "hungarian": "sportoló",
+            "english": "athlete",
+            "example": "The athlete won the race.",
+            "exampleHu": "A sportoló megnyerte a versenyt.",
+            "image": "athlete.webp"
+        },
+        {
+            "id": "people-023",
+            "hungarian": "művész",
+            "english": "artist",
+            "example": "The artist painted a beautiful picture.",
+            "exampleHu": "A művész egy gyönyörű képet festett.",
+            "image": "artist.webp"
+        },
+        {
+            "id": "people-024",
+            "hungarian": "zenész",
+            "english": "musician",
+            "example": "The musician played the guitar well.",
+            "exampleHu": "A zenész jól játszott gitáron.",
+            "image": "musician.webp"
+        },
+        {
+            "id": "people-025",
+            "hungarian": "író",
+            "english": "writer",
+            "example": "The writer published a new book.",
+            "exampleHu": "Az író új könyvet adott ki.",
+            "image": "writer.webp"
+        },
+        {
+            "id": "people-026",
+            "hungarian": "szomszéd",
+            "english": "neighbor",
+            "example": "My neighbor helped me carry the groceries.",
+            "exampleHu": "A szomszédom segített cipelni a bevásárlást.",
+            "image": "neighbor.webp"
+        },
+        {
+            "id": "people-027",
+            "hungarian": "barátnő",
+            "english": "girlfriend",
+            "example": "He took his girlfriend to the restaurant.",
+            "exampleHu": "Elvitte a barátnőjét az étterembe.",
+            "image": "girlfriend.webp"
+        },
+        {
+            "id": "people-028",
+            "hungarian": "fiúbarát",
+            "english": "boyfriend",
+            "example": "Her boyfriend is very kind.",
+            "exampleHu": "A fiúbarátja nagyon kedves.",
+            "image": "boyfriend.webp"
+        },
+        {
+            "id": "people-029",
+            "hungarian": "házastárs",
+            "english": "spouse",
+            "example": "They celebrated their 10th wedding anniversary as spouses.",
+            "exampleHu": "Tizedik házassági évfordulójukat ünnepelték házastársként.",
+            "image": "spouse.webp"
+        },
+        {
+            "id": "people-030",
+            "hungarian": "férj",
+            "english": "husband",
+            "example": "Her husband is a doctor.",
+            "exampleHu": "A férje orvos.",
+            "image": "husband.webp"
+        }
+    ]
+}

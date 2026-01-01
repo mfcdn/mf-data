@@ -1,0 +1,245 @@
+{
+  "theme": "Global Issues",
+  "cards": [
+    {
+      "id": "globalIssues-001",
+      "hungarian": "klímaváltozás",
+      "english": "climate change",
+      "example": "Climate change is one of the biggest challenges facing humanity.",
+      "exampleHu": "A klímaváltozás az emberiség egyik legnagyobb kihívása.",
+      "image": "climate_change.webp"
+    },
+    {
+      "id": "globalIssues-002",
+      "hungarian": "globális felmelegedés",
+      "english": "global warming",
+      "example": "Global warming has led to rising sea levels and extreme weather events.",
+      "exampleHu": "A globális felmelegedés emelkedő tengerszinthez és szélsőséges időjáráshoz vezetett.",
+      "image": "global_warming.webp"
+    },
+    {
+      "id": "globalIssues-003",
+      "hungarian": "túlnépesedés",
+      "english": "overpopulation",
+      "example": "Overpopulation puts enormous pressure on natural resources.",
+      "exampleHu": "A túlnépesedés hatalmas nyomást gyakorol a természeti erőforrásokra.",
+      "image": "overpopulation.webp"
+    },
+    {
+      "id": "globalIssues-004",
+      "hungarian": "szegénység",
+      "english": "poverty",
+      "example": "Many global organizations are working to reduce poverty and inequality.",
+      "exampleHu": "Sok nemzetközi szervezet dolgozik a szegénység és az egyenlőtlenség csökkentésén.",
+      "image": "poverty.webp"
+    },
+    {
+      "id": "globalIssues-005",
+      "hungarian": "éhezés",
+      "english": "hunger",
+      "example": "Millions of people still suffer from hunger every day.",
+      "exampleHu": "Emberek milliói szenvednek még mindig éhezéstől nap mint nap.",
+      "image": "hunger.webp"
+    },
+    {
+      "id": "globalIssues-006",
+      "hungarian": "szennyezés",
+      "english": "pollution",
+      "example": "Air pollution in major cities has reached dangerous levels.",
+      "exampleHu": "A nagyvárosok légszennyezettsége veszélyes szintet ért el.",
+      "image": "pollution.webp"
+    },
+    {
+      "id": "globalIssues-007",
+      "hungarian": "fenntarthatóság",
+      "english": "sustainability",
+      "example": "Sustainability should be a priority in every area of modern life.",
+      "exampleHu": "A fenntarthatóságnak minden területen elsődlegesnek kell lennie.",
+      "image": "sustainability.webp"
+    },
+    {
+      "id": "globalIssues-008",
+      "hungarian": "megújuló energia",
+      "english": "renewable energy",
+      "example": "Renewable energy sources can help reduce our dependence on fossil fuels.",
+      "exampleHu": "A megújuló energiaforrások segíthetnek csökkenteni a fosszilis tüzelőanyagoktól való függőséget.",
+      "image": "renewable_energy.webp"
+    },
+    {
+      "id": "globalIssues-009",
+      "hungarian": "környezetszennyezés",
+      "english": "environmental degradation",
+      "example": "Environmental degradation threatens biodiversity across the planet.",
+      "exampleHu": "A környezetpusztulás veszélyezteti a Föld biológiai sokféleségét.",
+      "image": "environmental_degradation.webp"
+    },
+    {
+      "id": "globalIssues-010",
+      "hungarian": "egyenlőtlenség",
+      "english": "inequality",
+      "example": "Economic inequality often leads to social tension and unrest.",
+      "exampleHu": "A gazdasági egyenlőtlenség gyakran társadalmi feszültségekhez és zavargásokhoz vezet.",
+      "image": "inequality.webp"
+    },
+    {
+      "id": "globalIssues-011",
+      "hungarian": "menekültválság",
+      "english": "refugee crisis",
+      "example": "The refugee crisis requires international cooperation and compassion.",
+      "exampleHu": "A menekültválság nemzetközi együttműködést és együttérzést igényel.",
+      "image": "refugee_crisis.webp"
+    },
+    {
+      "id": "globalIssues-012",
+      "hungarian": "emberi jogok",
+      "english": "human rights",
+      "example": "Human rights must be protected regardless of nationality or gender.",
+      "exampleHu": "Az emberi jogokat nemzeti hovatartozástól és nemtől függetlenül védeni kell.",
+      "image": "human_rights.webp"
+    },
+    {
+      "id": "globalIssues-013",
+      "hungarian": "gazdasági egyenlőtlenség",
+      "english": "economic disparity",
+      "example": "Economic disparity between rich and poor countries remains a serious issue.",
+      "exampleHu": "A gazdag és szegény országok közötti gazdasági egyenlőtlenség továbbra is súlyos probléma.",
+      "image": "economic_disparity.webp"
+    },
+    {
+      "id": "globalIssues-014",
+      "hungarian": "világszervezet",
+      "english": "global organization",
+      "example": "Global organizations like the UN work to promote peace and cooperation.",
+      "exampleHu": "Az ENSZ-hez hasonló világszervezetek a békét és az együttműködést igyekeznek előmozdítani.",
+      "image": "global_organization.webp"
+    },
+    {
+      "id": "globalIssues-015",
+      "hungarian": "nemzetközi együttműködés",
+      "english": "international cooperation",
+      "example": "International cooperation is essential to solve global challenges.",
+      "exampleHu": "A nemzetközi együttműködés elengedhetetlen a globális kihívások megoldásához.",
+      "image": "international_cooperation.webp"
+    },
+    {
+      "id": "globalIssues-016",
+      "hungarian": "társadalmi igazságosság",
+      "english": "social justice",
+      "example": "Social justice movements aim to create a fairer and more equal society.",
+      "exampleHu": "A társadalmi igazságosságért küzdő mozgalmak egy igazságosabb és egyenlőbb társadalmat szeretnének.",
+      "image": "social_justice.webp"
+    },
+    {
+      "id": "globalIssues-017",
+      "hungarian": "környezeti felelősségvállalás",
+      "english": "environmental responsibility",
+      "example": "Companies are expected to take environmental responsibility seriously.",
+      "exampleHu": "A vállalatoktól elvárják, hogy komolyan vegyék a környezeti felelősségvállalást.",
+      "image": "environmental_responsibility.webp"
+    },
+    {
+      "id": "globalIssues-018",
+      "hungarian": "gazdasági fejlődés",
+      "english": "economic development",
+      "example": "Sustainable economic development focuses on long-term stability rather than short-term profit.",
+      "exampleHu": "A fenntartható gazdasági fejlődés a hosszú távú stabilitásra, nem pedig a rövid távú haszonra összpontosít.",
+      "image": "economic_development.webp"
+    },
+    {
+      "id": "globalIssues-019",
+      "hungarian": "nemek közötti egyenlőség",
+      "english": "gender equality",
+      "example": "Gender equality is essential for social and economic progress.",
+      "exampleHu": "A nemek közötti egyenlőség elengedhetetlen a társadalmi és gazdasági fejlődéshez.",
+      "image": "gender_equality.webp"
+    },
+    {
+      "id": "globalIssues-020",
+      "hungarian": "világbéke",
+      "english": "world peace",
+      "example": "World peace remains an ideal that humanity continues to strive for.",
+      "exampleHu": "A világbéke továbbra is egy olyan eszmény, amelyért az emberiség folyamatosan küzd.",
+      "image": "world_peace.webp"
+    },
+    {
+      "id": "globalIssues-021",
+      "hungarian": "fosszilis tüzelőanyag",
+      "english": "fossil fuel",
+      "example": "The overuse of fossil fuels contributes to severe environmental damage.",
+      "exampleHu": "A fosszilis tüzelőanyagok túlzott használata súlyos környezeti károkat okoz.",
+      "image": "fossil_fuel.webp"
+    },
+    {
+      "id": "globalIssues-022",
+      "hungarian": "globális felmelegedés elleni intézkedés",
+      "english": "climate action",
+      "example": "Climate action requires political will and international cooperation.",
+      "exampleHu": "A klímavédelem politikai akaratot és nemzetközi együttműködést igényel.",
+      "image": "climate_action.webp"
+    },
+    {
+      "id": "globalIssues-023",
+      "hungarian": "természeti katasztrófa",
+      "english": "natural disaster",
+      "example": "Natural disasters often have devastating effects on developing countries.",
+      "exampleHu": "A természeti katasztrófák gyakran pusztító hatással vannak a fejlődő országokra.",
+      "image": "natural_disaster.webp"
+    },
+    {
+      "id": "globalIssues-024",
+      "hungarian": "ivóvízhiány",
+      "english": "water scarcity",
+      "example": "Water scarcity is becoming a growing concern in many parts of the world.",
+      "exampleHu": "Az ivóvízhiány egyre súlyosabb problémát jelent a világ számos részén.",
+      "image": "water_scarcity.webp"
+    },
+    {
+      "id": "globalIssues-025",
+      "hungarian": "járvány",
+      "english": "pandemic",
+      "example": "The pandemic revealed weaknesses in global healthcare systems.",
+      "exampleHu": "A járvány rámutatott a globális egészségügyi rendszerek gyengeségeire.",
+      "image": "pandemic.webp"
+    },
+    {
+      "id": "globalIssues-026",
+      "hungarian": "éghajlati menekült",
+      "english": "climate refugee",
+      "example": "Climate refugees are forced to leave their homes due to extreme weather conditions.",
+      "exampleHu": "Az éghajlati menekültek kénytelenek elhagyni otthonukat a szélsőséges időjárás miatt.",
+      "image": "climate_refugee.webp"
+    },
+    {
+      "id": "globalIssues-027",
+      "hungarian": "élelmiszerbiztonság",
+      "english": "food security",
+      "example": "Food security depends on sustainable agricultural practices.",
+      "exampleHu": "Az élelmiszerbiztonság a fenntartható mezőgazdasági gyakorlatoktól függ.",
+      "image": "food_security.webp"
+    },
+    {
+      "id": "globalIssues-028",
+      "hungarian": "gazdasági válság",
+      "english": "economic crisis",
+      "example": "The economic crisis affected millions of jobs around the world.",
+      "exampleHu": "A gazdasági válság világszerte milliók munkahelyét érintette.",
+      "image": "economic_crisis.webp"
+    },
+    {
+      "id": "globalIssues-029",
+      "hungarian": "szén-dioxid-kibocsátás",
+      "english": "carbon emissions",
+      "example": "Reducing carbon emissions is vital to slowing down global warming.",
+      "exampleHu": "A szén-dioxid-kibocsátás csökkentése létfontosságú a globális felmelegedés lassításához.",
+      "image": "carbon_emissions.webp"
+    },
+    {
+      "id": "globalIssues-030",
+      "hungarian": "fenntartható fejlődési célok",
+      "english": "sustainable development goals",
+      "example": "The UN’s sustainable development goals aim to end poverty and protect the planet.",
+      "exampleHu": "Az ENSZ fenntartható fejlődési céljai a szegénység felszámolását és a bolygó védelmét tűzik ki célul.",
+      "image": "sustainable_development_goals.webp"
+    }
+  ]
+}

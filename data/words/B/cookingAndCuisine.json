@@ -1,0 +1,245 @@
+{
+    "theme": "Cooking & Cuisine",
+    "cards": [
+        {
+            "id": "cookingAndCuisine-001",
+            "hungarian": "konyhaművészet",
+            "english": "cuisine",
+            "example": "Italian cuisine is famous for its fresh ingredients.",
+            "exampleHu": "Az olasz konyhaművészet híres a friss alapanyagokról.",
+            "image": "cuisine.webp"
+        },
+        {
+            "id": "cookingAndCuisine-002",
+            "hungarian": "hirtelen süt",
+            "english": "sauté",
+            "example": "Sauté the vegetables for a few minutes until soft.",
+            "exampleHu": "Hirtelen süsd a zöldségeket néhány percig, amíg megpuhulnak.",
+            "image": "saute.webp"
+        },
+        {
+            "id": "cookingAndCuisine-003",
+            "hungarian": "lassú tűzön főz",
+            "english": "simmer",
+            "example": "Let the soup simmer gently for 20 minutes.",
+            "exampleHu": "Hagyd a levest lassú tűzön főni 20 percig.",
+            "image": "simmer.webp"
+        },
+        {
+            "id": "cookingAndCuisine-004",
+            "hungarian": "bő zsiradékban süt",
+            "english": "deep-fry",
+            "example": "Deep-fry the potatoes until golden brown.",
+            "exampleHu": "Süsd bő zsiradékban a krumplit aranybarnára.",
+            "image": "deepfry.webp"
+        },
+        {
+            "id": "cookingAndCuisine-005",
+            "hungarian": "sós, fűszeres",
+            "english": "savory",
+            "example": "I prefer savory snacks to sweet ones.",
+            "exampleHu": "Én a sós, fűszeres nassolnivalókat jobban szeretem az édeseknél.",
+            "image": "savory.webp"
+        },
+        {
+            "id": "cookingAndCuisine-006",
+            "hungarian": "tápláló/jó tápértékű",
+            "english": "nutritious",
+            "example": "A nutritious breakfast can improve your concentration.",
+            "exampleHu": "Egy tápláló reggeli javíthatja a koncentrációt.",
+            "image": "nutritious.webp"
+        },
+        {
+            "id": "cookingAndCuisine-007",
+            "hungarian": "tápláló/erősítő",
+            "english": "nourishing",
+            "example": "The soup was warm and nourishing.",
+            "exampleHu": "A leves meleg és tápláló volt.",
+            "image": "nourishing.webp"
+        },
+        {
+            "id": "cookingAndCuisine-008",
+            "hungarian": "párol",
+            "english": "steam",
+            "example": "Steam the vegetables to keep their vitamins.",
+            "exampleHu": "Párold a zöldségeket, hogy megőrizzék a vitaminjaikat.",
+            "image": "steam.webp"
+        },
+        {
+            "id": "cookingAndCuisine-009",
+            "hungarian": "roston süt",
+            "english": "broil",
+            "example": "Broil the meat for a crisp top layer.",
+            "exampleHu": "Süsd roston a húst felülről, hogy ropogós rétege legyen.",
+            "image": "broil.webp"
+        },
+        {
+            "id": "cookingAndCuisine-010",
+            "hungarian": "aprít",
+            "english": "chop",
+            "example": "Chop the onions into small pieces.",
+            "exampleHu": "Aprítsd fel a hagymát kis darabokra.",
+            "image": "chop.webp"
+        },
+        {
+            "id": "cookingAndCuisine-011",
+            "hungarian": "kever",
+            "english": "stir",
+            "example": "Stir the sauce continuously to avoid burning.",
+            "exampleHu": "Folyamatosan keverd a szószt, hogy ne égjen le.",
+            "image": "stir.webp"
+        },
+        {
+            "id": "cookingAndCuisine-012",
+            "hungarian": "felmelegít",
+            "english": "heat up",
+            "example": "Heat up the leftovers before serving.",
+            "exampleHu": "Melegítsd fel a maradékot tálalás előtt.",
+            "image": "heatup.webp"
+        },
+        {
+            "id": "cookingAndCuisine-013",
+            "hungarian": "dagaszt",
+            "english": "knead",
+            "example": "Knead the dough for at least ten minutes.",
+            "exampleHu": "Dagaszd a tésztát legalább tíz percig.",
+            "image": "knead.webp"
+        },
+        {
+            "id": "cookingAndCuisine-014",
+            "hungarian": "ízetlen",
+            "english": "bland",
+            "example": "The soup tasted bland, so I added some salt.",
+            "exampleHu": "A leves ízetlen volt, ezért adtam hozzá egy kis sót.",
+            "image": "bland.webp"
+        },
+        {
+            "id": "cookingAndCuisine-015",
+            "hungarian": "puha, omlós",
+            "english": "tender",
+            "example": "cookingAndCuisine the meat slowly until it becomes tender.",
+            "exampleHu": "Főzd lassan a húst, amíg puhává válik.",
+            "image": "tender.webp"
+        },
+        {
+            "id": "cookingAndCuisine-016",
+            "hungarian": "ropogós",
+            "english": "crunchy",
+            "example": "The salad was fresh and crunchy.",
+            "exampleHu": "A saláta friss és ropogós volt.",
+            "image": "crunchy.webp"
+        },
+        {
+            "id": "cookingAndCuisine-017",
+            "hungarian": "evőeszköz",
+            "english": "cutlery",
+            "example": "Please set the table with clean cutlery.",
+            "exampleHu": "Kérlek, teríts meg tiszta evőeszközökkel.",
+            "image": "cutlery.webp"
+        },
+        {
+            "id": "cookingAndCuisine-018",
+            "hungarian": "alapanyagok",
+            "english": "ingredients",
+            "example": "Check the ingredients before starting the recipe.",
+            "exampleHu": "Nézd át az alapanyagokat, mielőtt elkezded a receptet.",
+            "image": "ingredients.webp"
+        },
+        {
+            "id": "cookingAndCuisine-019",
+            "hungarian": "felszeletel",
+            "english": "carve",
+            "example": "He carved the turkey carefully.",
+            "exampleHu": "Óvatosan felszeletelte a pulykát.",
+            "image": "carve.webp"
+        },
+        {
+            "id": "cookingAndCuisine-020",
+            "hungarian": "reszel",
+            "english": "grate",
+            "example": "Grate some cheese for the pasta.",
+            "exampleHu": "Reszelj egy kis sajtot a tésztára.",
+            "image": "grate.webp"
+        },
+        {
+            "id": "cookingAndCuisine-021",
+            "hungarian": "pácol",
+            "english": "marinate",
+            "example": "Marinate the chicken overnight for better flavor.",
+            "exampleHu": "Pácolod a csirkét egy éjszakán át az erősebb ízért.",
+            "image": "marinate.webp"
+        },
+        {
+            "id": "cookingAndCuisine-022",
+            "hungarian": "ledarál, aprít",
+            "english": "mince",
+            "example": "Mince the garlic before adding it to the pan.",
+            "exampleHu": "Aprítsd fel a fokhagymát, mielőtt a serpenyőbe teszed.",
+            "image": "mince.webp"
+        },
+        {
+            "id": "cookingAndCuisine-023",
+            "hungarian": "előmelegít",
+            "english": "preheat",
+            "example": "Preheat the oven to 180 degrees Celsius.",
+            "exampleHu": "Melegítsd elő a sütőt 180 Celsius-fokra.",
+            "image": "preheat.webp"
+        },
+        {
+            "id": "cookingAndCuisine-024",
+            "hungarian": "megszór",
+            "english": "sprinkle",
+            "example": "Sprinkle some herbs on top before serving.",
+            "exampleHu": "Szórj némi fűszert a tetejére tálalás előtt.",
+            "image": "sprinkle.webp"
+        },
+        {
+            "id": "cookingAndCuisine-025",
+            "hungarian": "kiolvaszt",
+            "english": "thaw",
+            "example": "Let the meat thaw in the fridge overnight.",
+            "exampleHu": "Hagyd a húst kiolvadni a hűtőben egy éjszakán át.",
+            "image": "thaw.webp"
+        },
+        {
+            "id": "cookingAndCuisine-026",
+            "hungarian": "összeráz, összekever",
+            "english": "toss",
+            "example": "Toss the salad gently with the dressing.",
+            "exampleHu": "Óvatosan rázd össze a salátát az öntettel.",
+            "image": "toss.webp"
+        },
+        {
+            "id": "cookingAndCuisine-027",
+            "hungarian": "felver (habot)",
+            "english": "whip",
+            "example": "Whip the cream until it becomes thick.",
+            "exampleHu": "Verd fel a tejszínt, amíg sűrű nem lesz.",
+            "image": "whip.webp"
+        },
+        {
+            "id": "cookingAndCuisine-028",
+            "hungarian": "gabona",
+            "english": "grain",
+            "example": "Whole grains are healthier than refined ones.",
+            "exampleHu": "A teljes kiőrlésű gabonák egészségesebbek a finomítottaknál.",
+            "image": "grain.webp"
+        },
+        {
+            "id": "cookingAndCuisine-029",
+            "hungarian": "fogyasztható (azaz nem ártalmas)",
+            "english": "edible",
+            "example": "These mushrooms are edible, but some look similar and are poisonous.",
+            "exampleHu": "Ezek a gombák fogyaszthatóak, de néhány hasonló faj mérgező.",
+            "image": "edible.webp"
+        },
+        {
+            "id": "cookingAndCuisine-030",
+            "hungarian": "ehető (ízre)",
+            "english": "eatable",
+            "example": "The cake didn’t look perfect, but it was eatable.",
+            "exampleHu": "A süti nem nézett ki tökéletesnek, de ehető volt.",
+            "image": "eatable.webp"
+        }
+    ]
+}
