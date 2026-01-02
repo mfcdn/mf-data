@@ -123,11 +123,11 @@
         },
         {
             "id": "dailyRoutine-016",
-            "hungarian": "fogmosás",
-            "english": "brushing teeth",
-            "example": "Brushing teeth is important before sleep.",
-            "exampleHu": "Fontos a fogmosás alvás előtt.",
-            "image": "brushing_teeth.webp"
+            "hungarian": "kezet mosni",
+            "english": "to wash hands",
+            "example": "I wash my hands before lunch.",
+            "exampleHu": "Ebéd előtt megmosom a kezem.",
+            "image": "to_wash_hands.webp"
         },
         {
             "id": "dailyRoutine-017",

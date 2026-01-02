@@ -1,0 +1,245 @@
+{
+  "theme": "Numbers",
+  "cards": [
+    {
+      "id": "number-001",
+      "hungarian": "egy",
+      "english": "one",
+      "example": "I have one apple.",
+      "exampleHu": "Van egy almám.",
+      "image": "one.webp"
+    },
+    {
+      "id": "number-002",
+      "hungarian": "kettő",
+      "english": "two",
+      "example": "She bought two books.",
+      "exampleHu": "Vett két könyvet.",
+      "image": "two.webp"
+    },
+    {
+      "id": "number-003",
+      "hungarian": "három",
+      "english": "three",
+      "example": "He has three cats.",
+      "exampleHu": "Három macskája van.",
+      "image": "three.webp"
+    },
+    {
+      "id": "number-004",
+      "hungarian": "négy",
+      "english": "four",
+      "example": "There are four chairs in the room.",
+      "exampleHu": "Négy szék van a szobában.",
+      "image": "four.webp"
+    },
+    {
+      "id": "number-005",
+      "hungarian": "öt",
+      "english": "five",
+      "example": "I need five pencils.",
+      "exampleHu": "Öt ceruzára van szükségem.",
+      "image": "five.webp"
+    },
+    {
+      "id": "number-006",
+      "hungarian": "hat",
+      "english": "six",
+      "example": "She ate six cookies.",
+      "exampleHu": "Hat sütit evett.",
+      "image": "six.webp"
+    },
+    {
+      "id": "number-007",
+      "hungarian": "hét",
+      "english": "seven",
+      "example": "There are seven days in a week.",
+      "exampleHu": "Egy hét hét napból áll.",
+      "image": "seven.webp"
+    },
+    {
+      "id": "number-008",
+      "hungarian": "nyolc",
+      "english": "eight",
+      "example": "He has eight friends.",
+      "exampleHu": "Nyolc barátja van.",
+      "image": "eight.webp"
+    },
+    {
+      "id": "number-009",
+      "hungarian": "kilenc",
+      "english": "nine",
+      "example": "I see nine birds on the tree.",
+      "exampleHu": "Kilenc madarat látok a fán.",
+      "image": "nine.webp"
+    },
+    {
+      "id": "number-010",
+      "hungarian": "tíz",
+      "english": "ten",
+      "example": "She has ten balloons.",
+      "exampleHu": "Tíz lufija van.",
+      "image": "ten.webp"
+    },
+    {
+      "id": "number-011",
+      "hungarian": "tizenegy",
+      "english": "eleven",
+      "example": "There are eleven students in the class.",
+      "exampleHu": "Tizenegy diák van az osztályban.",
+      "image": "eleven.webp"
+    },
+    {
+      "id": "number-012",
+      "hungarian": "tizenkettő",
+      "english": "twelve",
+      "example": "She bought twelve cupcakes.",
+      "exampleHu": "Tizenkét muffint vett.",
+      "image": "twelve.webp"
+    },
+    {
+      "id": "number-013",
+      "hungarian": "tizenhárom",
+      "english": "thirteen",
+      "example": "He scored thirteen points in the game.",
+      "exampleHu": "Tizenhárom pontot szerzett a játékban.",
+      "image": "thirteen.webp"
+    },
+    {
+      "id": "number-014",
+      "hungarian": "tizennégy",
+      "english": "fourteen",
+      "example": "There are fourteen chairs around the table.",
+      "exampleHu": "Tizennégy szék van az asztal körül.",
+      "image": "fourteen.webp"
+    },
+    {
+      "id": "number-015",
+      "hungarian": "tizenöt",
+      "english": "fifteen",
+      "example": "She ran fifteen kilometers yesterday.",
+      "exampleHu": "Tizenöt kilométert futott tegnap.",
+      "image": "fifteen.webp"
+    },
+    {
+      "id": "number-016",
+      "hungarian": "tizenhat",
+      "english": "sixteen",
+      "example": "He has sixteen marbles.",
+      "exampleHu": "Tizenhat golyója van.",
+      "image": "sixteen.webp"
+    },
+    {
+      "id": "number-017",
+      "hungarian": "tizenhét",
+      "english": "seventeen",
+      "example": "Seventeen people attended the meeting.",
+      "exampleHu": "Tizenhét ember vett részt a találkozón.",
+      "image": "seventeen.webp"
+    },
+    {
+      "id": "number-018",
+      "hungarian": "tizennyolc",
+      "english": "eighteen",
+      "example": "She bought eighteen flowers.",
+      "exampleHu": "Tizennyolc virágot vett.",
+      "image": "eighteen.webp"
+    },
+    {
+      "id": "number-019",
+      "hungarian": "tizenkilenc",
+      "english": "nineteen",
+      "example": "He read nineteen pages of the book.",
+      "exampleHu": "Tizenkilenc oldalt olvasott a könyvből.",
+      "image": "nineteen.webp"
+    },
+    {
+      "id": "number-020",
+      "hungarian": "húsz",
+      "english": "twenty",
+      "example": "There are twenty students in the class.",
+      "exampleHu": "Húsz diák van az osztályban.",
+      "image": "twenty.webp"
+    },
+    {
+      "id": "number-021",
+      "hungarian": "huszonegy",
+      "english": "twenty-one",
+      "example": "She collected twenty-one stamps.",
+      "exampleHu": "Huszonegy bélyeget gyűjtött.",
+      "image": "twentyone.webp"
+    },
+    {
+      "id": "number-022",
+      "hungarian": "huszonkettő",
+      "english": "twenty-two",
+      "example": "He has twenty-two coins.",
+      "exampleHu": "Huszonkét érméje van.",
+      "image": "twentytwo.webp"
+    },
+    {
+      "id": "number-023",
+      "hungarian": "huszonhárom",
+      "english": "twenty-three",
+      "example": "Twenty-three people came to the party.",
+      "exampleHu": "Huszonhárom ember jött el a bulira.",
+      "image": "twentythree.webp"
+    },
+    {
+      "id": "number-024",
+      "hungarian": "huszonnégy",
+      "english": "twenty-four",
+      "example": "There are twenty-four hours in a day.",
+      "exampleHu": "Egy nap huszonnégy órából áll.",
+      "image": "twentyfour.webp"
+    },
+    {
+      "id": "number-025",
+      "hungarian": "huszonöt",
+      "english": "twenty-five",
+      "example": "She ran twenty-five laps.",
+      "exampleHu": "Huszonöt kört futott.",
+      "image": "twentyfive.webp"
+    },
+    {
+      "id": "number-026",
+      "hungarian": "huszonhat",
+      "english": "twenty-six",
+      "example": "He bought twenty-six chocolates.",
+      "exampleHu": "Huszonhat csokit vett.",
+      "image": "twentysix.webp"
+    },
+    {
+      "id": "number-027",
+      "hungarian": "huszonhét",
+      "english": "twenty-seven",
+      "example": "There are twenty-seven students in the class.",
+      "exampleHu": "Huszonhét diák van az osztályban.",
+      "image": "twentyseven.webp"
+    },
+    {
+      "id": "number-028",
+      "hungarian": "huszonnyolc",
+      "english": "twenty-eight",
+      "example": "She bought twenty-eight apples.",
+      "exampleHu": "Huszonnyolc almát vett.",
+      "image": "twentyeight.webp"
+    },
+    {
+      "id": "number-029",
+      "hungarian": "huszonkilenc",
+      "english": "twenty-nine",
+      "example": "He ran twenty-nine kilometers.",
+      "exampleHu": "Huszonkilenc kilométert futott.",
+      "image": "twentynine.webp"
+    },
+    {
+      "id": "number-030",
+      "hungarian": "harminc",
+      "english": "thirty",
+      "example": "There are thirty days in this month.",
+      "exampleHu": "Ebben a hónapban harminc nap van.",
+      "image": "thirty.webp"
+    }
+  ]
+}
