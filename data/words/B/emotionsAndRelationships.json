@@ -5,7 +5,7 @@
             "id": "emotionsAndRelationships-001",
             "hungarian": "vidám",
             "english": "cheerful",
-            "example": "She felt cheerful after hearing the good news.",
+            "example": "He felt cheerful after hearing the good news.",
             "exampleHu": "Vidámnak érezte magát, miután meghallotta a jó hírt.",
             "image": "cheerful.webp"
         },
@@ -21,7 +21,7 @@
             "id": "emotionsAndRelationships-003",
             "hungarian": "hálás",
             "english": "grateful",
-            "example": "She felt grateful for her friends' support.",
+            "example": "He felt grateful for her friends' support.",
             "exampleHu": "Hálás volt a barátai támogatásáért.",
             "image": "grateful.webp"
         },
@@ -37,7 +37,7 @@
             "id": "emotionsAndRelationships-005",
             "hungarian": "optimista",
             "english": "optimistic",
-            "example": "She remained optimistic despite the challenges.",
+            "example": "He remained optimistic despite the challenges.",
             "exampleHu": "Optimista maradt a kihívások ellenére.",
             "image": "optimistic.webp"
         },
