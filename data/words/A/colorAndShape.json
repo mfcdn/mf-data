@@ -1,0 +1,245 @@
+{
+    "theme": "Colors and Shapes",
+    "cards": [
+        {
+            "id": "colorAndShape-001",
+            "hungarian": "piros",
+            "english": "red",
+            "example": "The apple is red.",
+            "exampleHu": "Az alma piros.",
+            "image": "red.webp"
+        },
+        {
+            "id": "colorAndShape-002",
+            "hungarian": "kék",
+            "english": "blue",
+            "example": "The sky is blue.",
+            "exampleHu": "Az ég kék.",
+            "image": "blue.webp"
+        },
+        {
+            "id": "colorAndShape-003",
+            "hungarian": "zöld",
+            "english": "green",
+            "example": "The grass is green.",
+            "exampleHu": "A fű zöld.",
+            "image": "green.webp"
+        },
+        {
+            "id": "colorAndShape-004",
+            "hungarian": "sárga",
+            "english": "yellow",
+            "example": "The sun is yellow.",
+            "exampleHu": "A nap sárga.",
+            "image": "yellow.webp"
+        },
+        {
+            "id": "colorAndShape-005",
+            "hungarian": "narancolorAndShapesárga",
+            "english": "orange",
+            "example": "The orange is orange.",
+            "exampleHu": "A narancolorAndShape narancolorAndShapesárga.",
+            "image": "orange.webp"
+        },
+        {
+            "id": "colorAndShape-006",
+            "hungarian": "fehér",
+            "english": "white",
+            "example": "The snow is white.",
+            "exampleHu": "A hó fehér.",
+            "image": "white.webp"
+        },
+        {
+            "id": "colorAndShape-007",
+            "hungarian": "fekete",
+            "english": "black",
+            "example": "The cat is black.",
+            "exampleHu": "A macolorAndShapeka fekete.",
+            "image": "black.webp"
+        },
+        {
+            "id": "colorAndShape-008",
+            "hungarian": "barna",
+            "english": "brown",
+            "example": "The table is brown.",
+            "exampleHu": "Az asztal barna.",
+            "image": "brown.webp"
+        },
+        {
+            "id": "colorAndShape-009",
+            "hungarian": "szürke",
+            "english": "gray",
+            "example": "The wall is gray.",
+            "exampleHu": "A fal szürke.",
+            "image": "gray.webp"
+        },
+        {
+            "id": "colorAndShape-010",
+            "hungarian": "rózsaszín",
+            "english": "pink",
+            "example": "The flower is pink.",
+            "exampleHu": "A virág rózsaszín.",
+            "image": "pink.webp"
+        },
+        {
+            "id": "colorAndShape-011",
+            "hungarian": "lila",
+            "english": "purple",
+            "example": "The dress is purple.",
+            "exampleHu": "A ruha lila.",
+            "image": "purple.webp"
+        },
+        {
+            "id": "colorAndShape-012",
+            "hungarian": "világos",
+            "english": "light",
+            "example": "The room is light.",
+            "exampleHu": "A szoba világos.",
+            "image": "light.webp"
+        },
+        {
+            "id": "colorAndShape-013",
+            "hungarian": "sötét",
+            "english": "dark",
+            "example": "The night is dark.",
+            "exampleHu": "Az éjszaka sötét.",
+            "image": "dark.webp"
+        },
+        {
+            "id": "colorAndShape-014",
+            "hungarian": "kör",
+            "english": "circle",
+            "example": "The clock is a circle.",
+            "exampleHu": "Az óra egy kör.",
+            "image": "circle.webp"
+        },
+        {
+            "id": "colorAndShape-015",
+            "hungarian": "négyzet",
+            "english": "square",
+            "example": "The window is a square.",
+            "exampleHu": "Az ablak egy négyzet.",
+            "image": "square.webp"
+        },
+        {
+            "id": "colorAndShape-016",
+            "hungarian": "háromszög",
+            "english": "triangle",
+            "example": "The sign is a triangle.",
+            "exampleHu": "A tábla egy háromszög.",
+            "image": "triangle.webp"
+        },
+        {
+            "id": "colorAndShape-017",
+            "hungarian": "téglalap",
+            "english": "rectangle",
+            "example": "The door is a rectangle.",
+            "exampleHu": "Az ajtó egy téglalap.",
+            "image": "rectangle.webp"
+        },
+        {
+            "id": "colorAndShape-018",
+            "hungarian": "ovális",
+            "english": "oval",
+            "example": "The mirror is oval.",
+            "exampleHu": "A tükör ovális.",
+            "image": "oval.webp"
+        },
+        {
+            "id": "colorAndShape-019",
+            "hungarian": "rombusz",
+            "english": "diamond",
+            "example": "The shape is a diamond.",
+            "exampleHu": "Az alakzat egy rombusz.",
+            "image": "diamond.webp"
+        },
+        {
+            "id": "colorAndShape-020",
+            "hungarian": "vonal",
+            "english": "line",
+            "example": "Draw a straight line.",
+            "exampleHu": "Rajzolj egy egyenes vonalat.",
+            "image": "line.webp"
+        },
+        {
+            "id": "colorAndShape-021",
+            "hungarian": "hullám",
+            "english": "wave",
+            "example": "The wave is big.",
+            "exampleHu": "A hullám nagy.",
+            "image": "wave.webp"
+        },
+        {
+            "id": "colorAndShape-022",
+            "hungarian": "kocka",
+            "english": "cube",
+            "example": "The box is a cube.",
+            "exampleHu": "A doboz egy kocka.",
+            "image": "cube.webp"
+        },
+        {
+            "id": "colorAndShape-023",
+            "hungarian": "gömb",
+            "english": "sphere",
+            "example": "The ball is a sphere.",
+            "exampleHu": "A labda egy gömb.",
+            "image": "sphere.webp"
+        },
+        {
+            "id": "colorAndShape-024",
+            "hungarian": "henger",
+            "english": "cylinder",
+            "example": "The can is a cylinder.",
+            "exampleHu": "A doboz egy henger.",
+            "image": "cylinder.webp"
+        },
+        {
+            "id": "colorAndShape-025",
+            "hungarian": "gúla",
+            "english": "pyramid",
+            "example": "The pyramid is tall.",
+            "exampleHu": "A gúla magas.",
+            "image": "pyramid.webp"
+        },
+        {
+            "id": "colorAndShape-026",
+            "hungarian": "arany",
+            "english": "gold",
+            "example": "The ring is gold.",
+            "exampleHu": "A gyűrű arany.",
+            "image": "gold.webp"
+        },
+        {
+            "id": "colorAndShape-027",
+            "hungarian": "ezüst",
+            "english": "silver",
+            "example": "The spoon is silver.",
+            "exampleHu": "A kanál ezüst.",
+            "image": "silver.webp"
+        },
+        {
+            "id": "colorAndShape-028",
+            "hungarian": "kör alakú",
+            "english": "round",
+            "example": "The table is round.",
+            "exampleHu": "Az asztal kerek.",
+            "image": "round.webp"
+        },
+        {
+            "id": "colorAndShape-029",
+            "hungarian": "szögletes",
+            "english": "square-shaped",
+            "example": "The box is square-shaped.",
+            "exampleHu": "A doboz szögletes.",
+            "image": "square-shaped.webp"
+        },
+        {
+            "id": "colorAndShape-030",
+            "hungarian": "lapos",
+            "english": "flat",
+            "example": "The stone is flat.",
+            "exampleHu": "A kő lapos.",
+            "image": "flat.webp"
+        }
+    ]
+}

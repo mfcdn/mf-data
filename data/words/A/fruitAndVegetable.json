@@ -1,0 +1,245 @@
+{
+  "theme": "Fruits & Vegetables",
+  "cards": [
+    {
+      "id": "fruitAndVegetable-001",
+      "hungarian": "alma",
+      "english": "apple",
+      "example": "I eat an apple every day.",
+      "exampleHu": "Minden nap eszem egy almát.",
+      "image": "apple.webp"
+    },
+    {
+      "id": "fruitAndVegetable-002",
+      "hungarian": "banán",
+      "english": "banana",
+      "example": "The banana is yellow.",
+      "exampleHu": "A banán sárga.",
+      "image": "banana.webp"
+    },
+    {
+      "id": "fruitAndVegetable-003",
+      "hungarian": "narancs",
+      "english": "orange",
+      "example": "I like orange juice.",
+      "exampleHu": "Szeretem a narancslevet.",
+      "image": "orange.webp"
+    },
+    {
+      "id": "fruitAndVegetable-004",
+      "hungarian": "körte",
+      "english": "pear",
+      "example": "The pear is sweet.",
+      "exampleHu": "A körte édes.",
+      "image": "pear.webp"
+    },
+    {
+      "id": "fruitAndVegetable-005",
+      "hungarian": "szőlő",
+      "english": "grape",
+      "example": "Grapes grow in clusters.",
+      "exampleHu": "A szőlő fürtökben nő.",
+      "image": "grape.webp"
+    },
+    {
+      "id": "fruitAndVegetable-006",
+      "hungarian": "eper",
+      "english": "strawberry",
+      "example": "Strawberries are red.",
+      "exampleHu": "Az eper piros.",
+      "image": "strawberry.webp"
+    },
+    {
+      "id": "fruitAndVegetable-007",
+      "hungarian": "citrom",
+      "english": "lemon",
+      "example": "The lemon tastes sour.",
+      "exampleHu": "A citrom savanyú ízű.",
+      "image": "lemon.webp"
+    },
+    {
+      "id": "fruitAndVegetable-008",
+      "hungarian": "őszibarack",
+      "english": "peach",
+      "example": "The peach is soft and sweet.",
+      "exampleHu": "Az őszibarack puha és édes.",
+      "image": "peach.webp"
+    },
+    {
+      "id": "fruitAndVegetable-009",
+      "hungarian": "paradicsom",
+      "english": "tomato",
+      "example": "The tomato is red.",
+      "exampleHu": "A paradicsom piros.",
+      "image": "tomato.webp"
+    },
+    {
+      "id": "fruitAndVegetable-010",
+      "hungarian": "uborka",
+      "english": "cucumber",
+      "example": "The cucumber is fresh.",
+      "exampleHu": "Az uborka friss.",
+      "image": "cucumber.webp"
+    },
+    {
+      "id": "fruitAndVegetable-011",
+      "hungarian": "répa",
+      "english": "carrot",
+      "example": "The carrot is orange.",
+      "exampleHu": "A répa narancssárga.",
+      "image": "carrot.webp"
+    },
+    {
+      "id": "fruitAndVegetable-012",
+      "hungarian": "krumpli",
+      "english": "potato",
+      "example": "Potatoes grow in the ground.",
+      "exampleHu": "A krumpli a földben nő.",
+      "image": "potato.webp"
+    },
+    {
+      "id": "fruitAndVegetable-013",
+      "hungarian": "hagyma",
+      "english": "onion",
+      "example": "The onion makes me cry.",
+      "exampleHu": "A hagyma megkönnyeztet.",
+      "image": "onion.webp"
+    },
+    {
+      "id": "fruitAndVegetable-014",
+      "hungarian": "fokhagyma",
+      "english": "garlic",
+      "example": "Garlic has a strong smell.",
+      "exampleHu": "A fokhagymának erős szaga van.",
+      "image": "garlic.webp"
+    },
+    {
+      "id": "fruitAndVegetable-015",
+      "hungarian": "paprika",
+      "english": "pepper",
+      "example": "The pepper is spicy.",
+      "exampleHu": "A paprika csípős.",
+      "image": "pepper.webp"
+    },
+    {
+      "id": "fruitAndVegetable-016",
+      "hungarian": "saláta",
+      "english": "lettuce",
+      "example": "I eat lettuce in a salad.",
+      "exampleHu": "Salátában eszem a salátát.",
+      "image": "lettuce.webp"
+    },
+    {
+      "id": "fruitAndVegetable-017",
+      "hungarian": "káposzta",
+      "english": "cabbage",
+      "example": "Cabbage is green.",
+      "exampleHu": "A káposzta zöld.",
+      "image": "cabbage.webp"
+    },
+    {
+      "id": "fruitAndVegetable-018",
+      "hungarian": "brokkoli",
+      "english": "broccoli",
+      "example": "Broccoli is very healthy.",
+      "exampleHu": "A brokkoli nagyon egészséges.",
+      "image": "broccoli.webp"
+    },
+    {
+      "id": "fruitAndVegetable-019",
+      "hungarian": "gomba",
+      "english": "mushroom",
+      "example": "Mushrooms grow in the forest.",
+      "exampleHu": "A gombák az erdőben nőnek.",
+      "image": "mushroom.webp"
+    },
+    {
+      "id": "fruitAndVegetable-020",
+      "hungarian": "kukorica",
+      "english": "corn",
+      "example": "Corn is yellow.",
+      "exampleHu": "A kukorica sárga.",
+      "image": "corn.webp"
+    },
+    {
+      "id": "fruitAndVegetable-021",
+      "hungarian": "bab",
+      "english": "bean",
+      "example": "Beans are full of protein.",
+      "exampleHu": "A bab tele van fehérjével.",
+      "image": "bean.webp"
+    },
+    {
+      "id": "fruitAndVegetable-022",
+      "hungarian": "borsó",
+      "english": "pea",
+      "example": "Peas are small and green.",
+      "exampleHu": "A borsó kicsi és zöld.",
+      "image": "pea.webp"
+    },
+    {
+      "id": "fruitAndVegetable-023",
+      "hungarian": "ananász",
+      "english": "pineapple",
+      "example": "Pineapple is tropical fruit.",
+      "exampleHu": "Az ananász trópusi gyümölcs.",
+      "image": "pineapple.webp"
+    },
+    {
+      "id": "fruitAndVegetable-024",
+      "hungarian": "mangó",
+      "english": "mango",
+      "example": "The mango is very sweet.",
+      "exampleHu": "A mangó nagyon édes.",
+      "image": "mango.webp"
+    },
+    {
+      "id": "fruitAndVegetable-025",
+      "hungarian": "avokádó",
+      "english": "avocado",
+      "example": "Avocado is good for health.",
+      "exampleHu": "Az avokádó egészséges.",
+      "image": "avocado.webp"
+    },
+    {
+      "id": "fruitAndVegetable-026",
+      "hungarian": "cukkini",
+      "english": "zucchini",
+      "example": "Zucchini is a green vegetable.",
+      "exampleHu": "A cukkini zöld zöldség.",
+      "image": "zucchini.webp"
+    },
+    {
+      "id": "fruitAndVegetable-027",
+      "hungarian": "padlizsán",
+      "english": "eggplant",
+      "example": "Eggplant is purple.",
+      "exampleHu": "A padlizsán lila.",
+      "image": "eggplant.webp"
+    },
+    {
+      "id": "fruitAndVegetable-028",
+      "hungarian": "cékla",
+      "english": "beetroot",
+      "example": "Beetroot is dark red.",
+      "exampleHu": "A cékla sötétvörös.",
+      "image": "beetroot.webp"
+    },
+    {
+      "id": "fruitAndVegetable-029",
+      "hungarian": "lime",
+      "english": "lime",
+      "example": "Lime tastes sour.",
+      "exampleHu": "A lime savanyú ízű.",
+      "image": "lime.webp"
+    },
+    {
+      "id": "fruitAndVegetable-030",
+      "hungarian": "málna",
+      "english": "raspberry",
+      "example": "Raspberries are small and red.",
+      "exampleHu": "A málna kicsi és piros.",
+      "image": "raspberry.webp"
+    }
+  ]
+}

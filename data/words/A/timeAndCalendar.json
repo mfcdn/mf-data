@@ -1,0 +1,245 @@
+{
+  "theme": "Time and Calendar",
+  "cards": [
+    {
+      "id": "timeAndCalendar-001",
+      "hungarian": "nap",
+      "english": "day",
+      "example": "Today is a good day.",
+      "exampleHu": "Ma egy jó nap.",
+      "image": "day.webp"
+    },
+    {
+      "id": "timeAndCalendar-002",
+      "hungarian": "hét",
+      "english": "week",
+      "example": "I work five days a week.",
+      "exampleHu": "Heti öt napot dolgozom.",
+      "image": "week.webp"
+    },
+    {
+      "id": "timeAndCalendar-003",
+      "hungarian": "hónap",
+      "english": "month",
+      "example": "This month is busy.",
+      "exampleHu": "Ez a hónap mozgalmas.",
+      "image": "month.webp"
+    },
+    {
+      "id": "timeAndCalendar-004",
+      "hungarian": "év",
+      "english": "year",
+      "example": "This year is important.",
+      "exampleHu": "Ez az év fontos.",
+      "image": "year.webp"
+    },
+    {
+      "id": "timeAndCalendar-005",
+      "hungarian": "hétfő",
+      "english": "Monday",
+      "example": "I start work on Monday.",
+      "exampleHu": "Hétfőn kezdek dolgozni.",
+      "image": "monday.webp"
+    },
+    {
+      "id": "timeAndCalendar-006",
+      "hungarian": "kedd",
+      "english": "Tuesday",
+      "example": "We meet on Tuesday.",
+      "exampleHu": "Kedden találkozunk.",
+      "image": "tuesday.webp"
+    },
+    {
+      "id": "timeAndCalendar-007",
+      "hungarian": "szerda",
+      "english": "Wednesday",
+      "example": "Wednesday is a long day.",
+      "exampleHu": "A szerda hosszú nap.",
+      "image": "wednesday.webp"
+    },
+    {
+      "id": "timeAndCalendar-008",
+      "hungarian": "csütörtök",
+      "english": "Thursday",
+      "example": "Thursday comes after Wednesday.",
+      "exampleHu": "A csütörtök a szerda után jön.",
+      "image": "thursday.webp"
+    },
+    {
+      "id": "timeAndCalendar-009",
+      "hungarian": "péntek",
+      "english": "Friday",
+      "example": "Friday is my favorite day.",
+      "exampleHu": "A péntek a kedvenc napom.",
+      "image": "friday.webp"
+    },
+    {
+      "id": "timeAndCalendar-010",
+      "hungarian": "szombat",
+      "english": "Saturday",
+      "example": "I relax on Saturday.",
+      "exampleHu": "Szombaton pihenek.",
+      "image": "saturday.webp"
+    },
+    {
+      "id": "timeAndCalendar-011",
+      "hungarian": "vasárnap",
+      "english": "Sunday",
+      "example": "Sunday is a quiet day.",
+      "exampleHu": "A vasárnap nyugodt nap.",
+      "image": "sunday.webp"
+    },
+    {
+      "id": "timeAndCalendar-012",
+      "hungarian": "hétköznap",
+      "english": "weekday",
+      "example": "I work on weekdays.",
+      "exampleHu": "Hétköznapokon dolgozom.",
+      "image": "weekday.webp"
+    },
+    {
+      "id": "timeAndCalendar-013",
+      "hungarian": "hétvége",
+      "english": "weekend",
+      "example": "The weekend is short.",
+      "exampleHu": "A hétvége rövid.",
+      "image": "weekend.webp"
+    },
+    {
+      "id": "timeAndCalendar-014",
+      "hungarian": "január",
+      "english": "January",
+      "example": "January is cold.",
+      "exampleHu": "Január hideg.",
+      "image": "january.webp"
+    },
+    {
+      "id": "timeAndCalendar-015",
+      "hungarian": "február",
+      "english": "February",
+      "example": "February is a short month.",
+      "exampleHu": "Február rövid hónap.",
+      "image": "february.webp"
+    },
+    {
+      "id": "timeAndCalendar-016",
+      "hungarian": "március",
+      "english": "March",
+      "example": "Spring starts in March.",
+      "exampleHu": "Márciusban kezdődik a tavasz.",
+      "image": "march.webp"
+    },
+    {
+      "id": "timeAndCalendar-017",
+      "hungarian": "április",
+      "english": "April",
+      "example": "April is warm.",
+      "exampleHu": "Április meleg.",
+      "image": "april.webp"
+    },
+    {
+      "id": "timeAndCalendar-018",
+      "hungarian": "május",
+      "english": "May",
+      "example": "Flowers bloom in May.",
+      "exampleHu": "Májusban virágoznak a virágok.",
+      "image": "may.webp"
+    },
+    {
+      "id": "timeAndCalendar-019",
+      "hungarian": "június",
+      "english": "June",
+      "example": "June is the start of summer.",
+      "exampleHu": "Június a nyár kezdete.",
+      "image": "june.webp"
+    },
+    {
+      "id": "timeAndCalendar-020",
+      "hungarian": "július",
+      "english": "July",
+      "example": "July is very hot.",
+      "exampleHu": "Július nagyon meleg.",
+      "image": "july.webp"
+    },
+    {
+      "id": "timeAndCalendar-021",
+      "hungarian": "augusztus",
+      "english": "August",
+      "example": "Many people travel in August.",
+      "exampleHu": "Augusztusban sokan utaznak.",
+      "image": "august.webp"
+    },
+    {
+      "id": "timeAndCalendar-022",
+      "hungarian": "szeptember",
+      "english": "September",
+      "example": "School starts in September.",
+      "exampleHu": "Szeptemberben kezdődik az iskola.",
+      "image": "september.webp"
+    },
+    {
+      "id": "timeAndCalendar-023",
+      "hungarian": "október",
+      "english": "October",
+      "example": "October is cool and windy.",
+      "exampleHu": "Október hűvös és szeles.",
+      "image": "october.webp"
+    },
+    {
+      "id": "timeAndCalendar-024",
+      "hungarian": "november",
+      "english": "November",
+      "example": "November is dark and cold.",
+      "exampleHu": "November sötét és hideg.",
+      "image": "november.webp"
+    },
+    {
+      "id": "timeAndCalendar-025",
+      "hungarian": "december",
+      "english": "December",
+      "example": "December has many holidays.",
+      "exampleHu": "Decemberben sok ünnep van.",
+      "image": "december.webp"
+    },
+    {
+      "id": "timeAndCalendar-026",
+      "hungarian": "tél",
+      "english": "winter",
+      "example": "Winter is cold.",
+      "exampleHu": "A tél hideg.",
+      "image": "winter.webp"
+    },
+    {
+      "id": "timeAndCalendar-027",
+      "hungarian": "tavasz",
+      "english": "spring",
+      "example": "Spring is beautiful.",
+      "exampleHu": "A tavasz szép.",
+      "image": "spring.webp"
+    },
+    {
+      "id": "timeAndCalendar-028",
+      "hungarian": "nyár",
+      "english": "summer",
+      "example": "Summer is hot.",
+      "exampleHu": "A nyár meleg.",
+      "image": "summer.webp"
+    },
+    {
+      "id": "timeAndCalendar-029",
+      "hungarian": "ősz",
+      "english": "autumn",
+      "example": "Autumn has colorful leaves.",
+      "exampleHu": "Az ősznek színes levelei vannak.",
+      "image": "autumn.webp"
+    },
+    {
+      "id": "timeAndCalendar-030",
+      "hungarian": "évszak",
+      "english": "season",
+      "example": "My favorite season is summer.",
+      "exampleHu": "A kedvenc évszakom a nyár.",
+      "image": "season.webp"
+    }
+  ]
+}

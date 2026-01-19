@@ -1,0 +1,245 @@
+{
+  "theme": "Weather",
+  "cards": [
+    {
+      "id": "weather-001",
+      "hungarian": "napos",
+      "english": "sunny",
+      "example": "Today is sunny.",
+      "exampleHu": "Ma napos az idő.",
+      "image": "sunny.webp"
+    },
+    {
+      "id": "weather-002",
+      "hungarian": "felhős",
+      "english": "cloudy",
+      "example": "The sky is cloudy.",
+      "exampleHu": "Az ég felhős.",
+      "image": "cloudy.webp"
+    },
+    {
+      "id": "weather-003",
+      "hungarian": "esős",
+      "english": "rainy",
+      "example": "It is rainy today.",
+      "exampleHu": "Ma esős idő van.",
+      "image": "rainy.webp"
+    },
+    {
+      "id": "weather-004",
+      "hungarian": "havas",
+      "english": "snowy",
+      "example": "It is snowy outside.",
+      "exampleHu": "Kint havas az idő.",
+      "image": "snowy.webp"
+    },
+    {
+      "id": "weather-005",
+      "hungarian": "szeles",
+      "english": "windy",
+      "example": "It is very windy today.",
+      "exampleHu": "Ma nagyon szeles az idő.",
+      "image": "windy.webp"
+    },
+    {
+      "id": "weather-006",
+      "hungarian": "forró",
+      "english": "hot",
+      "example": "The weather is hot in summer.",
+      "exampleHu": "Nyáron forró az idő.",
+      "image": "hot.webp"
+    },
+    {
+      "id": "weather-007",
+      "hungarian": "hideg",
+      "english": "cold",
+      "example": "It is cold in winter.",
+      "exampleHu": "Télen hideg van.",
+      "image": "cold.webp"
+    },
+    {
+      "id": "weather-008",
+      "hungarian": "meleg",
+      "english": "warm",
+      "example": "It is warm today.",
+      "exampleHu": "Ma meleg van.",
+      "image": "warm.webp"
+    },
+    {
+      "id": "weather-009",
+      "hungarian": "hűvös",
+      "english": "cool",
+      "example": "The evening is cool.",
+      "exampleHu": "Az este hűvös.",
+      "image": "cool.webp"
+    },
+    {
+      "id": "weather-010",
+      "hungarian": "viharos",
+      "english": "stormy",
+      "example": "The weather is stormy.",
+      "exampleHu": "Viharos az idő.",
+      "image": "stormy.webp"
+    },
+    {
+      "id": "weather-011",
+      "hungarian": "ködös",
+      "english": "foggy",
+      "example": "It is foggy in the morning.",
+      "exampleHu": "Reggel ködös van.",
+      "image": "foggy.webp"
+    },
+    {
+      "id": "weather-012",
+      "hungarian": "párás",
+      "english": "humid",
+      "example": "The air is humid today.",
+      "exampleHu": "Ma párás a levegő.",
+      "image": "humid.webp"
+    },
+    {
+      "id": "weather-013",
+      "hungarian": "villámlás",
+      "english": "lightning",
+      "example": "Lightning is dangerous.",
+      "exampleHu": "A villámlás veszélyes.",
+      "image": "lightning.webp"
+    },
+    {
+      "id": "weather-014",
+      "hungarian": "mennydörgés",
+      "english": "thunder",
+      "example": "Thunder is loud.",
+      "exampleHu": "A mennydörgés hangos.",
+      "image": "thunder.webp"
+    },
+    {
+      "id": "weather-015",
+      "hungarian": "esőcsepp",
+      "english": "raindrop",
+      "example": "A raindrop fell on my hand.",
+      "exampleHu": "Egy esőcsepp esett a kezemre.",
+      "image": "raindrop.webp"
+    },
+    {
+      "id": "weather-016",
+      "hungarian": "havazás",
+      "english": "snowfall",
+      "example": "The snowfall is beautiful.",
+      "exampleHu": "A havazás gyönyörű.",
+      "image": "snowfall.webp"
+    },
+    {
+      "id": "weather-017",
+      "hungarian": "hőmérséklet",
+      "english": "temperature",
+      "example": "The temperature is 20°C.",
+      "exampleHu": "A hőmérséklet 20°C.",
+      "image": "temperature.webp"
+    },
+    {
+      "id": "weather-018",
+      "hungarian": "időjárás",
+      "english": "weather",
+      "example": "The weather is nice today.",
+      "exampleHu": "Ma szép az időjárás.",
+      "image": "weather.webp"
+    },
+    {
+      "id": "weather-019",
+      "hungarian": "napkelte",
+      "english": "sunrise",
+      "example": "The sunrise is beautiful.",
+      "exampleHu": "A napkelte gyönyörű.",
+      "image": "sunrise.webp"
+    },
+    {
+      "id": "weather-020",
+      "hungarian": "napnyugta",
+      "english": "sunset",
+      "example": "I like to watch the sunset.",
+      "exampleHu": "Szeretek nézni a napnyugtát.",
+      "image": "sunset.webp"
+    },
+    {
+      "id": "weather-021",
+      "hungarian": "szivárvány",
+      "english": "rainbow",
+      "example": "There is a rainbow in the sky.",
+      "exampleHu": "Az égen szivárvány van.",
+      "image": "rainbow.webp"
+    },
+    {
+      "id": "weather-022",
+      "hungarian": "hópehely",
+      "english": "snowflake",
+      "example": "A snowflake landed on my coat.",
+      "exampleHu": "Egy hópehely a kabátomra hullott.",
+      "image": "snowflake.webp"
+    },
+    {
+      "id": "weather-023",
+      "hungarian": "szél",
+      "english": "wind",
+      "example": "The wind is strong today.",
+      "exampleHu": "Ma erős a szél.",
+      "image": "wind.webp"
+    },
+    {
+      "id": "weather-024",
+      "hungarian": "esernyő",
+      "english": "umbrella",
+      "example": "I use an umbrella when it rains.",
+      "exampleHu": "Esőben használok esernyőt.",
+      "image": "umbrella.webp"
+    },
+    {
+      "id": "weather-025",
+      "hungarian": "fagy",
+      "english": "frost",
+      "example": "Frost covers the grass in winter.",
+      "exampleHu": "Télen a fűt fagy borítja.",
+      "image": "frost.webp"
+    },
+    {
+      "id": "weather-026",
+      "hungarian": "hőhullám",
+      "english": "heatwave",
+      "example": "The heatwave lasts for a week.",
+      "exampleHu": "A hőhullám egy hétig tart.",
+      "image": "heatwave.webp"
+    },
+    {
+      "id": "weather-027",
+      "hungarian": "zivatar",
+      "english": "thunderstorm",
+      "example": "A thunderstorm is coming.",
+      "exampleHu": "Zivatar közeleg.",
+      "image": "thunderstorm.webp"
+    },
+    {
+      "id": "weather-028",
+      "hungarian": "köd",
+      "english": "mist",
+      "example": "The mist is thick in the morning.",
+      "exampleHu": "Reggel sűrű a köd.",
+      "image": "mist.webp"
+    },
+    {
+      "id": "weather-029",
+      "hungarian": "zápor",
+      "english": "shower",
+      "example": "A shower is falling.",
+      "exampleHu": "Zápor esik.",
+      "image": "shower.webp"
+    },
+    {
+      "id": "weather-030",
+      "hungarian": "jégeső",
+      "english": "hail",
+      "example": "Hail can damage cars.",
+      "exampleHu": "A jégeső kárt tehet az autókban.",
+      "image": "hail.webp"
+    }
+  ]
+}

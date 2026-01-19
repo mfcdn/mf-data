@@ -1,0 +1,245 @@
+{
+  "theme": "Sports & Exercise (B1-B2)",
+  "cards": [
+    {
+      "id": "sportsAndExercise-001",
+      "hungarian": "állóképesség",
+      "english": "endurance",
+      "example": "Running long distances improves endurance.",
+      "exampleHu": "A hosszú távú futás javítja az állóképességet.",
+      "image": "endurance.webp"
+    },
+    {
+      "id": "sportsAndExercise-002",
+      "hungarian": "erőnlét",
+      "english": "stamina",
+      "example": "Cycling daily increases your stamina.",
+      "exampleHu": "A mindennapi kerékpározás növeli az erőnléted.",
+      "image": "stamina.webp"
+    },
+    {
+      "id": "sportsAndExercise-003",
+      "hungarian": "izomerő",
+      "english": "muscle strength",
+      "example": "Strength training enhances muscle strength.",
+      "exampleHu": "Az erősítő edzés növeli az izomerőt.",
+      "image": "muscle_strength.webp"
+    },
+    {
+      "id": "sportsAndExercise-004",
+      "hungarian": "kardió",
+      "english": "cardiovascular exercise",
+      "example": "Cardiovascular exercises improve heart health.",
+      "exampleHu": "A kardióedzés javítja a szív egészségét.",
+      "image": "cardio.webp"
+    },
+    {
+      "id": "sportsAndExercise-005",
+      "hungarian": "magas intenzitású edzés",
+      "english": "high-intensity training",
+      "example": "High-intensity training burns more calories.",
+      "exampleHu": "A magas intenzitású edzés több kalóriát éget.",
+      "image": "hiit.webp"
+    },
+    {
+      "id": "sportsAndExercise-006",
+      "hungarian": "rugalmaság",
+      "english": "flexibility",
+      "example": "Yoga helps improve flexibility.",
+      "exampleHu": "A jóga segít növelni a rugalmasságot.",
+      "image": "flexibility.webp"
+    },
+    {
+      "id": "sportsAndExercise-007",
+      "hungarian": "erőnléti edzés",
+      "english": "strength training",
+      "example": "Strength training is essential for muscle growth.",
+      "exampleHu": "Az erőnléti edzés alapvető az izomnövekedéshez.",
+      "image": "strength_training.webp"
+    },
+    {
+      "id": "sportsAndExercise-008",
+      "hungarian": "intervallum edzés",
+      "english": "interval training",
+      "example": "Interval training alternates high and low intensity periods.",
+      "exampleHu": "Az intervallum edzés váltogatja a magas és alacsony intenzitást.",
+      "image": "interval_training.webp"
+    },
+    {
+      "id": "sportsAndExercise-009",
+      "hungarian": "verseny",
+      "english": "competition",
+      "example": "Athletes prepare intensively for competitions.",
+      "exampleHu": "A sportolók intenzíven készülnek a versenyekre.",
+      "image": "competition.webp"
+    },
+    {
+      "id": "sportsAndExercise-010",
+      "hungarian": "személyes rekord",
+      "english": "personal best",
+      "example": "She beat her personal best in the marathon.",
+      "exampleHu": "Megdöntötte a személyes rekordját a maratonon.",
+      "image": "personal_best.webp"
+    },
+    {
+      "id": "sportsAndExercise-011",
+      "hungarian": "fizikai aktivitás",
+      "english": "physical activity",
+      "example": "Regular physical activity reduces stress.",
+      "exampleHu": "A rendszeres fizikai aktivitás csökkenti a stresszt.",
+      "image": "physical_activity.webp"
+    },
+    {
+      "id": "sportsAndExercise-012",
+      "hungarian": "bemelegítés",
+      "english": "warm-up",
+      "example": "A proper warm-up prevents injuries.",
+      "exampleHu": "A megfelelő bemelegítés megelőzi a sérüléseket.",
+      "image": "warm_up.webp"
+    },
+    {
+      "id": "sportsAndExercise-013",
+      "hungarian": "levezetés",
+      "english": "cool-down",
+      "example": "Cooling down helps your muscles recover.",
+      "exampleHu": "A levezetés segíti az izmok regenerálódását.",
+      "image": "cool_down.webp"
+    },
+    {
+      "id": "sportsAndExercise-014",
+      "hungarian": "edző",
+      "english": "coach",
+      "example": "The coach advised us on proper technique.",
+      "exampleHu": "Az edző tanácsot adott a helyes technikáról.",
+      "image": "coach.webp"
+    },
+    {
+      "id": "sportsAndExercise-015",
+      "hungarian": "edzésprogram",
+      "english": "workout plan",
+      "example": "Following a workout plan improves results.",
+      "exampleHu": "Az edzésprogram követése jobb eredményeket hoz.",
+      "image": "workout_plan.webp"
+    },
+    {
+      "id": "sportsAndExercise-016",
+      "hungarian": "pihenőnap",
+      "english": "rest day",
+      "example": "A rest day is important for recovery.",
+      "exampleHu": "A pihenőnap fontos a regenerálódáshoz.",
+      "image": "rest_day.webp"
+    },
+    {
+      "id": "sportsAndExercise-017",
+      "hungarian": "pulzus",
+      "english": "heart rate",
+      "example": "Monitoring your heart rate helps track intensity.",
+      "exampleHu": "A pulzus figyelése segít az intenzitás követésében.",
+      "image": "heart_rate.webp"
+    },
+    {
+      "id": "sportsAndExercise-018",
+      "hungarian": "kardióedzés",
+      "english": "cardio workout",
+      "example": "Cardio workouts increase endurance.",
+      "exampleHu": "A kardióedzés növeli az állóképességet.",
+      "image": "cardio_workout.webp"
+    },
+    {
+      "id": "sportsAndExercise-019",
+      "hungarian": "izmok rugalmassága",
+      "english": "muscle elasticity",
+      "example": "Stretching improves muscle elasticity.",
+      "exampleHu": "A nyújtás növeli az izmok rugalmasságát.",
+      "image": "muscle_elasticity.webp"
+    },
+    {
+      "id": "sportsAndExercise-020",
+      "hungarian": "csoportos edzés",
+      "english": "group class",
+      "example": "Group classes motivate participants.",
+      "exampleHu": "A csoportos edzések motiválják a résztvevőket.",
+      "image": "group_class.webp"
+    },
+    {
+      "id": "sportsAndExercise-021",
+      "hungarian": "fitneszóra",
+      "english": "fitness session",
+      "example": "I attend a fitness session twice a week.",
+      "exampleHu": "Hetente kétszer járok fitneszórára.",
+      "image": "fitness_session.webp"
+    },
+    {
+      "id": "sportsAndExercise-022",
+      "hungarian": "átlagos pulzus",
+      "english": "average heart rate",
+      "example": "My average heart rate during the run was 140 bpm.",
+      "exampleHu": "A futás közbeni átlagos pulzusom 140 volt.",
+      "image": "average_heart_rate.webp"
+    },
+    {
+      "id": "sportsAndExercise-023",
+      "hungarian": "edzésterhelés",
+      "english": "training load",
+      "example": "Monitoring training load prevents overtraining.",
+      "exampleHu": "Az edzésterhelés figyelése megakadályozza a túlterhelést.",
+      "image": "training_load.webp"
+    },
+    {
+      "id": "sportsAndExercise-024",
+      "hungarian": "fizikai állapot",
+      "english": "physical condition",
+      "example": "Swimming improves your physical condition.",
+      "exampleHu": "Az úszás javítja a fizikai állapotot.",
+      "image": "physical_condition.webp"
+    },
+    {
+      "id": "sportsAndExercise-025",
+      "hungarian": "sporttevékenység",
+      "english": "sport activity",
+      "example": "Regular sport activity benefits your health.",
+      "exampleHu": "A rendszeres sporttevékenység javítja az egészséget.",
+      "image": "sport_activity.webp"
+    },
+    {
+      "id": "sportsAndExercise-026",
+      "hungarian": "terhelés",
+      "english": "load",
+      "example": "The training load must be increased gradually.",
+      "exampleHu": "A terhelést fokozatosan kell növelni.",
+      "image": "load.webp"
+    },
+    {
+      "id": "sportsAndExercise-027",
+      "hungarian": "versenyző",
+      "english": "athlete",
+      "example": "Athletes need to follow strict routines.",
+      "exampleHu": "A versenyzőknek szigorú rutinokat kell követniük.",
+      "image": "athlete.webp"
+    },
+    {
+      "id": "sportsAndExercise-028",
+      "hungarian": "rehabilitáció",
+      "english": "rehabilitation",
+      "example": "After injury, rehabilitation is essential.",
+      "exampleHu": "Sérülés után a rehabilitáció elengedhetetlen.",
+      "image": "rehabilitation.webp"
+    },
+    {
+      "id": "sportsAndExercise-029",
+      "hungarian": "mentális erő",
+      "english": "mental strength",
+      "example": "Mental strength is as important as physical fitness.",
+      "exampleHu": "A mentális erő ugyanolyan fontos, mint a fizikai állóképesség.",
+      "image": "mental_strength.webp"
+    },
+    {
+      "id": "sportsAndExercise-030",
+      "hungarian": "versenyképesség",
+      "english": "competitiveness",
+      "example": "Competitiveness drives athletes to improve.",
+      "exampleHu": "A versenyszellem ösztönzi a sportolókat a fejlődésre.",
+      "image": "competitiveness.webp"
+    }
+  ]
+}
