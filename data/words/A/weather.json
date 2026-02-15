@@ -195,10 +195,10 @@
     },
     {
       "id": "weather-025",
-      "hungarian": "fagy",
+      "hungarian": "dér",
       "english": "frost",
       "example": "Frost covers the grass in winter.",
-      "exampleHu": "Télen a fűt fagy borítja.",
+      "exampleHu": "Télen a fűt dér borítja.",
       "image": "frost.webp"
     },
     {
