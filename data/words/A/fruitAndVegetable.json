@@ -125,8 +125,8 @@
       "id": "fruitAndVegetable-016",
       "hungarian": "saláta",
       "english": "lettuce",
-      "example": "I eat lettuce in a salad.",
-      "exampleHu": "Salátában eszem a salátát.",
+      "example": "I put fresh lettuce in my sandwich.",
+      "exampleHu": "Friss salátát tettem a szendvicsembe.",
       "image": "lettuce.webp"
     },
     {
@@ -198,7 +198,7 @@
       "hungarian": "avokádó",
       "english": "avocado",
       "example": "Avocado is good for health.",
-      "exampleHu": "Az avokádó egészséges.",
+      "exampleHu": "Az avokádó jót tesz az egészségnek.",
       "image": "avocado.webp"
     },
     {
