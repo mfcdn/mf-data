@@ -30,7 +30,7 @@
             "hungarian": "kedvezmény",
             "english": "discount",
             "example": "They gave me a 10% discount on the shoes.",
-            "exampleHu": "10% kedvezményt kaptam a cipőkre.",
+            "exampleHu": "10% kedvezményt adtak nekem a cipőkre.",
             "image": "discount.webp"
         },
         {
@@ -38,7 +38,7 @@
             "hungarian": "bevásárlókocsi",
             "english": "shopping cart",
             "example": "I filled the shopping cart with fruits and vegetables.",
-            "exampleHu": "Megpakoltam a bevásárlókocsit gyümölcsökkel és zöldségekkel.",
+            "exampleHu": "Megtöltöttem a bevásárlókocsit gyümölcsökkel és zöldségekkel.",
             "image": "shopping_cart.webp"
         },
         {
@@ -110,15 +110,15 @@
             "hungarian": "kosár",
             "english": "basket",
             "example": "I carried a basket while shopping.",
-            "exampleHu": "Kosárral jártam vásárolni.",
+            "exampleHu": "Vittem magammal kosarat vásárlás közben.",
             "image": "basket.webp"
         },
         {
             "id": "shopping-015",
-            "hungarian": "próba",
-            "english": "fitting",
-            "example": "I need to do a fitting before buying the dress.",
-            "exampleHu": "Próbát kell tartanom, mielőtt megveszem a ruhát.",
+            "hungarian": "ruhapróbát tartani",
+            "english": "to do a fitting",
+            "example": "I need to do a fitting before buying the wedding dress.",
+            "exampleHu": "Ruhapróbát kell tartanom, mielőtt megveszem a menyasszonyi ruhát.",
             "image": "fitting.webp"
         },
         {
@@ -126,7 +126,7 @@
             "hungarian": "fizetés",
             "english": "payment",
             "example": "You can make payment by cash or card.",
-            "exampleHu": "Fizethet készpénzzel vagy kártyával.",
+            "exampleHu": "Intézheti a fizetést készpénzzel vagy kártyával.",
             "image": "payment.webp"
         },
         {
