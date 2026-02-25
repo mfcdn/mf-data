@@ -51,10 +51,10 @@
         },
         {
             "id": "emotionsAndRelationships-007",
-            "hungarian": "irigy / neheztelő",
-            "english": "resentful",
+            "hungarian": "neheztelni valamiért",
+            "english": "to feel resentful about",
             "example": "She felt resentful about being overlooked for promotion.",
-            "exampleHu": "Megsértődött, hogy figyelmen kívül hagyták az előléptetésnél.",
+            "exampleHu": "Neheztelt, hogy figyelmen kívül hagyták az előléptetésnél.",
             "image": "resentful.webp"
         },
         {
@@ -62,7 +62,7 @@
             "hungarian": "szégyell valamit",
             "english": "be ashamed of",
             "example": "He was ashamed of lying to his friend.",
-            "exampleHu": "Szégyellte magát, hogy hazudott a barátjának.",
+            "exampleHu": "Szégyellte, hogy hazudott a barátjának.",
             "image": "ashamed.webp"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "emotionsAndRelationships-018",
-            "hungarian": "összezavarodott",
+            "hungarian": "zavarodott",
             "english": "bewildered",
             "example": "He looked bewildered after hearing the confusing instructions.",
-            "exampleHu": "Összezavarodottnak tűnt a zavaros utasítások után.",
+            "exampleHu": "Zavarodottnak tűnt a zavaros utasítások után.",
             "image": "bewildered.webp"
         },
         {
@@ -230,12 +230,12 @@
             "hungarian": "megismer valakit",
             "english": "get to know",
             "example": "She wanted to get to know her new neighbors.",
-            "exampleHu": "Szeretett volna megismerni az új szomszédait.",
+            "exampleHu": "Meg akarta ismerni az új szomszédait.",
             "image": "gettoknow.webp"
         },
         {
             "id": "emotionsAndRelationships-030",
-            "hungarian": "nyugtalan / aggódó",
+            "hungarian": "nyugtalan",
             "english": "apprehensive",
             "example": "She felt apprehensive before starting her new job.",
             "exampleHu": "Nyugtalan volt, mielőtt elkezdte az új munkáját.",
