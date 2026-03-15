@@ -67,10 +67,10 @@
     },
     {
       "id": "globalIssues-009",
-      "hungarian": "környezetszennyezés",
+      "hungarian": "környezetkárosodás",
       "english": "environmental degradation",
       "example": "Environmental degradation threatens biodiversity across the planet.",
-      "exampleHu": "A környezetpusztulás veszélyezteti a Föld biológiai sokféleségét.",
+      "exampleHu": "A környezetkárosodás veszélyezteti a Föld biológiai sokféleségét.",
       "image": "environmental_degradation.webp"
     },
     {
