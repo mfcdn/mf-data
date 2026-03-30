@@ -1,0 +1,245 @@
+{
+  "theme": "Remote Work",
+  "cards": [
+    {
+      "id": "remoteWork-001",
+      "hungarian": "le voltam némítva",
+      "english": "I was muted",
+      "example": "Sorry, I was muted during the call.",
+      "exampleHu": "Bocs, le voltam némítva a hívás alatt.",
+      "image": "muted.webp"
+    },
+    {
+      "id": "remoteWork-002",
+      "hungarian": "csatlakozni a meetinghez",
+      "english": "to join the meeting",
+      "example": "I will join the meeting in five minutes.",
+      "exampleHu": "Öt perc múlva csatlakozom a meetinghez.",
+      "image": "join_meeting.webp"
+    },
+    {
+      "id": "remoteWork-003",
+      "hungarian": "az internet folyton megszakad",
+      "english": "the internet keeps cutting out",
+      "example": "I couldn’t finish my report because the internet keeps cutting out.",
+      "exampleHu": "Nem tudtam befejezni a jelentésemet, mert az internet folyton megszakad.",
+      "image": "internet_cutting_out.webp"
+    },
+    {
+      "id": "remoteWork-004",
+      "hungarian": "feladatot kiosztani",
+      "english": "to assign tasks",
+      "example": "I assigned tasks to the team for this week.",
+      "exampleHu": "Kiosztottam a feladatokat a csapatnak erre a hétre.",
+      "image": "assign_tasks.webp"
+    },
+    {
+      "id": "remoteWork-005",
+      "hungarian": "tartani a határidőt",
+      "english": "to meet the deadline",
+      "example": "We need to meet the deadline for the project.",
+      "exampleHu": "Tartanunk kell a határidőt a projektnél.",
+      "image": "meet_deadline.webp"
+    },
+    {
+      "id": "remoteWork-006",
+      "hungarian": "visszajelzést adni",
+      "english": "to give feedback",
+      "example": "Please give feedback on the report by tomorrow.",
+      "exampleHu": "Kérlek, adj visszajelzést a jelentésről holnapig.",
+      "image": "give_feedback.webp"
+    },
+    {
+      "id": "remoteWork-007",
+      "hungarian": "visszajelzést kapni",
+      "english": "to receive feedback",
+      "example": "I received feedback on my presentation from the manager.",
+      "exampleHu": "Visszajelzést kaptam a prezentációmról a menedzsertől.",
+      "image": "receive_feedback.webp"
+    },
+    {
+      "id": "remoteWork-008",
+      "hungarian": "elvégezni egy feladatot",
+      "english": "to complete a task",
+      "example": "I completed the task ahead of schedule.",
+      "exampleHu": "Idő előtt elvégeztem a feladatot.",
+      "image": "complete_task.webp"
+    },
+    {
+      "id": "remoteWork-009",
+      "hungarian": "megbeszélést szervezni",
+      "english": "to schedule a meeting",
+      "example": "I scheduled a meeting for next Monday.",
+      "exampleHu": "Jövő hétfőre szerveztem egy megbeszélést.",
+      "image": "schedule_meeting.webp"
+    },
+    {
+      "id": "remoteWork-010",
+      "hungarian": "megbeszélést elhalasztani",
+      "english": "to reschedule a meeting",
+      "example": "We need to reschedule the meeting due to conflicts.",
+      "exampleHu": "A megbeszélést át kell ütemeznünk az ütközések miatt.",
+      "image": "reschedule_meeting.webp"
+    },
+    {
+      "id": "remoteWork-011",
+      "hungarian": "csapatban dolgozni",
+      "english": "to work in a team",
+      "example": "We work in a team to complete complex projects.",
+      "exampleHu": "Csapatban dolgozunk a komplex projektek teljesítéséhez.",
+      "image": "work_in_team.webp"
+    },
+    {
+      "id": "remoteWork-012",
+      "hungarian": "önállóan dolgozni",
+      "english": "to work independently",
+      "example": "She can work independently without supervision.",
+      "exampleHu": "Ő képes önállóan dolgozni felügyelet nélkül.",
+      "image": "work_independently.webp"
+    },
+    {
+      "id": "remoteWork-013",
+      "hungarian": "dokumentumot megosztani",
+      "english": "to share a document",
+      "example": "I shared the document with the team on Google Drive.",
+      "exampleHu": "Megosztottam a dokumentumot a csapattal a Google Drive-on.",
+      "image": "share_document.webp"
+    },
+    {
+      "id": "remoteWork-014",
+      "hungarian": "értekezleten részt venni",
+      "english": "to attend a meeting",
+      "example": "I attended the meeting via Zoom yesterday.",
+      "exampleHu": "Tegnap részt vettem az értekezleten Zoomon keresztül.",
+      "image": "attend_meeting.webp"
+    },
+    {
+      "id": "remoteWork-015",
+      "hungarian": "prezentációt tartani",
+      "english": "to give a presentation",
+      "example": "I gave a presentation on last month’s results.",
+      "exampleHu": "Prezentációt tartottam a múlt havi eredményekről.",
+      "image": "give_presentation.webp"
+    },
+    {
+      "id": "remoteWork-016",
+      "hungarian": "e-mailt küldeni",
+      "english": "to send an email",
+      "example": "I sent an email to the client with the report.",
+      "exampleHu": "Küldtem egy e-mailt az ügyfélnek a jelentéssel.",
+      "image": "send_email.webp"
+    },
+    {
+      "id": "remoteWork-017",
+      "hungarian": "e-mailre válaszolni",
+      "english": "to reply to an email",
+      "example": "I replied to the email from HR this morning.",
+      "exampleHu": "Ma reggel válaszoltam a HR-től érkezett e-mailre.",
+      "image": "reply_email.webp"
+    },
+    {
+      "id": "remoteWork-018",
+      "hungarian": "jegyzőkönyvet készíteni",
+      "english": "to take minutes",
+      "example": "I took minutes of the meeting for future reference.",
+      "exampleHu": "Jegyzőkönyvet készítettem az értekezletről a későbbi felhasználásra.",
+      "image": "take_minutes.webp"
+    },
+    {
+      "id": "remoteWork-019",
+      "hungarian": "feladatot nyomon követni",
+      "english": "to track a task",
+      "example": "I track tasks in our project management tool.",
+      "exampleHu": "A feladatokat a projektmenedzsment eszközünkben követem nyomon.",
+      "image": "track_task.webp"
+    },
+    {
+      "id": "remoteWork-020",
+      "hungarian": "prioritásokat felállítani",
+      "english": "to set priorities",
+      "example": "I set priorities for the day to stay organized.",
+      "exampleHu": "Felállítottam a napi prioritásokat, hogy szervezett maradjak.",
+      "image": "set_priorities.webp"
+    },
+    {
+      "id": "remoteWork-021",
+      "hungarian": "határidőt meghosszabbítani",
+      "english": "to extend a deadline",
+      "example": "We had to extend the deadline due to unforeseen issues.",
+      "exampleHu": "A határidőt a váratlan problémák miatt meg kellett hosszabbítanunk.",
+      "image": "extend_deadline.webp"
+    },
+    {
+      "id": "remoteWork-022",
+      "hungarian": "határidőt előrébb hozni",
+      "english": "to bring forward a deadline",
+      "example": "The client asked to bring forward the deadline by two days.",
+      "exampleHu": "Az ügyfél kérte, hogy a határidőt két nappal hozzuk előrébb.",
+      "image": "bring_forward_deadline.webp"
+    },
+    {
+      "id": "remoteWork-023",
+      "hungarian": "összefoglalót készíteni",
+      "english": "to prepare a summary",
+      "example": "I prepared a summary of today’s meeting for the team.",
+      "exampleHu": "Összefoglalót készítettem a mai megbeszélésről a csapatnak.",
+      "image": "prepare_summary.webp"
+    },
+    {
+      "id": "remoteWork-024",
+      "hungarian": "projektet áttekinteni",
+      "english": "to review a project",
+      "example": "I reviewed the project plan before sharing it with the client.",
+      "exampleHu": "Áttekintettem a projekt tervét, mielőtt megosztottam volna az ügyféllel.",
+      "image": "review_project.webp"
+    },
+    {
+      "id": "remoteWork-025",
+      "hungarian": "megbeszélni a részleteket",
+      "english": "to go over the details",
+      "example": "Let’s go over the details of the new assignment.",
+      "exampleHu": "Beszéljük át az új feladat részleteit.",
+      "image": "go_over_details.webp"
+    },
+    {
+      "id": "remoteWork-026",
+      "hungarian": "visszaigazolni",
+      "english": "to confirm receipt",
+      "example": "Please confirm receipt of the document.",
+      "exampleHu": "Kérlek, igazold vissza a dokumentum átvételét.",
+      "image": "confirm_receipt.webp"
+    },
+    {
+      "id": "remoteWork-027",
+      "hungarian": "kérdést feltenni",
+      "english": "to ask a question",
+      "example": "Feel free to ask questions during the session.",
+      "exampleHu": "Nyugodtan tegyetek fel kérdéseket az alkalom alatt.",
+      "image": "ask_question.webp"
+    },
+    {
+      "id": "remoteWork-028",
+      "hungarian": "problémát jelezni",
+      "english": "to report an issue",
+      "example": "Please report any issues with the system immediately.",
+      "exampleHu": "Kérlek, azonnal jelezz minden problémát a rendszerrel kapcsolatban.",
+      "image": "report_issue.webp"
+    },
+    {
+      "id": "remoteWork-029",
+      "hungarian": "határidőt betartani",
+      "english": "to stick to a deadline",
+      "example": "We need to stick to the deadline for client satisfaction.",
+      "exampleHu": "Tartanunk kell a határidőt az ügyfél elégedettsége érdekében.",
+      "image": "stick_to_deadline.webp"
+    },
+    {
+      "id": "remoteWork-030",
+      "hungarian": "feladatot delegálni",
+      "english": "to delegate a task",
+      "example": "I delegated the task to a team member with more experience.",
+      "exampleHu": "A feladatot egy tapasztaltabb csapattagnak delegáltam.",
+      "image": "delegate_task.webp"
+    }
+  ]
+}
