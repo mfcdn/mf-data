@@ -1,0 +1,245 @@
+{
+  "theme": "Online Shopping",
+  "cards": [
+    {
+      "id": "shopping-001",
+      "hungarian": "kosárba helyezni egy terméket",
+      "english": "to add an item to the cart",
+      "example": "I added an item to the cart but didn’t buy it.",
+      "exampleHu": "Kosárba tettem egy terméket, de nem vettem meg.",
+      "image": "add_to_cart.webp"
+    },
+    {
+      "id": "shopping-002",
+      "hungarian": "fizetési folyamat",
+      "english": "checkout process",
+      "example": "The checkout process was quick and easy.",
+      "exampleHu": "A fizetési folyamat gyors és egyszerű volt.",
+      "image": "checkout.webp"
+    },
+    {
+      "id": "shopping-003",
+      "hungarian": "szállítási költség",
+      "english": "shipping cost",
+      "example": "The shipping cost was too high.",
+      "exampleHu": "A szállítási költség túl magas volt.",
+      "image": "shipping_cost.webp"
+    },
+    {
+      "id": "shopping-004",
+      "hungarian": "becsült szállítási idő",
+      "english": "estimated delivery time",
+      "example": "The estimated delivery time is five days.",
+      "exampleHu": "A becsült szállítási idő öt nap.",
+      "image": "delivery_time.webp"
+    },
+    {
+      "id": "shopping-005",
+      "hungarian": "visszaküldési szabályzat",
+      "english": "return policy",
+      "example": "Always check the return policy before buying.",
+      "exampleHu": "Mindig ellenőrizd a visszaküldési szabályzatot vásárlás előtt.",
+      "image": "return_policy.webp"
+    },
+    {
+      "id": "shopping-006",
+      "hungarian": "visszatérítést igényelni",
+      "english": "to request a refund",
+      "example": "I requested a refund for the damaged item.",
+      "exampleHu": "Visszatérítést kértem a sérült termékre.",
+      "image": "refund.webp"
+    },
+    {
+      "id": "shopping-007",
+      "hungarian": "kedvezménykódot alkalmazni",
+      "english": "to apply a discount code",
+      "example": "Don’t forget to apply a discount code.",
+      "exampleHu": "Ne felejtsd el alkalmazni a kedvezménykódot.",
+      "image": "discount.webp"
+    },
+    {
+      "id": "shopping-008",
+      "hungarian": "nincs készleten",
+      "english": "out of stock",
+      "example": "The product is currently out of stock.",
+      "exampleHu": "A termék jelenleg nincs készleten.",
+      "image": "out_of_stock.webp"
+    },
+    {
+      "id": "shopping-009",
+      "hungarian": "készleten van",
+      "english": "in stock",
+      "example": "The item is in stock again.",
+      "exampleHu": "A termék újra van készleten.",
+      "image": "in_stock.webp"
+    },
+    {
+      "id": "shopping-010",
+      "hungarian": "rendelést leadni",
+      "english": "to place an order",
+      "example": "I placed an order last night.",
+      "exampleHu": "Tegnap este leadtam egy rendelést.",
+      "image": "order.webp"
+    },
+    {
+      "id": "shopping-011",
+      "hungarian": "rendelést törölni",
+      "english": "to cancel an order",
+      "example": "You can cancel your order within 24 hours.",
+      "exampleHu": "24 órán belül törölheted a rendelésed.",
+      "image": "cancel.webp"
+    },
+    {
+      "id": "shopping-012",
+      "hungarian": "rendelést nyomon követni",
+      "english": "to track an order",
+      "example": "You can track your order online.",
+      "exampleHu": "Online nyomon követheted a rendelésed.",
+      "image": "tracking.webp"
+    },
+    {
+      "id": "shopping-013",
+      "hungarian": "szállítási címet megadni",
+      "english": "to enter a shipping address",
+      "example": "Please enter a valid shipping address.",
+      "exampleHu": "Kérjük, adjon meg egy érvényes szállítási címet.",
+      "image": "address.webp"
+    },
+    {
+      "id": "shopping-014",
+      "hungarian": "számlázási információk",
+      "english": "billing details",
+      "example": "Check your billing details carefully.",
+      "exampleHu": "Ellenőrizd a számlázási adatokat alaposan.",
+      "image": "billing.webp"
+    },
+    {
+      "id": "shopping-015",
+      "hungarian": "biztonságos fizetés",
+      "english": "secure payment",
+      "example": "The website offers secure payment options.",
+      "exampleHu": "A weboldal biztonságos fizetési lehetőségeket kínál.",
+      "image": "payment.webp"
+    },
+    {
+      "id": "shopping-016",
+      "hungarian": "terméket értékelni",
+      "english": "to rate a product",
+      "example": "Customers can rate a product after purchase.",
+      "exampleHu": "A vásárlók értékelhetik a terméket vásárlás után.",
+      "image": "rate.webp"
+    },
+    {
+      "id": "shopping-017",
+      "hungarian": "vásárlói vélemény",
+      "english": "customer review",
+      "example": "I read several customer reviews.",
+      "exampleHu": "Több vásárlói véleményt is elolvastam.",
+      "image": "review.webp"
+    },
+    {
+      "id": "shopping-018",
+      "hungarian": "termékleírást megtekinteni",
+      "english": "to view the product description",
+      "example": "View the product description before buying.",
+      "exampleHu": "Vásárlás előtt nézd meg a termékleírást.",
+      "image": "description.webp"
+    },
+    {
+      "id": "shopping-019",
+      "hungarian": "méretet kiválasztani",
+      "english": "to select a size",
+      "example": "Please select a size.",
+      "exampleHu": "Kérjük, válassz méretet.",
+      "image": "size.webp"
+    },
+    {
+      "id": "shopping-020",
+      "hungarian": "színt kiválasztani",
+      "english": "to choose a color",
+      "example": "You can choose a color on the page.",
+      "exampleHu": "Az oldalon választhatsz színt.",
+      "image": "color.webp"
+    },
+    {
+      "id": "shopping-021",
+      "hungarian": "termékeket összehasonlítani",
+      "english": "to compare products",
+      "example": "It’s useful to compare products before buying.",
+      "exampleHu": "Hasznos összehasonlítani a termékeket vásárlás előtt.",
+      "image": "compare.webp"
+    },
+    {
+      "id": "shopping-022",
+      "hungarian": "termék elérhetőség",
+      "english": "product availability",
+      "example": "Check product availability online.",
+      "exampleHu": "Ellenőrizd a termék elérhetőségét online.",
+      "image": "availability.webp"
+    },
+    {
+      "id": "shopping-023",
+      "hungarian": "előrendelést leadni",
+      "english": "to place a pre-order",
+      "example": "Fans can place a pre-order now.",
+      "exampleHu": "A rajongók már most leadhatják az előrendelést.",
+      "image": "preorder.webp"
+    },
+    {
+      "id": "shopping-024",
+      "hungarian": "kiüríteni a kosarat",
+      "english": "to empty the cart",
+      "example": "I decided to empty the cart.",
+      "exampleHu": "Úgy döntöttem, kiürítem a kosarat.",
+      "image": "cart.webp"
+    },
+    {
+      "id": "shopping-025",
+      "hungarian": "termék eltávolítása",
+      "english": "to remove an item",
+      "example": "You can remove an item anytime.",
+      "exampleHu": "Bármikor eltávolíthatsz egy terméket.",
+      "image": "remove.webp"
+    },
+    {
+      "id": "shopping-026",
+      "hungarian": "felhasználói fiók",
+      "english": "user account",
+      "example": "Create a user account to shop faster.",
+      "exampleHu": "Hozz létre felhasználói fiókot a gyorsabb vásárláshoz.",
+      "image": "account.webp"
+    },
+    {
+      "id": "shopping-027",
+      "hungarian": "bejelentkezni",
+      "english": "to log in",
+      "example": "You need to log in first.",
+      "exampleHu": "Először be kell jelentkezned.",
+      "image": "login.webp"
+    },
+    {
+      "id": "shopping-028",
+      "hungarian": "kijelentkezni",
+      "english": "to log out",
+      "example": "Don’t forget to log out.",
+      "exampleHu": "Ne felejts el kijelentkezni.",
+      "image": "logout.webp"
+    },
+    {
+      "id": "shopping-029",
+      "hungarian": "kapcsolatba lépni az ügyfélszolgálattal",
+      "english": "to contact customer service",
+      "example": "You can contact customer service for help.",
+      "exampleHu": "Segítségért kapcsolatba léphetsz az ügyfélszolgálattal.",
+      "image": "customer_service.webp"
+    },
+    {
+      "id": "shopping-030",
+      "hungarian": "panaszt tenni",
+      "english": "to make a complaint",
+      "example": "I made a complaint about the delay.",
+      "exampleHu": "Panaszt tettem a késés miatt.",
+      "image": "complaint.webp"
+    }
+  ]
+}
