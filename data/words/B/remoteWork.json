@@ -75,7 +75,7 @@
     },
     {
       "id": "remoteWork-010",
-      "hungarian": "megbeszélést elhalasztani",
+      "hungarian": "megbeszélést átütemezni",
       "english": "to reschedule a meeting",
       "example": "We need to reschedule the meeting due to conflicts.",
       "exampleHu": "A megbeszélést át kell ütemeznünk az ütközések miatt.",
@@ -101,16 +101,16 @@
       "id": "remoteWork-013",
       "hungarian": "dokumentumot megosztani",
       "english": "to share a document",
-      "example": "I shared the document with the team on Google Drive.",
-      "exampleHu": "Megosztottam a dokumentumot a csapattal a Google Drive-on.",
+      "example": "I shared the document with the team via the cloud.",
+      "exampleHu": "Megosztottam a dokumentumot a csapattal a felhőben.",
       "image": "share_document.webp"
     },
     {
       "id": "remoteWork-014",
       "hungarian": "értekezleten részt venni",
       "english": "to attend a meeting",
-      "example": "I attended the meeting via Zoom yesterday.",
-      "exampleHu": "Tegnap részt vettem az értekezleten Zoomon keresztül.",
+      "example": "I attended the meeting yesterday.",
+      "exampleHu": "Tegnap részt vettem az értekezleten.",
       "image": "attend_meeting.webp"
     },
     {
@@ -142,7 +142,7 @@
       "hungarian": "jegyzőkönyvet készíteni",
       "english": "to take minutes",
       "example": "I took minutes of the meeting for future reference.",
-      "exampleHu": "Jegyzőkönyvet készítettem az értekezletről a későbbi felhasználásra.",
+      "exampleHu": "Jegyzőkönyvet készítettem az értekezletről későbbi hivatkozás céljából.",
       "image": "take_minutes.webp"
     },
     {
@@ -166,7 +166,7 @@
       "hungarian": "határidőt meghosszabbítani",
       "english": "to extend a deadline",
       "example": "We had to extend the deadline due to unforeseen issues.",
-      "exampleHu": "A határidőt a váratlan problémák miatt meg kellett hosszabbítanunk.",
+      "exampleHu": "A határidőt előre nem látott problémák miatt meg kellett hosszabbítanunk.",
       "image": "extend_deadline.webp"
     },
     {
