@@ -67,10 +67,10 @@
     },
     {
       "id": "remoteWork-009",
-      "hungarian": "megbeszélést szervezni",
+      "hungarian": "megbeszélést beütemezni",
       "english": "to schedule a meeting",
       "example": "I scheduled a meeting for next Monday.",
-      "exampleHu": "Jövő hétfőre szerveztem egy megbeszélést.",
+      "exampleHu": "Jövő hétfőre beütemeztem egy megbeszélést.",
       "image": "schedule_meeting.webp"
     },
     {
@@ -102,7 +102,7 @@
       "hungarian": "dokumentumot megosztani",
       "english": "to share a document",
       "example": "I shared the document with the team via the cloud.",
-      "exampleHu": "Megosztottam a dokumentumot a csapattal a felhőben.",
+      "exampleHu": "Megosztottam a dokumentumot a csapattal a felhőn keresztül.",
       "image": "share_document.webp"
     },
     {
