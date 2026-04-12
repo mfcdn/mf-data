@@ -2,39 +2,39 @@
   "theme": "At the Doctor",
   "cards": [
     {
-      "id": "doctor-001",
-      "hungarian": "időpontot foglal",
-      "english": "make an appointment",
-      "example": "I need to make an appointment with my doctor.",
-      "exampleHu": "Időpontot kell foglalnom az orvosomhoz.",
+      "id": "atTheDoctor-001",
+      "hungarian": "időpontot foglalni",
+      "english": "to make an appointment",
+      "example": "I would like to make an appointment for a follow-up examination.",
+      "exampleHu": "Szeretnék időpontot foglalni egy kontrollvizsgálatra.",
       "image": "appointment.webp"
     },
     {
-      "id": "doctor-002",
-      "hungarian": "időpontot lemond",
-      "english": "cancel an appointment",
-      "example": "I had to cancel my appointment.",
-      "exampleHu": "Le kellett mondanom az időpontomat.",
+      "id": "atTheDoctor-002",
+      "hungarian": "időpontot lemondani",
+      "english": "to cancel an appointment",
+      "example": "I'm calling to cancel my Friday afternoon appointment.",
+      "exampleHu": "Azért telefonálok, hogy lemondjam a péntek délutáni időpontomat.",
       "image": "cancel.webp"
     },
     {
-      "id": "doctor-003",
-      "hungarian": "tüneteket leír",
-      "english": "describe symptoms",
-      "example": "Please describe your symptoms clearly.",
-      "exampleHu": "Kérjük, írja le világosan a tüneteit.",
+      "id": "atTheDoctor-003",
+      "hungarian": "tüneteket leírni",
+      "english": "to describe symptoms",
+      "example": "Could you describe your symptoms, please?",
+      "exampleHu": "Le tudná írni a tüneteit, kérem?",
       "image": "symptoms.webp"
     },
     {
-      "id": "doctor-004",
-      "hungarian": "fájdalmat érez",
-      "english": "experience pain",
-      "example": "I experience pain in my back.",
+      "id": "atTheDoctor-004",
+      "hungarian": "fájdalmat érezni",
+      "english": "to feel pain",
+      "example": "I feel pain in my back.",
       "exampleHu": "Fájdalmat érzek a hátamban.",
       "image": "pain.webp"
     },
     {
-      "id": "doctor-005",
+      "id": "atTheDoctor-005",
       "hungarian": "orvosi vizsgálat",
       "english": "medical examination",
       "example": "The doctor performed a medical examination.",
@@ -42,39 +42,39 @@
       "image": "examination.webp"
     },
     {
-      "id": "doctor-006",
-      "hungarian": "diagnózist felállít",
-      "english": "make a diagnosis",
-      "example": "The doctor made a diagnosis quickly.",
-      "exampleHu": "Az orvos gyorsan felállította a diagnózist.",
-      "image": "diagnosis.webp"
+      "id": "atTheDoctor-006",
+      "hungarian": "gyógyszer",
+      "english": "medication",
+      "example": "What medications are you taking?",
+      "exampleHu": "Milyen gyógyszereket szed?",
+      "image": "medication.webp"
     },
     {
-      "id": "doctor-007",
-      "hungarian": "kezelést javasol",
-      "english": "recommend treatment",
-      "example": "The doctor recommended treatment.",
-      "exampleHu": "Az orvos kezelést javasolt.",
-      "image": "treatment.webp"
+      "id": "atTheDoctor-007",
+      "hungarian": "magas vérnyomás",
+      "english": "high blood pressure",
+      "example": "I take medication for high blood pressure.",
+      "exampleHu": "Magas vérnyomásra szedek gyógyszert.",
+      "image": "high_blood_pressure.webp"
     },
     {
-      "id": "doctor-008",
+      "id": "atTheDoctor-008",
       "hungarian": "gyógyszert felír",
       "english": "prescribe medication",
       "example": "The doctor prescribed medication.",
       "exampleHu": "Az orvos gyógyszert írt fel.",
-      "image": "prescription.webp"
+      "image": "prescribe_medication.webp"
     },
     {
-      "id": "doctor-009",
-      "hungarian": "recept",
-      "english": "prescription",
-      "example": "Take this prescription to the pharmacy.",
-      "exampleHu": "Vidd ezt a receptet a gyógyszertárba.",
-      "image": "prescription.webp"
+      "id": "atTheDoctor-009",
+      "hungarian": "időpont nélküli beteg",
+      "english": "walk-in patient",
+      "example": "A walk-in patient arrived at the clinic.",
+      "exampleHu": "Egy időpont nélküli beteg érkezett a klinikára.",
+      "image": "walk_in_patient.webp"
     },
     {
-      "id": "doctor-010",
+      "id": "atTheDoctor-010",
       "hungarian": "mellékhatás",
       "english": "side effect",
       "example": "This drug may cause side effects.",
@@ -82,23 +82,23 @@
       "image": "side_effect.webp"
     },
     {
-      "id": "doctor-011",
+      "id": "atTheDoctor-011",
       "hungarian": "allergiás reakció",
       "english": "allergic reaction",
       "example": "I had an allergic reaction.",
       "exampleHu": "Allergiás reakcióm volt.",
-      "image": "allergy.webp"
+      "image": "allergic_reaction.webp"
     },
     {
-      "id": "doctor-012",
-      "hungarian": "vérvizsgálat",
-      "english": "blood test",
-      "example": "I need to do a blood test.",
-      "exampleHu": "Vérvizsgálatra van szükségem.",
-      "image": "blood_test.webp"
+      "id": "atTheDoctor-012",
+      "hungarian": "vérvétel",
+      "english": "blood draw",
+      "example": "I need a blood draw.",
+      "exampleHu": "Vérvételre van szükségem.",
+      "image": "blood_draw.webp"
     },
     {
-      "id": "doctor-013",
+      "id": "atTheDoctor-013",
       "hungarian": "röntgenvizsgálat",
       "english": "X-ray examination",
       "example": "The doctor sent me for an X-ray examination.",
@@ -106,15 +106,15 @@
       "image": "xray.webp"
     },
     {
-      "id": "doctor-014",
+      "id": "atTheDoctor-014",
       "hungarian": "beutaló",
       "english": "medical referral",
       "example": "You need a medical referral for a specialist.",
-      "exampleHu": "Beutaló kell a szakorvoshoz.",
+      "exampleHu": "Beutalóra van szükséged a szakorvoshoz.",
       "image": "referral.webp"
     },
     {
-      "id": "doctor-015",
+      "id": "atTheDoctor-015",
       "hungarian": "szakorvos",
       "english": "specialist",
       "example": "I was referred to a specialist.",
@@ -122,95 +122,95 @@
       "image": "specialist.webp"
     },
     {
-      "id": "doctor-016",
-      "hungarian": "ellenőrző vizsgálat",
+      "id": "atTheDoctor-016",
+      "hungarian": "kontrollvizsgálat",
       "english": "follow-up examination",
       "example": "I have a follow-up examination next week.",
       "exampleHu": "Jövő héten kontrollvizsgálatra megyek.",
       "image": "followup.webp"
     },
     {
-      "id": "doctor-017",
-      "hungarian": "gyógyulás",
-      "english": "recovery",
-      "example": "Recovery takes time.",
-      "exampleHu": "A gyógyulás időt vesz igénybe.",
-      "image": "recovery.webp"
+      "id": "atTheDoctor-017",
+      "hungarian": "kiütés",
+      "english": "rash",
+      "example": "I have a rash on my arm.",
+      "exampleHu": "Kiütés van a karomon.",
+      "image": "rash.webp"
     },
     {
-      "id": "doctor-018",
-      "hungarian": "kezelési terv",
-      "english": "treatment plan",
-      "example": "The doctor explained the treatment plan.",
-      "exampleHu": "Az orvos elmagyarázta a kezelési tervet.",
-      "image": "treatment_plan.webp"
+      "id": "atTheDoctor-018",
+      "hungarian": "hasogat (erősen, lüktetve fáj)",
+      "english": "to pound",
+      "example": "My head is pounding.",
+      "exampleHu": "Hasogat a fejem.",
+      "image": "pounding_head.webp"
     },
     {
-      "id": "doctor-019",
-      "hungarian": "kórtörténet",
-      "english": "medical history",
-      "example": "The doctor asked about my medical history.",
-      "exampleHu": "Az orvos a kórtörténetemről kérdezett.",
-      "image": "history.webp"
+      "id": "atTheDoctor-019",
+      "hungarian": "könnyes",
+      "english": "watery",
+      "example": "My eyes are watery.",
+      "exampleHu": "Könnyes a szemem.",
+      "image": "watery_eyes.webp"
     },
     {
-      "id": "doctor-020",
-      "hungarian": "krónikus betegség",
-      "english": "chronic condition",
-      "example": "He suffers from a chronic condition.",
-      "exampleHu": "Krónikus betegségben szenved.",
-      "image": "chronic.webp"
+      "id": "atTheDoctor-020",
+      "hungarian": "injekciót adni",
+      "english": "to give a shot",
+      "example": "I will give you a shot.",
+      "exampleHu": "Adni fogok neked egy injekciót.",
+      "image": "shot.webp"
     },
     {
-      "id": "doctor-021",
-      "hungarian": "akut tünet",
-      "english": "acute symptom",
-      "example": "These are acute symptoms.",
-      "exampleHu": "Ezek akut tünetek.",
-      "image": "acute.webp"
+      "id": "atTheDoctor-021",
+      "hungarian": "görcs",
+      "english": "cramp",
+      "example": "I have stomach cramps.",
+      "exampleHu": "Gyomorgörcseim vannak.",
+      "image": "cramp.webp"
     },
     {
-      "id": "doctor-022",
-      "hungarian": "lábadozik",
-      "english": "recover from an illness",
-      "example": "She is recovering from an illness.",
-      "exampleHu": "Betegségből lábadozik.",
-      "image": "recover.webp"
+      "id": "atTheDoctor-022",
+      "hungarian": "recept, vény",
+      "english": "prescription",
+      "example": "I left my prescription at home.",
+      "exampleHu": "Otthon felejtettem a receptemet.",
+      "image": "prescription.webp"
     },
     {
-      "id": "doctor-023",
-      "hungarian": "állapot romlik",
-      "english": "condition worsens",
-      "example": "His condition worsened overnight.",
-      "exampleHu": "Az állapota egyik napról a másikra romlott.",
-      "image": "worsen.webp"
+      "id": "atTheDoctor-023",
+      "hungarian": "hidegrázás (pl. betegség miatt)",
+      "english": "chills",
+      "example": "I have chills.",
+      "exampleHu": "Hidegrázásom van.",
+      "image": "chills.webp"
     },
     {
-      "id": "doctor-024",
-      "hungarian": "állapot javul",
-      "english": "condition improves",
-      "example": "Her condition is improving.",
-      "exampleHu": "Az állapota javul.",
-      "image": "improve.webp"
+      "id": "atTheDoctor-024",
+      "hungarian": "nagyon fáradt, kimerült",
+      "english": "fatigued",
+      "example": "I am feeling fatigued.",
+      "exampleHu": "Kimerültnek érzem magam.",
+      "image": "fatigued.webp"
     },
     {
-      "id": "doctor-025",
-      "hungarian": "fertőzés",
-      "english": "infection",
-      "example": "The wound caused an infection.",
-      "exampleHu": "A seb fertőzést okozott.",
-      "image": "infection.webp"
+      "id": "atTheDoctor-025",
+      "hungarian": "légszomj",
+      "english": "shortness of breath",
+      "example": "I have shortness of breath when I climb stairs.",
+      "exampleHu": "Légszomjam van, amikor lépcsőn megyek fel.",
+      "image": "shortness_of_breath.webp"
     },
     {
-      "id": "doctor-026",
-      "hungarian": "gyulladás",
-      "english": "inflammation",
-      "example": "There is inflammation in the joint.",
-      "exampleHu": "Gyulladás van az ízületben.",
-      "image": "inflammation.webp"
+      "id": "atTheDoctor-026",
+      "hungarian": "orvosi igazolás",
+      "english": "sick note",
+      "example": "I need a sick note for work.",
+      "exampleHu": "Szükségem van egy orvosi igazolásra a munkához.",
+      "image": "sick_note.webp"
     },
     {
-      "id": "doctor-027",
+      "id": "atTheDoctor-027",
       "hungarian": "lázat mér",
       "english": "measure a fever",
       "example": "You should measure your fever regularly.",
@@ -218,28 +218,28 @@
       "image": "fever.webp"
     },
     {
-      "id": "doctor-028",
-      "hungarian": "recepció",
-      "english": "reception desk",
-      "example": "Please check in at the reception desk.",
-      "exampleHu": "Kérjük, jelentkezzen be a recepción.",
-      "image": "reception.webp"
+      "id": "atTheDoctor-028",
+      "hungarian": "állami egészségbiztosítás",
+      "english": "public health coverage",
+      "example": "I have public health coverage.",
+      "exampleHu": "Állami egészségbiztosításom van.",
+      "image": "public_health_coverage.webp"
     },
     {
-      "id": "doctor-029",
-      "hungarian": "kórházi kezelés",
-      "english": "hospital treatment",
-      "example": "He needed hospital treatment.",
-      "exampleHu": "Kórházi kezelésre volt szüksége.",
-      "image": "hospital.webp"
+      "id": "atTheDoctor-029",
+      "hungarian": "vizeletminta",
+      "english": "urine sample",
+      "example": "We need a urine sample.",
+      "exampleHu": "Vizeletmintára van szükségünk.",
+      "image": "urine_sample.webp"
     },
     {
-      "id": "doctor-030",
-      "hungarian": "műtéten esik át",
-      "english": "undergo surgery",
-      "example": "She had to undergo surgery.",
-      "exampleHu": "Műtéten kellett átesnie.",
-      "image": "surgery.webp"
+      "id": "atTheDoctor-030",
+      "hungarian": "véraláfutás",
+      "english": "bruise",
+      "example": "I have bruises on my arm.",
+      "exampleHu": "Véraláfutások vannak a karomon.",
+      "image": "bruise.webp"
     }
   ]
 }
