@@ -19,54 +19,6 @@
     },
     {
       "id": "atTheDoctor-003",
-      "hungarian": "tüneteket leírni",
-      "english": "to describe symptoms",
-      "example": "Could you describe your symptoms, please?",
-      "exampleHu": "Le tudná írni a tüneteit, kérem?",
-      "image": "symptoms.webp"
-    },
-    {
-      "id": "atTheDoctor-004",
-      "hungarian": "fájdalmat érezni",
-      "english": "to feel pain",
-      "example": "I feel pain in my back.",
-      "exampleHu": "Fájdalmat érzek a hátamban.",
-      "image": "pain.webp"
-    },
-    {
-      "id": "atTheDoctor-005",
-      "hungarian": "orvosi vizsgálat",
-      "english": "medical examination",
-      "example": "The doctor performed a medical examination.",
-      "exampleHu": "Az orvos orvosi vizsgálatot végzett.",
-      "image": "examination.webp"
-    },
-    {
-      "id": "atTheDoctor-006",
-      "hungarian": "gyógyszer",
-      "english": "medication",
-      "example": "What medications are you taking?",
-      "exampleHu": "Milyen gyógyszereket szed?",
-      "image": "medication.webp"
-    },
-    {
-      "id": "atTheDoctor-007",
-      "hungarian": "magas vérnyomás",
-      "english": "high blood pressure",
-      "example": "I take medication for high blood pressure.",
-      "exampleHu": "Magas vérnyomásra szedek gyógyszert.",
-      "image": "high_blood_pressure.webp"
-    },
-    {
-      "id": "atTheDoctor-008",
-      "hungarian": "gyógyszert felír",
-      "english": "prescribe medication",
-      "example": "The doctor prescribed medication.",
-      "exampleHu": "Az orvos gyógyszert írt fel.",
-      "image": "prescribe_medication.webp"
-    },
-    {
-      "id": "atTheDoctor-009",
       "hungarian": "időpont nélküli beteg",
       "english": "walk-in patient",
       "example": "A walk-in patient arrived at the clinic.",
@@ -74,7 +26,63 @@
       "image": "walk_in_patient.webp"
     },
     {
+      "id": "atTheDoctor-004",
+      "hungarian": "tüneteket leírni",
+      "english": "to describe symptoms",
+      "example": "Could you describe your symptoms, please?",
+      "exampleHu": "Le tudná írni a tüneteit, kérem?",
+      "image": "symptoms.webp"
+    },
+    {
+      "id": "atTheDoctor-005",
+      "hungarian": "fájdalmat érezni",
+      "english": "to feel pain",
+      "example": "I feel pain in my back.",
+      "exampleHu": "Fájdalmat érzek a hátamban.",
+      "image": "pain.webp"
+    },
+    {
+      "id": "atTheDoctor-006",
+      "hungarian": "orvosi vizsgálat",
+      "english": "medical examination",
+      "example": "The doctor performed a medical examination.",
+      "exampleHu": "Az orvos orvosi vizsgálatot végzett.",
+      "image": "examination.webp"
+    },
+    {
+      "id": "atTheDoctor-007",
+      "hungarian": "kontrollvizsgálat",
+      "english": "follow-up examination",
+      "example": "I have a follow-up examination next week.",
+      "exampleHu": "Jövő héten kontrollvizsgálatra megyek.",
+      "image": "followup.webp"
+    },
+    {
+      "id": "atTheDoctor-008",
+      "hungarian": "gyógyszer",
+      "english": "medication",
+      "example": "What medications are you taking?",
+      "exampleHu": "Milyen gyógyszereket szed?",
+      "image": "medication.webp"
+    },
+    {
+      "id": "atTheDoctor-009",
+      "hungarian": "gyógyszert felír",
+      "english": "prescribe medication",
+      "example": "The doctor prescribed medication.",
+      "exampleHu": "Az orvos gyógyszert írt fel.",
+      "image": "prescribe_medication.webp"
+    },
+    {
       "id": "atTheDoctor-010",
+      "hungarian": "vérnyomás",
+      "english": "blood pressure",
+      "example": "I take medication for high blood pressure.",
+      "exampleHu": "Magas vérnyomásra szedek gyógyszert.",
+      "image": "blood_pressure.webp"
+    },
+    {
+      "id": "atTheDoctor-011",
       "hungarian": "mellékhatás",
       "english": "side effect",
       "example": "This drug may cause side effects.",
@@ -82,7 +90,7 @@
       "image": "side_effect.webp"
     },
     {
-      "id": "atTheDoctor-011",
+      "id": "atTheDoctor-012",
       "hungarian": "allergiás reakció",
       "english": "allergic reaction",
       "example": "I had an allergic reaction.",
@@ -90,7 +98,7 @@
       "image": "allergic_reaction.webp"
     },
     {
-      "id": "atTheDoctor-012",
+      "id": "atTheDoctor-013",
       "hungarian": "vérvétel",
       "english": "blood draw",
       "example": "I need a blood draw.",
@@ -98,15 +106,15 @@
       "image": "blood_draw.webp"
     },
     {
-      "id": "atTheDoctor-013",
-      "hungarian": "röntgenvizsgálat",
-      "english": "X-ray examination",
+      "id": "atTheDoctor-014",
+      "hungarian": "röntgen",
+      "english": "X-ray",
       "example": "The doctor sent me for an X-ray examination.",
       "exampleHu": "Az orvos röntgenre küldött.",
       "image": "xray.webp"
     },
     {
-      "id": "atTheDoctor-014",
+      "id": "atTheDoctor-015",
       "hungarian": "beutaló",
       "english": "medical referral",
       "example": "You need a medical referral for a specialist.",
@@ -114,20 +122,12 @@
       "image": "referral.webp"
     },
     {
-      "id": "atTheDoctor-015",
+      "id": "atTheDoctor-016",
       "hungarian": "szakorvos",
       "english": "specialist",
       "example": "I was referred to a specialist.",
       "exampleHu": "Szakorvoshoz utaltak.",
       "image": "specialist.webp"
-    },
-    {
-      "id": "atTheDoctor-016",
-      "hungarian": "kontrollvizsgálat",
-      "english": "follow-up examination",
-      "example": "I have a follow-up examination next week.",
-      "exampleHu": "Jövő héten kontrollvizsgálatra megyek.",
-      "image": "followup.webp"
     },
     {
       "id": "atTheDoctor-017",
@@ -211,8 +211,8 @@
     },
     {
       "id": "atTheDoctor-027",
-      "hungarian": "lázat mér",
-      "english": "measure a fever",
+      "hungarian": "lázat mérni",
+      "english": "to measure a fever",
       "example": "You should measure your fever regularly.",
       "exampleHu": "Rendszeresen mérned kell a lázadat.",
       "image": "fever.webp"
