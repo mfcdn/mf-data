@@ -30,7 +30,7 @@
             "hungarian": "számla",
             "english": "bill",
             "example": "Could we have the bill, please?",
-            "exampleHu": "Kérhetnénk a számlát, kérem?",
+            "exampleHu": "Megkaphatnánk a számlát, kérem?",
             "image": "bill.webp"
         },
         {
@@ -46,7 +46,7 @@
             "hungarian": "előétel",
             "english": "appetizer",
             "example": "We ordered an appetizer to start the meal.",
-            "exampleHu": "Rendeltünk egy előételt az étkezés elejére.",
+            "exampleHu": "Rendeltünk egy előételt az étkezés megkezdéséhez.",
             "image": "appetizer.webp"
         },
         {
@@ -70,7 +70,7 @@
             "hungarian": "ital",
             "english": "drink",
             "example": "Would you like a drink with your meal?",
-            "exampleHu": "Szeretne inni valamit az étel mellé?",
+            "exampleHu": "Szeretne inni valamit az étele mellé?",
             "image": "drink.webp"
         },
         {
@@ -102,7 +102,7 @@
             "hungarian": "foglalni",
             "english": "to reserve",
             "example": "You need to reserve a table in advance.",
-            "exampleHu": "Előre le kell foglalni az asztalt.",
+            "exampleHu": "Le kell foglalnod az asztalt előre.",
             "image": "reserve.webp"
         },
         {
@@ -110,7 +110,7 @@
             "hungarian": "vendég",
             "english": "guest",
             "example": "The restaurant was full of guests.",
-            "exampleHu": "A vendéglő tele volt vendégekkel.",
+            "exampleHu": "Az étterem tele volt vendégekkel.",
             "image": "guest.webp"
         },
         {
@@ -158,7 +158,7 @@
             "hungarian": "kés",
             "english": "knife",
             "example": "You need a knife to cut the meat.",
-            "exampleHu": "Kés kell a hús felvágásához.",
+            "exampleHu": "Késra van szükséged a hús felvágásához.",
             "image": "knife.webp"
         },
         {
@@ -214,7 +214,7 @@
             "hungarian": "szénsavas víz",
             "english": "sparkling water",
             "example": "I’d like a glass of sparkling water.",
-            "exampleHu": "Egy pohár szénsavas vizet kérek.",
+            "exampleHu": "Egy pohár szénsavas vizet szeretnék kérni.",
             "image": "sparkling_water.webp"
         },
         {
@@ -222,7 +222,7 @@
             "hungarian": "szénsavmentes víz",
             "english": "still water",
             "example": "Do you have still water?",
-            "exampleHu": "Van szénsavmentes víz?",
+            "exampleHu": "Van szénsavmentes vizetek?",
             "image": "still_water.webp"
         },
         {
@@ -238,7 +238,7 @@
             "hungarian": "asztalfoglalás",
             "english": "booking",
             "example": "I made a booking for 8 PM.",
-            "exampleHu": "Foglalásom van 8 órára.",
+            "exampleHu": "Intéztem asztalfoglalást 8 órára.",
             "image": "booking.webp"
         }
     ]

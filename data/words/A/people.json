@@ -102,7 +102,7 @@
             "hungarian": "nagyszülők",
             "english": "grandparents",
             "example": "We visited our grandparents last weekend.",
-            "exampleHu": "A múlt hétvégén meglátogattuk a nagyszüleinket.",
+            "exampleHu": "Meglátogattuk a nagyszüleinket a múlt hétvégén.",
             "image": "grandparents.webp"
         },
         {
@@ -142,7 +142,7 @@
             "hungarian": "rendőr",
             "english": "police officer",
             "example": "The police officer helped us find the way.",
-            "exampleHu": "A rendőr segített nekünk eligazodni.",
+            "exampleHu": "A rendőr segített nekünk megtalálni az utat.",
             "image": "police_officer.webp"
         },
         {
@@ -182,7 +182,7 @@
             "hungarian": "művész",
             "english": "artist",
             "example": "The artist painted a beautiful picture.",
-            "exampleHu": "A művész egy gyönyörű képet festett.",
+            "exampleHu": "A művész festett egy gyönyörű képet.",
             "image": "artist.webp"
         },
         {

@@ -30,7 +30,7 @@
             "hungarian": "konyha",
             "english": "kitchen",
             "example": "I like cooking in the kitchen.",
-            "exampleHu": "Szeretek a konyhában főzni.",
+            "exampleHu": "Szeretek főzni a konyhában.",
             "image": "kitchen.webp"
         },
         {
@@ -54,7 +54,7 @@
             "hungarian": "hálószoba",
             "english": "bedroom",
             "example": "My bedroom is very cozy.",
-            "exampleHu": "A hálószobám nagyon kényelmes.",
+            "exampleHu": "A hálószobám nagyon otthonos.",
             "image": "bedroom.webp"
         },
         {
@@ -110,7 +110,7 @@
             "hungarian": "lámpa",
             "english": "lamp",
             "example": "Turn on the lamp, please.",
-            "exampleHu": "Kérlek, kapcsold fel a lámpát.",
+            "exampleHu": "Kapcsold fel a lámpát, kérlek.",
             "image": "lamp.webp"
         },
         {
@@ -150,7 +150,7 @@
             "hungarian": "hűtőszekrény",
             "english": "refrigerator",
             "example": "Put the milk in the refrigerator.",
-            "exampleHu": "Tedd a tejet a hűtőbe.",
+            "exampleHu": "Tedd a tejet a hűtőszekrénybe.",
             "image": "refrigerator.webp"
         },
         {
@@ -158,7 +158,7 @@
             "hungarian": "mikrohullámú sütő",
             "english": "microwave",
             "example": "I heat my food in the microwave.",
-            "exampleHu": "A kaját a mikrohullámú sütőben melegítem.",
+            "exampleHu": "A mikrohullámú sütőben melegítem az ételemet.",
             "image": "microwave.webp"
         },
         {
@@ -190,7 +190,7 @@
             "hungarian": "laptop",
             "english": "laptop",
             "example": "I work on my laptop at home.",
-            "exampleHu": "Otthon a laptopomon dolgozom.",
+            "exampleHu": "A laptopomon dolgozom otthon.",
             "image": "laptop.webp"
         },
         {
@@ -198,7 +198,7 @@
             "hungarian": "telefon",
             "english": "phone",
             "example": "I keep my phone on the table.",
-            "exampleHu": "A telefonom az asztalon van.",
+            "exampleHu": "A telefonomat az asztalon tartom.",
             "image": "phone.webp"
         },
         {
@@ -206,7 +206,7 @@
             "hungarian": "kanapé",
             "english": "sofa",
             "example": "We relax on the sofa in the evening.",
-            "exampleHu": "Este a kanapén pihenünk.",
+            "exampleHu": "A kanapén pihenünk este.",
             "image": "sofa.webp"
         },
         {
@@ -219,10 +219,10 @@
         },
         {
             "id": "home-028",
-            "hungarian": "takaró",
+            "hungarian": "pléd",
             "english": "blanket",
             "example": "The blanket keeps me warm at night.",
-            "exampleHu": "A takaró melegen tart éjszaka.",
+            "exampleHu": "A pléd melegen tart éjszaka.",
             "image": "blanket.webp"
         },
         {
@@ -230,7 +230,7 @@
             "hungarian": "sötétítő függöny",
             "english": "drapes",
             "example": "The drapes match the color of the walls.",
-            "exampleHu": "A sötétítő függönyök illenek a fal színéhez.",
+            "exampleHu": "A sötétítő függöny illik a fal színéhez.",
             "image": "drapes.webp"
         },
         {

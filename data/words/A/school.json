@@ -6,7 +6,7 @@
             "hungarian": "iskola",
             "english": "school",
             "example": "I walk to school every day.",
-            "exampleHu": "Minden nap gyalog megyek iskolába.",
+            "exampleHu": "Minden nap sétálok az iskolába.",
             "image": "school.webp"
         },
         {
@@ -35,10 +35,10 @@
         },
         {
             "id": "school-005",
-            "hungarian": "pad",
+            "hungarian": "iskolapad",
             "english": "desk",
             "example": "She keeps her books in her desk.",
-            "exampleHu": "A padjában tartja a könyveit.",
+            "exampleHu": "Az iskolapadjában tartja a könyveit.",
             "image": "desk.webp"
         },
         {
@@ -54,15 +54,15 @@
             "hungarian": "kréta",
             "english": "chalk",
             "example": "The chalk broke in half.",
-            "exampleHu": "Kettétört a kréta.",
+            "exampleHu": "A kréta kettétört.",
             "image": "chalk.webp"
         },
         {
             "id": "school-008",
-            "hungarian": "füzet",
+            "hungarian": "jegyzetfüzet",
             "english": "notebook",
             "example": "I take notes in my notebook.",
-            "exampleHu": "A füzetembe jegyzetelek.",
+            "exampleHu": "A jegyzetfüzetembe jegyzetelek.",
             "image": "notebook.webp"
         },
         {
@@ -94,7 +94,7 @@
             "hungarian": "radír",
             "english": "eraser",
             "example": "I used an eraser to fix the mistake.",
-            "exampleHu": "Radírral javítottam ki a hibát.",
+            "exampleHu": "Radírt használtam a hiba javításához.",
             "image": "eraser.webp"
         },
         {
@@ -102,7 +102,7 @@
             "hungarian": "vonalzó",
             "english": "ruler",
             "example": "Use the ruler to draw a straight line.",
-            "exampleHu": "Használj vonalzót, hogy egyenes vonalat húzz.",
+            "exampleHu": "Használd a vonalzót, húzz egy egyenes vonalat.",
             "image": "ruler.webp"
         },
         {
@@ -110,7 +110,7 @@
             "hungarian": "iskolatáska",
             "english": "schoolbag",
             "example": "Her schoolbag is full of books.",
-            "exampleHu": "A hátizsákja tele van könyvekkel.",
+            "exampleHu": "Az iskolatáskája tele van könyvekkel.",
             "image": "schoolbag.webp"
         },
         {
@@ -118,7 +118,7 @@
             "hungarian": "házi feladat",
             "english": "homework",
             "example": "I finished my homework before dinner.",
-            "exampleHu": "Vacsora előtt fejeztem be a házi feladatot.",
+            "exampleHu": "Befejeztem be a házi feladatomat vacsora előtt.",
             "image": "homework.webp"
         },
         {
@@ -142,7 +142,7 @@
             "hungarian": "vizsga",
             "english": "exam",
             "example": "We have an exam next week.",
-            "exampleHu": "Jövő héten vizsgánk lesz.",
+            "exampleHu": "Lesz egy vizsgánk jövőhéten.",
             "image": "exam.webp"
         },
         {
@@ -166,7 +166,7 @@
             "hungarian": "szünet",
             "english": "break",
             "example": "We play outside during the break.",
-            "exampleHu": "A szünetben kint játszunk.",
+            "exampleHu": "Kint játszunk a szünet alatt.",
             "image": "break.webp"
         },
         {
@@ -179,10 +179,10 @@
         },
         {
             "id": "school-023",
-            "hungarian": "iskolaigazgató",
+            "hungarian": "igazgató",
             "english": "principal",
             "example": "The principal gave a speech at the assembly.",
-            "exampleHu": "Az igazgató beszédet mondott az iskolagyűlésen.",
+            "exampleHu": "Az igazgató beszédet mondott a gyűlésen.",
             "image": "principal.webp"
         },
         {
@@ -214,7 +214,7 @@
             "hungarian": "osztály",
             "english": "class",
             "example": "Our class is going on a field trip.",
-            "exampleHu": "Az osztályunk kirándulni megy.",
+            "exampleHu": "Az osztályunk tanulmányi kirándulásra megy.",
             "image": "class.webp"
         },
         {

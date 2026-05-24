@@ -14,7 +14,7 @@
             "hungarian": "balra",
             "english": "left",
             "example": "Take the first left after the traffic light.",
-            "exampleHu": "Fordulj be az első utcán balra a lámpánál.",
+            "exampleHu": "Fordulj be az első lehetőségnél balra a lámpánál.",
             "image": "left.webp"
         },
         {
@@ -86,7 +86,7 @@
             "hungarian": "forgalom",
             "english": "traffic",
             "example": "There is heavy traffic during rush hour.",
-            "exampleHu": "Csúcsidőben nagy a forgalom.",
+            "exampleHu": "Nagy a forgalom a csúcsidőben.",
             "image": "traffic.webp"
         },
         {
@@ -110,7 +110,7 @@
             "hungarian": "híd",
             "english": "bridge",
             "example": "Cross the bridge to get to the other side.",
-            "exampleHu": "Keljen át a hídon, hogy a másik oldalra jusson.",
+            "exampleHu": "Kelj át a hídon, hogy a másik oldalra juss.",
             "image": "bridge.webp"
         },
         {
@@ -118,7 +118,7 @@
             "hungarian": "tengerpart",
             "english": "beach",
             "example": "We spent the day at the beach.",
-            "exampleHu": "Egész nap a tengerparton töltöttük.",
+            "exampleHu": "A napot a tengerparton töltöttük.",
             "image": "beach.webp"
         },
         {
@@ -142,7 +142,7 @@
             "hungarian": "központ",
             "english": "center",
             "example": "The city center is always busy.",
-            "exampleHu": "A városközpont mindig nyüzsgő.",
+            "exampleHu": "A városközpont mindig forgalmas.",
             "image": "center.webp"
         },
         {
@@ -174,7 +174,7 @@
             "hungarian": "kórház",
             "english": "hospital",
             "example": "She was taken to the hospital after the accident.",
-            "exampleHu": "Baleset után kórházba vitték.",
+            "exampleHu": "A baleset után kórházba vitték.",
             "image": "hospital.webp"
         },
         {

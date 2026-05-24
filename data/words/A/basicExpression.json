@@ -54,7 +54,7 @@
       "hungarian": "köszönöm",
       "english": "thank you",
       "example": "Thank you for your help.",
-      "exampleHu": "Köszönöm a segítséget.",
+      "exampleHu": "Köszönöm a segítségedet.",
       "image": "thank_you.webp"
     },
     {
@@ -70,7 +70,7 @@
       "hungarian": "bocsánat",
       "english": "sorry",
       "example": "I’m sorry for being late.",
-      "exampleHu": "Sajnálom, hogy elkéstem.",
+      "exampleHu": "Bocsánat a késésért.",
       "image": "sorry.webp"
     },
     {
@@ -78,7 +78,7 @@
       "hungarian": "rendben van",
       "english": "that’s OK",
       "example": "That’s OK. It happens.",
-      "exampleHu": "Semmi baj. Előfordul.",
+      "exampleHu": "Rendben van. Előfordul.",
       "image": "thats_ok.webp"
     },
     {
@@ -110,12 +110,12 @@
       "hungarian": "egy pillanat",
       "english": "one moment, please",
       "example": "One moment, please. I’ll check.",
-      "exampleHu": "Egy pillanat, kérem. Megnézem.",
+      "exampleHu": "Egy pillanat, kérem. Ellenőrzöm.",
       "image": "one_moment.webp"
     },
     {
       "id": "basicExpression-015",
-      "hungarian": "beszélhetek (pl. valakivel)",
+      "hungarian": "beszélhetnék (valakivel)...?",
       "english": "may I speak with…?",
       "example": "May I speak with John?",
       "exampleHu": "Beszélhetnék John-nal?",
@@ -126,15 +126,15 @@
       "hungarian": "Amiatt hívlak, hogy...",
       "english": "I’m calling about…",
       "example": "I’m calling about the appointment.",
-      "exampleHu": "A megbeszélt időpont miatt telefonálok.",
+      "exampleHu": "Az időpont miatt hívlak.",
       "image": "calling_about.webp"
     },
     {
       "id": "basicExpression-017",
-      "hungarian": "köszönöm, hogy hívtál",
+      "hungarian": "köszönöm a hívást",
       "english": "thanks for calling",
       "example": "Thanks for calling!",
-      "exampleHu": "Köszönöm, hogy hívtál!",
+      "exampleHu": "Köszönöm a hívást!",
       "image": "thanks_calling.webp"
     },
     {
@@ -155,10 +155,10 @@
     },
     {
       "id": "basicExpression-020",
-      "hungarian": "hozhatok valamit?",
+      "hungarian": "hozhatok neked valamit?",
       "english": "can I get you something?",
       "example": "Can I get you something to drink?",
-      "exampleHu": "Hozhatok valamit inni?",
+      "exampleHu": "Hozhatok neked valamit inni?",
       "image": "can_I_get.webp"
     },
     {
@@ -179,10 +179,10 @@
     },
     {
       "id": "basicExpression-023",
-      "hungarian": "nincs mit",
+      "hungarian": "nem probléma",
       "english": "no problem",
       "example": "No problem, I can help you.",
-      "exampleHu": "Nincs mit, tudok segíteni.",
+      "exampleHu": "Nem probléma, tudok neked segíteni.",
       "image": "no_problem.webp"
     },
     {
@@ -222,7 +222,7 @@
       "hungarian": "gratulálok",
       "english": "congratulations",
       "example": "Congratulations on your promotion!",
-      "exampleHu": "Gratulálok az előléptetéshez!",
+      "exampleHu": "Gratulálok az előléptetésedhez!",
       "image": "congratulations.webp"
     },
     {

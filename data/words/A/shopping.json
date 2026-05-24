@@ -14,7 +14,7 @@
             "hungarian": "pénztárgép",
             "english": "cash register",
             "example": "The cashier opened the cash register to give me my change.",
-            "exampleHu": "A pénztáros kinyitotta a pénztárgépet, hogy visszaadja a visszajárót.",
+            "exampleHu": "A pénztáros kinyitotta a pénztárgépet, hogy visszaadja a visszajárómat.",
             "image": "cash_register.webp"
         },
         {
@@ -30,7 +30,7 @@
             "hungarian": "kedvezmény",
             "english": "discount",
             "example": "They gave me a 10% discount on the shoes.",
-            "exampleHu": "10% kedvezményt adtak nekem a cipőkre.",
+            "exampleHu": "Adtak nekem 10% kedvezményt a cipőkre.",
             "image": "discount.webp"
         },
         {
@@ -54,7 +54,7 @@
             "hungarian": "bevásárlás",
             "english": "shopping",
             "example": "I enjoy shopping on weekends.",
-            "exampleHu": "Szeretem a hétvégi bevásárlást.",
+            "exampleHu": "Élvezem a hétvégi bevásárlást.",
             "image": "shopping.webp"
         },
         {
@@ -70,7 +70,7 @@
             "hungarian": "nyugta",
             "english": "receipt",
             "example": "Please keep your receipt for returns.",
-            "exampleHu": "Kérjük, őrizze meg a nyugtát a visszavitelhez.",
+            "exampleHu": "Kérjük, őrizze meg a nyugtát a visszaküldéshez.",
             "image": "receipt.webp"
         },
         {
@@ -83,10 +83,10 @@
         },
         {
             "id": "shopping-011",
-            "hungarian": "boltvezető",
+            "hungarian": "üzletvezető",
             "english": "store manager",
             "example": "The store manager helped me find the right size.",
-            "exampleHu": "A boltvezető segített megtalálni a megfelelő méretet.",
+            "exampleHu": "Az üzletvezető segített nekem megtalálni a megfelelő méretet.",
             "image": "store_manager.webp"
         },
         {
@@ -94,7 +94,7 @@
             "hungarian": "vásárló",
             "english": "customer",
             "example": "The customer asked for a price check.",
-            "exampleHu": "A vásárló árvizsgálatot kért.",
+            "exampleHu": "A vásárló árellenőrzést kért.",
             "image": "customer.webp"
         },
         {
@@ -102,7 +102,7 @@
             "hungarian": "polc",
             "english": "shelf",
             "example": "The products were neatly arranged on the shelves.",
-            "exampleHu": "A termékek szépen voltak elrendezve a polcokon.",
+            "exampleHu": "A termékek rendesen voltak elrendezve a polcokon.",
             "image": "shelf.webp"
         },
         {
@@ -110,7 +110,7 @@
             "hungarian": "kosár",
             "english": "basket",
             "example": "I carried a basket while shopping.",
-            "exampleHu": "Vittem magammal kosarat vásárlás közben.",
+            "exampleHu": "Vittem magammal egy kosarat vásárlás közben.",
             "image": "basket.webp"
         },
         {
@@ -139,10 +139,10 @@
         },
         {
             "id": "shopping-018",
-            "hungarian": "akció",
+            "hungarian": "kiárusítás",
             "english": "sale",
             "example": "There is a big sale this weekend.",
-            "exampleHu": "Nagy akció lesz ezen a hétvégén.",
+            "exampleHu": "Nagy kiárusítás lesz ezen a hétvégén.",
             "image": "sale.webp"
         },
         {
@@ -150,7 +150,7 @@
             "hungarian": "árcédula",
             "english": "price tag",
             "example": "Check the price tag before buying.",
-            "exampleHu": "Ellenőrizze az árcédulát vásárlás előtt.",
+            "exampleHu": "Ellenőrizze az árcédulát a megvétel előtt.",
             "image": "price_tag.webp"
         },
         {
@@ -238,7 +238,7 @@
             "hungarian": "szállítás",
             "english": "delivery",
             "example": "The delivery arrived earlier than expected.",
-            "exampleHu": "A szállítás hamarabb megérkezett, mint vártam.",
+            "exampleHu": "A szállítás a vártnál hamarabb megérkezett.",
             "image": "delivery.webp"
         }
     ]
